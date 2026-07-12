@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T02:08:42",
+  "last_updated": "2026-07-12T05:33:28",
   "html": {
     "https://web.archive.org/web/20260606081311if_/https://twitter.com/Mercyvxv/status/2063172334379524402": {
       "status": "done",
@@ -688,31 +688,31 @@
       "last_updated": "2026-07-12T01:51:12"
     },
     "https://pbs.twimg.com/media/HKMn_ZJbsAAdAh2.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260610072808_twitter_com_Mercyvxv_status_2064610552450883906.json"
       ],
-      "last_updated": "2026-07-12T02:07:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610072808im_/https://pbs.twimg.com/media/HKMn_ZJbsAAdAh2.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7faa1d8c6810>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-12T05:33:21",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260610072808/https://pbs.twimg.com/media/HKMn_ZJbsAAdAh2.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HKMn_ZGa8AAk1_y.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260610072808_twitter_com_Mercyvxv_status_2064610552450883906.json"
       ],
-      "last_updated": "2026-07-12T02:07:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610072808if_/https://pbs.twimg.com/media/HKMn_ZGa8AAk1_y.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7faa1d8c5700>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-12T05:33:25",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260610072808/https://pbs.twimg.com/media/HKMn_ZGa8AAk1_y.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HKMn_Y4aEAEogTW.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260610072808_twitter_com_Mercyvxv_status_2064610552450883906.json"
       ],
-      "last_updated": "2026-07-12T02:07:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610072808im_/https://pbs.twimg.com/media/HKMn_Y4aEAEogTW.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7faa1d8c6de0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-07-12T05:33:28",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260610072808/https://pbs.twimg.com/media/HKMn_Y4aEAEogTW.jpg",
+      "miss_count": 5
     },
     "https://pbs.twimg.com/media/HKb0qEzbMAA6MLK.jpg": {
       "status": "done",
@@ -743,13 +743,13 @@
       "last_updated": "2026-07-12T01:51:13"
     },
     "https://pbs.twimg.com/media/HMSUGAvaUAAVvOO.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260703075856_twitter_com_Mercyvxv_status_2072953221065351341.json"
       ],
-      "last_updated": "2026-07-12T02:07:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260703075856im_/https://pbs.twimg.com/media/HMSUGAvaUAAVvOO.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7faa1d883f50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-12T05:33:19",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260703075856/https://pbs.twimg.com/media/HMSUGAvaUAAVvOO.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HMS0vyYa8AE7uuS.jpg": {
       "status": "done",
@@ -760,13 +760,13 @@
       "last_updated": "2026-07-12T01:51:13"
     },
     "https://pbs.twimg.com/media/HMT7pzgaAAAmwn7.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260703145700_twitter_com_Mercyvxv_status_2073058432069095804.json"
       ],
-      "last_updated": "2026-07-12T02:08:00",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260703145700im_/https://pbs.twimg.com/media/HMT7pzgaAAAmwn7.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7faa1c11d040>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-12T05:33:20",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260703145700/https://pbs.twimg.com/media/HMT7pzgaAAAmwn7.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HMT9lxsa0AIKIaA.jpg": {
       "status": "done",
@@ -2245,7 +2245,8 @@
           "https://pbs.twimg.com/profile_images/2049458499038666752/PiDuhaBS_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T02:08:35"
+      "last_updated": "2026-07-12T05:33:16",
+      "miss_count": 1
     },
     "20260610042417_twitter_com_Mercyvxv_status_2064564285137998331.json": {
       "status": "done",
@@ -2488,7 +2489,8 @@
           "https://pbs.twimg.com/profile_images/2057483065837207552/9bYYyodb_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T02:08:39"
+      "last_updated": "2026-07-12T05:33:16",
+      "miss_count": 1
     },
     "20260610051034_twitter_com_Mercyvxv_status_2064575928760783307.json": {
       "status": "done",
@@ -2600,7 +2602,8 @@
           "https://pbs.twimg.com/profile_images/2061104910989754368/CTjZJP-E_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T02:08:42"
+      "last_updated": "2026-07-12T05:33:16",
+      "miss_count": 1
     },
     "20260610054913_twitter_com_Mercyvxv_status_2064585657910231150.json": {
       "status": "done",
@@ -2756,7 +2759,7 @@
       "last_updated": "2026-07-12T01:51:49"
     },
     "20260610072808_twitter_com_Mercyvxv_status_2064610552450883906.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HKMn_ZJbsAAdAh2.jpg",
@@ -2771,7 +2774,7 @@
           "https://pbs.twimg.com/profile_images/2063453768226836480/_nRosshY_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T01:56:30",
+      "last_updated": "2026-07-12T05:33:28",
       "miss_count": 2
     },
     "20260610072907_twitter_com_Mercyvxv_status_2064610796563546180.json": {
@@ -3030,7 +3033,7 @@
       "last_updated": "2026-07-12T01:51:48"
     },
     "20260703075856_twitter_com_Mercyvxv_status_2072953221065351341.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HMSUGAvaUAAVvOO.jpg"
@@ -3040,7 +3043,7 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T02:07:55"
+      "last_updated": "2026-07-12T05:33:19"
     },
     "20260703082602_twitter_com_Mercyvxv_status_2072960042643730471.json": {
       "status": "done",
@@ -3283,7 +3286,7 @@
       "last_updated": "2026-07-12T01:51:49"
     },
     "20260703145700_twitter_com_Mercyvxv_status_2073058432069095804.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HMT7pzgaAAAmwn7.jpg"
@@ -3293,7 +3296,7 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T02:08:00"
+      "last_updated": "2026-07-12T05:33:20"
     },
     "20260703150528_twitter_com_Mercyvxv_status_2073060561756307829.json": {
       "status": "done",
