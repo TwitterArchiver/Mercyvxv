@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T01:56:17",
+  "last_updated": "2026-07-12T01:56:30",
   "html": {
     "https://web.archive.org/web/20260606081311if_/https://twitter.com/Mercyvxv/status/2063172334379524402": {
       "status": "done",
@@ -796,7 +796,7 @@
       "referenced_by": [
         "20260610072808_twitter_com_Mercyvxv_status_2064610552450883906.json"
       ],
-      "last_updated": "2026-07-12T01:51:35"
+      "last_updated": "2026-07-12T01:56:30"
     }
   },
   "avatars": {
@@ -2771,8 +2771,8 @@
           "https://pbs.twimg.com/profile_images/2063453768226836480/_nRosshY_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T01:56:12",
-      "miss_count": 1
+      "last_updated": "2026-07-12T01:56:30",
+      "miss_count": 2
     },
     "20260610072907_twitter_com_Mercyvxv_status_2064610796563546180.json": {
       "status": "done",
