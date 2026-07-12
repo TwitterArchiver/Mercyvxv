@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064204985320325120"
+      ],
+      "media_source_tweet_id": [
+        "2064204996682637599"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2064588783107047811",
+    "created_at": "2026-06-10T06:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064588783107047811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1720585683184857088",
+          "start": 3,
+          "username": "xiaoqi3377"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GDK1pRSfYo",
+          "end": 47,
+          "expanded_url": "https://x.com/xiaoqi3377/status/2064204996682637599/photo/1",
+          "media_key": "3_2064204985320325120",
+          "start": 24,
+          "url": "https://t.co/GDK1pRSfYo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064588783107047811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064204996682637599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoqi3377: 用尽全力爱我吧 https://t.co/GDK1pRSfYo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_2064204985320325120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWHf12bwAAdCHv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064204985320325120"
+          ],
+          "media_source_tweet_id": [
+            "2064204996682637599"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2064588783107047811",
+        "created_at": "2026-06-10T06:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064588783107047811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1720585683184857088",
+              "start": 3,
+              "username": "xiaoqi3377"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GDK1pRSfYo",
+              "end": 47,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2064204996682637599/photo/1",
+              "media_key": "3_2064204985320325120",
+              "start": 24,
+              "url": "https://t.co/GDK1pRSfYo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064588783107047811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064204996682637599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoqi3377: 用尽全力爱我吧 https://t.co/GDK1pRSfYo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064204985320325120"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2064204996682637599",
+        "created_at": "2026-06-09T04:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064204996682637599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GDK1pRSfYo",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2064204996682637599/photo/1",
+              "media_key": "3_2064204985320325120",
+              "start": 8,
+              "url": "https://t.co/GDK1pRSfYo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064204996682637599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3014,
+          "like_count": 194,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "用尽全力爱我吧 https://t.co/GDK1pRSfYo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "我复活了。互fo私信 出普瑞dpt",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 186,
+          "like_count": 312,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 81
+        },
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 165,
+          "like_count": 645,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 494
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

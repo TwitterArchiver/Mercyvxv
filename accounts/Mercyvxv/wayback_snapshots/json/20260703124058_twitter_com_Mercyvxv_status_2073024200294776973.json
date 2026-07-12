@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2073024200294776973",
+    "created_at": "2026-07-03T12:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073024200294776973"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073024200294776973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "将麻药注入体内，据说这样便可得到幸福。\n我又该期望如何得到幸福，依靠奇迹取得的明天却吞噬了自由。\n梦中似曾相识的所谓理想乡我是永远无法进入的。都是我的错，全部都是我的错。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2073024200294776973",
+        "created_at": "2026-07-03T12:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073024200294776973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073024200294776973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "将麻药注入体内，据说这样便可得到幸福。\n我又该期望如何得到幸福，依靠奇迹取得的明天却吞噬了自由。\n梦中似曾相识的所谓理想乡我是永远无法进入的。都是我的错，全部都是我的错。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "我复活了。发病日记。\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 208,
+          "like_count": 410,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

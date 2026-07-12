@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2072940193083265329",
+    "created_at": "2026-07-03T07:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T08:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072940193083265329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mercyvxv/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/mercyvxv/status/2072931781553303618",
+          "start": 15,
+          "url": "https://t.co/U0XgjbTxnH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072940193083265329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072931781553303618",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "家人们帮我转转推可以吗谢谢） https://t.co/U0XgjbTxnH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2072940193083265329",
+        "created_at": "2026-07-03T07:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072940193083265329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mercyvxv/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/mercyvxv/status/2072931781553303618",
+              "start": 15,
+              "url": "https://t.co/U0XgjbTxnH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072940193083265329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072931781553303618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "家人们帮我转转推可以吗谢谢） https://t.co/U0XgjbTxnH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2072931781553303618",
+        "created_at": "2026-07-03T06:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072931781553303618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072931781553303618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我复活了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "我复活了。发病日记。\n\nenby，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 187,
+          "like_count": 391,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

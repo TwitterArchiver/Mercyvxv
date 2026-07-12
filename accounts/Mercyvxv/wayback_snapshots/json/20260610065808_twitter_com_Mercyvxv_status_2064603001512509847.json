@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1285702479426945024",
+          "name": "Special effects"
+        }
+      }
+    ],
+    "conversation_id": "2064603001512509847",
+    "created_at": "2026-06-10T06:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064603001512509847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mila5cqm/statu…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/mila5cqm/status/2064545149305176528",
+          "start": 29,
+          "url": "https://t.co/IwV9TNwytO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064603001512509847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064545149305176528",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的....割腕死不掉 血会这样流一段时间然后就不流了😿 https://t.co/IwV9TNwytO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11075,
+        "height": 1280,
+        "media_key": "13_2064545087921487872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064545087921487872/img/e-8w_DZy4X5pHnX0.jpg",
+        "public_metrics": {
+          "view_count": 133
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064545087921487872/vid/avc1/320x568/FBhz9z2yYHljkxJA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064545087921487872/vid/avc1/480x852/UCXxcHXxg8_nyvCL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064545087921487872/vid/avc1/720x1280/f9Aq9V-cN6kCmHZf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064545087921487872/pl/P7f2os1yAU6-3Pom.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064545087913115648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKa80avWwAAEVnY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285702479426945024",
+              "name": "Special effects"
+            }
+          }
+        ],
+        "conversation_id": "2064603001512509847",
+        "created_at": "2026-06-10T06:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064603001512509847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mila5cqm/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/mila5cqm/status/2064545149305176528",
+              "start": 29,
+              "url": "https://t.co/IwV9TNwytO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064603001512509847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064545149305176528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的....割腕死不掉 血会这样流一段时间然后就不流了😿 https://t.co/IwV9TNwytO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064545087921487872",
+            "3_2064545087913115648"
+          ]
+        },
+        "author_id": "2064524029701025792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285702479426945024",
+              "name": "Special effects"
+            }
+          }
+        ],
+        "conversation_id": "2064545149305176528",
+        "created_at": "2026-06-10T03:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064545149305176528"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "shed"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "fake"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "sfx"
+            },
+            {
+              "end": 75,
+              "start": 60,
+              "tag": "specialeffects"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A8WvTU5oJh",
+              "end": 99,
+              "expanded_url": "https://x.com/mila5cqm/status/2064545149305176528/video/1",
+              "media_key": "13_2064545087921487872",
+              "start": 76,
+              "url": "https://t.co/A8WvTU5oJh"
+            },
+            {
+              "display_url": "pic.x.com/A8WvTU5oJh",
+              "end": 99,
+              "expanded_url": "https://x.com/mila5cqm/status/2064545149305176528/video/1",
+              "media_key": "3_2064545087913115648",
+              "start": 76,
+              "url": "https://t.co/A8WvTU5oJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064545149305176528",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 187,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "I do sfx makeup and this is all fake!! :)) #shed #fake #sfx #specialeffects https://t.co/A8WvTU5oJh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "我复活了。互fo私信 出普瑞dpt",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 190,
+          "like_count": 341,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 89
+        },
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T01:44:54.000Z",
+        "description": "do not report all fake",
+        "id": "2064524029701025792",
+        "name": "mila",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064525326747602944/oT_miVDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 30,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "mila5cqm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2063895315623911796",
+    "created_at": "2026-06-08T08:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063895315623911796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mercyvxv/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/mercyvxv/status/2063892520761999542",
+          "start": 24,
+          "url": "https://t.co/Q0my9NVzVZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063895315623911796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063892520761999542",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "生物妈说我这是最后一次自杀了 严禁再有下一次， https://t.co/Q0my9NVzVZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2063895315623911796",
+        "created_at": "2026-06-08T08:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063895315623911796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mercyvxv/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/mercyvxv/status/2063892520761999542",
+              "start": 24,
+              "url": "https://t.co/Q0my9NVzVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063895315623911796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063892520761999542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生物妈说我这是最后一次自杀了 严禁再有下一次， https://t.co/Q0my9NVzVZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2063892520761999542",
+        "created_at": "2026-06-08T07:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063892520761999542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063892520761999542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想死。。。谁能给我个活着的理由..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "我复活了。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 129,
+          "like_count": 55,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

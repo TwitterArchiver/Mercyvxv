@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063208034097405952"
+      ],
+      "media_source_tweet_id": [
+        "2063208102619762786"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2064270981150175575",
+    "created_at": "2026-06-09T08:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064270981150175575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1xUmqIE7xF",
+          "end": 32,
+          "expanded_url": "https://x.com/kxschoolCN/status/2063208102619762786/video/1",
+          "media_key": "13_2063208034097405952",
+          "start": 9,
+          "url": "https://t.co/1xUmqIE7xF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064270981150175575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁能给我炫耀炫耀 https://t.co/1xUmqIE7xF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63375,
+        "height": 1280,
+        "media_key": "13_2063208034097405952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063208034097405952/img/r4YATDfvWvxQaWHP.jpg",
+        "public_metrics": {
+          "view_count": 305
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063208034097405952/vid/avc1/320x568/XfRzo3BTJE-xBIxG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063208034097405952/vid/avc1/480x852/CO4NUMJrpm1J6cU3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063208034097405952/vid/avc1/720x1280/DqnaNJmTtkFz56w2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063208034097405952/pl/p9TXrFJX1hqkU93g.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063208034097405952"
+          ],
+          "media_source_tweet_id": [
+            "2063208102619762786"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2064270981150175575",
+        "created_at": "2026-06-09T08:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064270981150175575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xUmqIE7xF",
+              "end": 32,
+              "expanded_url": "https://x.com/kxschoolCN/status/2063208102619762786/video/1",
+              "media_key": "13_2063208034097405952",
+              "start": 9,
+              "url": "https://t.co/1xUmqIE7xF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064270981150175575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能给我炫耀炫耀 https://t.co/1xUmqIE7xF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "我复活了。互fo私信 出普瑞dpt",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 141,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

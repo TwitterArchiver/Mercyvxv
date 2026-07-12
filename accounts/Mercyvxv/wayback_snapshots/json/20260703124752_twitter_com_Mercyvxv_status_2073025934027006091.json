@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2072953221065351341",
+    "created_at": "2026-07-03T12:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073025934027006091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1526250791404982273",
+          "start": 0,
+          "username": "drinktoblackout"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073025934027006091",
+    "in_reply_to_user_id": "1526250791404982273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073024228191092834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drinktoblackout 不可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2072953221065351341",
+        "created_at": "2026-07-03T12:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073025934027006091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1526250791404982273",
+              "start": 0,
+              "username": "drinktoblackout"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073025934027006091",
+        "in_reply_to_user_id": "1526250791404982273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073024228191092834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drinktoblackout 不可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526250791404982273",
+        "conversation_id": "2072953221065351341",
+        "created_at": "2026-07-03T12:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073024228191092834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073024228191092834",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072953221065351341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 老公可以弯一下吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "我复活了。发病日记。\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 208,
+          "like_count": 411,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T17:19:00.000Z",
+        "description": "🈚️",
+        "id": "1526250791404982273",
+        "name": "半生瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1526854643501998081/ktLgYvCm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 287,
+          "like_count": 875,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 878
+        },
+        "url": "",
+        "username": "drinktoblackout",
+        "verified": false
+      }
+    ]
+  }
+}

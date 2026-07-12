@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072980461568323585"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2072980468744765809",
+    "created_at": "2026-07-03T09:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072980468744765809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wXNDbhrYj8",
+          "end": 43,
+          "expanded_url": "https://x.com/Mercyvxv/status/2072980468744765809/photo/1",
+          "media_key": "3_2072980461568323585",
+          "start": 20,
+          "url": "https://t.co/wXNDbhrYj8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072980468744765809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "由于钱都用来买度品了求好心人救济谢谢😭 https://t.co/wXNDbhrYj8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2072980461568323585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMS0vyYa8AE7uuS.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072980461568323585"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2072980468744765809",
+        "created_at": "2026-07-03T09:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072980468744765809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXNDbhrYj8",
+              "end": 43,
+              "expanded_url": "https://x.com/Mercyvxv/status/2072980468744765809/photo/1",
+              "media_key": "3_2072980461568323585",
+              "start": 20,
+              "url": "https://t.co/wXNDbhrYj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072980468744765809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于钱都用来买度品了求好心人救济谢谢😭 https://t.co/wXNDbhrYj8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "我复活了。发病日记。\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 204,
+          "like_count": 397,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

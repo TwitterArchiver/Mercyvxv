@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2064629592250577128",
+    "created_at": "2026-06-10T08:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064629592250577128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1687566770763071489",
+          "start": 3,
+          "username": "Olebe179131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064629592250577128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064377701407019083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Olebe179131: 好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2064629592250577128",
+        "created_at": "2026-06-10T08:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064629592250577128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1687566770763071489",
+              "start": 3,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064629592250577128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064377701407019083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Olebe179131: 好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687566770763071489",
+        "conversation_id": "2064377701407019083",
+        "created_at": "2026-06-09T16:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064377701407019083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064377701407019083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 671,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了\n好想磕药，我快要死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "我复活了。互fo私信 出普瑞dpt",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 197,
+          "like_count": 387,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 101
+        },
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/精神不稳定/百合厨/二次元/已老实各位老公老婆主人求求了不要举报我喵！/玩很多二游:方舟(蒂厨)终末地(汤汤厨)重返未来1999(百合全磕，笔友组99)崩铁(阿那克萨戈拉斯单推，夏雅99)还玩蔚蓝档案和碧蓝航线\n欢迎互fo",
+        "id": "1687566770763071489",
+        "name": "多柔比星(RIP)",
+        "pinned_tweet_id": "2045366449938878769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064394042474127360/d50sSA2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 566,
+          "like_count": 29725,
+          "listed_count": 0,
+          "media_count": 997,
+          "tweet_count": 3434
+        },
+        "username": "Olebe179131",
+        "verified": false
+      }
+    ]
+  }
+}

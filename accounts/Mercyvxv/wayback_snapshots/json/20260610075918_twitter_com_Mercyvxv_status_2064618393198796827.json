@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064362471545319424"
+      ],
+      "media_source_tweet_id": [
+        "2064362476431688049"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2064618393198796827",
+    "created_at": "2026-06-10T07:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064618393198796827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1821012445177245696",
+          "start": 3,
+          "username": "koi_imoto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KPC4cxKzoa",
+          "end": 38,
+          "expanded_url": "https://x.com/koi_imoto/status/2064362476431688049/photo/1",
+          "media_key": "3_2064362471545319424",
+          "start": 15,
+          "url": "https://t.co/KPC4cxKzoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064618393198796827",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 213
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064362476431688049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koi_imoto: https://t.co/KPC4cxKzoa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064362471545319424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYWuvwbMAAJoYO.jpg",
+        "width": 1382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064362471545319424"
+          ],
+          "media_source_tweet_id": [
+            "2064362476431688049"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2064618393198796827",
+        "created_at": "2026-06-10T07:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064618393198796827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1821012445177245696",
+              "start": 3,
+              "username": "koi_imoto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KPC4cxKzoa",
+              "end": 38,
+              "expanded_url": "https://x.com/koi_imoto/status/2064362476431688049/photo/1",
+              "media_key": "3_2064362471545319424",
+              "start": 15,
+              "url": "https://t.co/KPC4cxKzoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064618393198796827",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 213
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064362476431688049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koi_imoto: https://t.co/KPC4cxKzoa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064362471545319424"
+          ]
+        },
+        "author_id": "1821012445177245696",
+        "conversation_id": "2064362476431688049",
+        "created_at": "2026-06-09T15:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064362476431688049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KPC4cxKzoa",
+              "end": 23,
+              "expanded_url": "https://x.com/koi_imoto/status/2064362476431688049/photo/1",
+              "media_key": "3_2064362471545319424",
+              "start": 0,
+              "url": "https://t.co/KPC4cxKzoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064362476431688049",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 10417,
+          "like_count": 1893,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 213
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KPC4cxKzoa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "我复活了。互fo私信 出普瑞dpt",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 196,
+          "like_count": 371,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 97
+        },
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T02:37:01.000Z",
+        "description": "死なんでほしいなー",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/lwcf50jgnlfs3w…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/lwcf50jgnlfs3ws?t=94mCoN&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/ME00w8cJgm"
+              }
+            ]
+          }
+        },
+        "id": "1821012445177245696",
+        "name": "いもと",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060779065737654272/B7JQ6ymS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 27,
+          "like_count": 2138,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 548
+        },
+        "url": "https://t.co/ME00w8cJgm",
+        "username": "koi_imoto",
+        "verified": false
+      }
+    ]
+  }
+}

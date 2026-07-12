@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2072953221065351341",
+    "created_at": "2026-07-03T08:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072960042643730471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2040743460349603840",
+          "start": 0,
+          "username": "Akano0318"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072960042643730471",
+    "in_reply_to_user_id": "2040743460349603840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072957699445375311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akano0318 真的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2072953221065351341",
+        "created_at": "2026-07-03T08:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072960042643730471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2040743460349603840",
+              "start": 0,
+              "username": "Akano0318"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072960042643730471",
+        "in_reply_to_user_id": "2040743460349603840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072957699445375311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akano0318 真的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040743460349603840",
+        "conversation_id": "2072953221065351341",
+        "created_at": "2026-07-03T08:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072957699445375311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072957699445375311",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072953221065351341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 真的假的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "我复活了。发病日记。\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 201,
+          "like_count": 394,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T10:49:50.000Z",
+        "description": "请放心食用 誕生日3.18 intp IP宜昌 我有雙向情感障礙症 日常碎碎念 乞討 偶爾自拍 線下查無此人 喜歡哲學 音樂 od 動漫 galgame 歡迎入🚪",
+        "id": "2040743460349603840",
+        "location": "American Canyon, CA",
+        "name": "曖昧事故💕",
+        "pinned_tweet_id": "2050513425307218115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041579568730140673/_w7dmmTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 13,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "Akano0318",
+        "verified": false
+      }
+    ]
+  }
+}
