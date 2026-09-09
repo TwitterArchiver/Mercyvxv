@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2079757208305455470",
+    "created_at": "2026-07-22T02:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T03:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079757208305455470"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 34,
+          "tag": "オリジナル振付"
+        },
+        {
+          "end": 48,
+          "start": 43,
+          "tag": "すばひび"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1593214863643320321",
+          "start": 3,
+          "username": "minazuki_usagi"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "display_url": "youtu.be/FEZvP9dJzvo?si…",
+          "end": 83,
+          "expanded_url": "https://youtu.be/FEZvP9dJzvo?si=qs7QCR6bGsQzvLUo",
+          "images": [
+            {
+              "height": 360,
+              "url": "https://pbs.twimg.com/news_img/2079207377178644480/4_V7oDcL?format=jpg&name=orig",
+              "width": 480
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2079207377178644480/4_V7oDcL?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 60,
+          "status": 200,
+          "title": "空気力学少女と少年の詩-踊ってみた　【オリジナル振付】",
+          "unwound_url": "https://www.youtube.com/watch?si=qs7QCR6bGsQzvLUo&v=FEZvP9dJzvo&feature=youtu.be",
+          "url": "https://t.co/PzF4XMuRoA"
+        },
+        {
+          "description": "-, 视频播放量 1575、弹幕量 0、点赞数 326、投硬币枚数 83、收藏人数 80、转发人数 16, 视频作者 宇宙兔的说, 作者简介 qq群979642980（行程 直播通知） 会在微店「幽灵黑洞电波」贩售拍立得 合作请私信ʢ˶ᵒ ᵕ ˂˶ʡᶻ ，相关视频：Dummy Romance（虚假浪漫/空壳恋爱）【原创编舞】喜欢就是喜欢♡，【素晴らしき日々】在那片天空下的最后一舞。/少女レイ。，【米淅饼】 極楽浄土 / 还原十年前的衣装 【踊ってみた】，在广偶o从二楼视角看「冠菊」是什么体验【浅汐☆】，[草手书]去桃源乡，galgame也可以有原创编舞！/巧克甜恋2op-ときめき·Decoration【宇宙兔】，【素晴日op】｜宅舞翻跳｜回归天空之作！！！，7.20回归天空...，【WOTA】空気力学少女と少年の詩 | 7.20素晴日企划——7月20号，回归天空，夏季大三角在夜空中闪耀——，在BW现场cos水上由岐跳了「櫻ノ詩」【原创即兴编舞】",
+          "display_url": "b23.tv/58O7vo1",
+          "end": 117,
+          "expanded_url": "https://b23.tv/58O7vo1",
+          "images": [
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2079207389858037760/WSKbELkg?format=png&name=orig",
+              "width": 100
+            },
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2079207389858037760/WSKbELkg?format=png&name=150x150",
+              "width": 100
+            }
+          ],
+          "start": 94,
+          "status": 200,
+          "title": "【原创编舞】素晴日op-空气力学少女与少年的诗_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1H1K26SEci/?buvid=Z4487C4E8BCFCD6047ACAA2E348A0BA95116&from_spmid=main.space.0.0&is_story_h5=false&mid=uDrw67%2B5P47w%2BdmAvAJicw%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=CCE732E4-8943-4584-B7A7-B4C9A0447C1E&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1784556541&unique_k=58O7vo1&up_id=7182093",
+          "url": "https://t.co/3xhkpSmEkq"
+        },
+        {
+          "display_url": "t.co/vIhsXJZY",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/vIhsXJZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079757208305455470",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079207375085650251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minazuki_usagi: 「空気力学少女と少年の詩」\n#オリジナル振付\n#すばひび　\n\n𝒀𝒐𝒖𝑻𝒖𝒃𝒆  https://t.co/PzF4XMuRoA\n𝒃𝒊𝒍𝒊𝒃𝒊𝒍𝒊  https://t.co/3xhkpSmEkq https://t.co/vIhsXJZY…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30834,
+        "height": 690,
+        "media_key": "13_2079207275357716480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079207275357716480/img/vO1XIRe4m77Zqa-Z.jpg",
+        "public_metrics": {
+          "view_count": 6408
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079207275357716480/vid/avc1/500x270/14qQduL70_MMv95l.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079207275357716480/vid/avc1/666x360/ulrQeWofpYjU9z0j.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079207275357716480/vid/avc1/1280x690/vDksKs0-jWmXjphO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079207275357716480/pl/4uXDABvXf_PVb608.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2079757208305455470",
+        "created_at": "2026-07-22T02:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T03:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079757208305455470"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 34,
+              "tag": "オリジナル振付"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "すばひび"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1593214863643320321",
+              "start": 3,
+              "username": "minazuki_usagi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/FEZvP9dJzvo?si…",
+              "end": 83,
+              "expanded_url": "https://youtu.be/FEZvP9dJzvo?si=qs7QCR6bGsQzvLUo",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2079207377178644480/4_V7oDcL?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079207377178644480/4_V7oDcL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 60,
+              "status": 200,
+              "title": "空気力学少女と少年の詩-踊ってみた　【オリジナル振付】",
+              "unwound_url": "https://www.youtube.com/watch?si=qs7QCR6bGsQzvLUo&v=FEZvP9dJzvo&feature=youtu.be",
+              "url": "https://t.co/PzF4XMuRoA"
+            },
+            {
+              "description": "-, 视频播放量 1575、弹幕量 0、点赞数 326、投硬币枚数 83、收藏人数 80、转发人数 16, 视频作者 宇宙兔的说, 作者简介 qq群979642980（行程 直播通知） 会在微店「幽灵黑洞电波」贩售拍立得 合作请私信ʢ˶ᵒ ᵕ ˂˶ʡᶻ ，相关视频：Dummy Romance（虚假浪漫/空壳恋爱）【原创编舞】喜欢就是喜欢♡，【素晴らしき日々】在那片天空下的最后一舞。/少女レイ。，【米淅饼】 極楽浄土 / 还原十年前的衣装 【踊ってみた】，在广偶o从二楼视角看「冠菊」是什么体验【浅汐☆】，[草手书]去桃源乡，galgame也可以有原创编舞！/巧克甜恋2op-ときめき·Decoration【宇宙兔】，【素晴日op】｜宅舞翻跳｜回归天空之作！！！，7.20回归天空...，【WOTA】空気力学少女と少年の詩 | 7.20素晴日企划——7月20号，回归天空，夏季大三角在夜空中闪耀——，在BW现场cos水上由岐跳了「櫻ノ詩」【原创即兴编舞】",
+              "display_url": "b23.tv/58O7vo1",
+              "end": 117,
+              "expanded_url": "https://b23.tv/58O7vo1",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2079207389858037760/WSKbELkg?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2079207389858037760/WSKbELkg?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 94,
+              "status": 200,
+              "title": "【原创编舞】素晴日op-空气力学少女与少年的诗_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1H1K26SEci/?buvid=Z4487C4E8BCFCD6047ACAA2E348A0BA95116&from_spmid=main.space.0.0&is_story_h5=false&mid=uDrw67%2B5P47w%2BdmAvAJicw%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=CCE732E4-8943-4584-B7A7-B4C9A0447C1E&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1784556541&unique_k=58O7vo1&up_id=7182093",
+              "url": "https://t.co/3xhkpSmEkq"
+            },
+            {
+              "display_url": "t.co/vIhsXJZY",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/vIhsXJZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079757208305455470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079207375085650251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minazuki_usagi: 「空気力学少女と少年の詩」\n#オリジナル振付\n#すばひび　\n\n𝒀𝒐𝒖𝑻𝒖𝒃𝒆  https://t.co/PzF4XMuRoA\n𝒃𝒊𝒍𝒊𝒃𝒊𝒍𝒊  https://t.co/3xhkpSmEkq https://t.co/vIhsXJZY…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079207275357716480"
+          ]
+        },
+        "author_id": "1593214863643320321",
+        "conversation_id": "2079207375085650251",
+        "created_at": "2026-07-20T14:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079207375085650251"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 14,
+              "tag": "オリジナル振付"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "すばひび"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/FEZvP9dJzvo?si…",
+              "end": 63,
+              "expanded_url": "https://youtu.be/FEZvP9dJzvo?si=qs7QCR6bGsQzvLUo",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2079207377178644480/4_V7oDcL?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079207377178644480/4_V7oDcL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "空気力学少女と少年の詩-踊ってみた　【オリジナル振付】",
+              "unwound_url": "https://www.youtube.com/watch?si=qs7QCR6bGsQzvLUo&v=FEZvP9dJzvo&feature=youtu.be",
+              "url": "https://t.co/PzF4XMuRoA"
+            },
+            {
+              "description": "-, 视频播放量 1575、弹幕量 0、点赞数 326、投硬币枚数 83、收藏人数 80、转发人数 16, 视频作者 宇宙兔的说, 作者简介 qq群979642980（行程 直播通知） 会在微店「幽灵黑洞电波」贩售拍立得 合作请私信ʢ˶ᵒ ᵕ ˂˶ʡᶻ ，相关视频：Dummy Romance（虚假浪漫/空壳恋爱）【原创编舞】喜欢就是喜欢♡，【素晴らしき日々】在那片天空下的最后一舞。/少女レイ。，【米淅饼】 極楽浄土 / 还原十年前的衣装 【踊ってみた】，在广偶o从二楼视角看「冠菊」是什么体验【浅汐☆】，[草手书]去桃源乡，galgame也可以有原创编舞！/巧克甜恋2op-ときめき·Decoration【宇宙兔】，【素晴日op】｜宅舞翻跳｜回归天空之作！！！，7.20回归天空...，【WOTA】空気力学少女と少年の詩 | 7.20素晴日企划——7月20号，回归天空，夏季大三角在夜空中闪耀——，在BW现场cos水上由岐跳了「櫻ノ詩」【原创即兴编舞】",
+              "display_url": "b23.tv/58O7vo1",
+              "end": 97,
+              "expanded_url": "https://b23.tv/58O7vo1",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2079207389858037760/WSKbELkg?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2079207389858037760/WSKbELkg?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 74,
+              "status": 200,
+              "title": "【原创编舞】素晴日op-空气力学少女与少年的诗_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1H1K26SEci/?buvid=Z4487C4E8BCFCD6047ACAA2E348A0BA95116&from_spmid=main.space.0.0&is_story_h5=false&mid=uDrw67%2B5P47w%2BdmAvAJicw%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=CCE732E4-8943-4584-B7A7-B4C9A0447C1E&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1784556541&unique_k=58O7vo1&up_id=7182093",
+              "url": "https://t.co/3xhkpSmEkq"
+            },
+            {
+              "display_url": "pic.x.com/vIhsXJZYT1",
+              "end": 121,
+              "expanded_url": "https://x.com/minazuki_usagi/status/2079207375085650251/video/1",
+              "media_key": "13_2079207275357716480",
+              "start": 98,
+              "url": "https://t.co/vIhsXJZYT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079207375085650251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 17599,
+          "like_count": 594,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "「空気力学少女と少年の詩」\n#オリジナル振付\n#すばひび　\n\n𝒀𝒐𝒖𝑻𝒖𝒃𝒆  https://t.co/PzF4XMuRoA\n𝒃𝒊𝒍𝒊𝒃𝒊𝒍𝒊  https://t.co/3xhkpSmEkq https://t.co/vIhsXJZYT1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 424,
+          "like_count": 2997,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1050
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T12:10:09.000Z",
+        "description": "兎です、コスプレと振付してます🐰中文＞日本語＞English | 周边贩售在微店「幽灵黑洞电波」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/3448758404",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/3448758404",
+                "start": 0,
+                "url": "https://t.co/M46lpNuPuv"
+              }
+            ]
+          }
+        },
+        "id": "1593214863643320321",
+        "location": "ブラックホールの地獄",
+        "name": "宇宙兎です",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064001475395846144/jS3eS7v3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14582,
+          "following_count": 1312,
+          "like_count": 1184,
+          "listed_count": 47,
+          "media_count": 95,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/M46lpNuPuv",
+        "username": "minazuki_usagi",
+        "verified": false
+      }
+    ]
+  }
+}

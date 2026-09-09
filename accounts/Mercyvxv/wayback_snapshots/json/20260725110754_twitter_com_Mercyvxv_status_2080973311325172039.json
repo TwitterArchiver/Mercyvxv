@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2080971563323834624",
+    "created_at": "2026-07-25T11:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080973311325172039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1477257510482739202",
+          "start": 0,
+          "username": "mmmmmmm19810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080973311325172039",
+    "in_reply_to_user_id": "1477257510482739202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080973132136169599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmmmmmm19810 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080971563323834624",
+        "created_at": "2026-07-25T11:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080973311325172039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1477257510482739202",
+              "start": 0,
+              "username": "mmmmmmm19810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080973311325172039",
+        "in_reply_to_user_id": "1477257510482739202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080973132136169599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmmmmmm19810 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477257510482739202",
+        "conversation_id": "2080971563323834624",
+        "created_at": "2026-07-25T11:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080973132136169599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080973132136169599",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080971563323834624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 一整盒巴氯芬小心癫痫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 449,
+          "like_count": 3867,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1396
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T12:37:26.000Z",
+        "description": "精卫进修中，LGBTQ+友好，政治立场中立，不键证不骂人",
+        "id": "1477257510482739202",
+        "name": "罗拉💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074822160829542400/VT0gas5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 766,
+          "like_count": 40530,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 366
+        },
+        "url": "",
+        "username": "mmmmmmm19810",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2080869950563193143",
+    "created_at": "2026-07-25T22:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T23:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081143254695965125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2073051735065862144",
+          "start": 0,
+          "username": "ow4nf8kl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081143254695965125",
+    "in_reply_to_user_id": "2073051735065862144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081054192748421482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ow4nf8kl 抱抱宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080869950563193143",
+        "created_at": "2026-07-25T22:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T23:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081143254695965125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2073051735065862144",
+              "start": 0,
+              "username": "ow4nf8kl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081143254695965125",
+        "in_reply_to_user_id": "2073051735065862144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081054192748421482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ow4nf8kl 抱抱宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073051735065862144",
+        "conversation_id": "2080869950563193143",
+        "created_at": "2026-07-25T16:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081054192748421482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081054192748421482",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 658,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080869950563193143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 我真的他妈逼好痛苦，我真的都快气死了，而且呢，根本就没钱买裙子 他妈逼的上学要硬逼着自己上，我到现在都没去过一次医院 他妈唯一吃的药还被禁了😂 放假了就天天在家里蹲被对象冷暴力，我都他妈快疯了 也没钱出去 活得像个乐子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 449,
+          "like_count": 3932,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1417
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-03T14:31:10.000Z",
+        "description": "一个自作自受的乐子",
+        "id": "2073051735065862144",
+        "name": "なゆき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073144675477913600/su9lTQkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 674,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "ow4nf8kl",
+        "verified": false
+      }
+    ]
+  }
+}

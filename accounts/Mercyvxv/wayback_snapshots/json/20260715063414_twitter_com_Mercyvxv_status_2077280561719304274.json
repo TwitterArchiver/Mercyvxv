@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077146822888374272"
+      ],
+      "media_source_tweet_id": [
+        "2077147546783223966"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077280561719304274",
+    "created_at": "2026-07-15T06:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077280561719304274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963675645151424512",
+          "start": 3,
+          "username": "sneg9623"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BFSgTcbUXq",
+          "end": 71,
+          "expanded_url": "https://x.com/sneg9623/status/2077147546783223966/video/1",
+          "media_key": "13_2077146822888374272",
+          "start": 48,
+          "url": "https://t.co/BFSgTcbUXq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077280561719304274",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4074
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077147546783223966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sneg9623: Definitely not what it looks like https://t.co/BFSgTcbUXq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5366,
+        "height": 1080,
+        "media_key": "13_2077146822888374272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077146822888374272/img/WibbJP6ZuPTIniLg.jpg",
+        "public_metrics": {
+          "view_count": 369206
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077146822888374272/pl/Zozl7bgiEDrNTwLO.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077146822888374272/vid/avc1/540x540/5R8J1rkJID7CfloY.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077146822888374272/vid/avc1/720x720/D2Kero5YRLgxM4uj.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077146822888374272/vid/avc1/320x320/vfJbptnNkGtpzT2g.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077146822888374272/vid/avc1/1080x1080/u-wdXvTWTVZMhsRI.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077146822888374272"
+          ],
+          "media_source_tweet_id": [
+            "2077147546783223966"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077280561719304274",
+        "created_at": "2026-07-15T06:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077280561719304274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963675645151424512",
+              "start": 3,
+              "username": "sneg9623"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BFSgTcbUXq",
+              "end": 71,
+              "expanded_url": "https://x.com/sneg9623/status/2077147546783223966/video/1",
+              "media_key": "13_2077146822888374272",
+              "start": 48,
+              "url": "https://t.co/BFSgTcbUXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077280561719304274",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4074
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077147546783223966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sneg9623: Definitely not what it looks like https://t.co/BFSgTcbUXq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077146822888374272"
+          ]
+        },
+        "author_id": "1963675645151424512",
+        "conversation_id": "2077147546783223966",
+        "created_at": "2026-07-14T21:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T22:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077147546783223966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BFSgTcbUXq",
+              "end": 57,
+              "expanded_url": "https://x.com/sneg9623/status/2077147546783223966/video/1",
+              "media_key": "13_2077146822888374272",
+              "start": 34,
+              "url": "https://t.co/BFSgTcbUXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077147546783223966",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6567,
+          "impression_count": 617980,
+          "like_count": 52956,
+          "quote_count": 52,
+          "reply_count": 150,
+          "retweet_count": 4074
+        },
+        "reply_settings": "everyone",
+        "text": "Definitely not what it looks like https://t.co/BFSgTcbUXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 297,
+          "like_count": 1046,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T18:49:37.000Z",
+        "description": "(ノಠ益ಠ)ノ彡┻━┻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/snegovski",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/snegovski",
+                "start": 0,
+                "url": "https://t.co/zkLk976fx7"
+              }
+            ]
+          }
+        },
+        "id": "1963675645151424512",
+        "name": "Snegovski🐍",
+        "pinned_tweet_id": "2024943794085331121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964707822165172224/0KB-IgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166935,
+          "following_count": 110,
+          "like_count": 6821,
+          "listed_count": 431,
+          "media_count": 156,
+          "tweet_count": 722
+        },
+        "url": "https://t.co/zkLk976fx7",
+        "username": "sneg9623",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2078360821986742518",
+    "created_at": "2026-07-18T06:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078360821986742518"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "女性力量"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1008615379885670400",
+          "start": 3,
+          "username": "zhinarensml8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078360821986742518",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077713497425920295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhinarensml8964: 妓娜媎\n＃女性力量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2078360821986742518",
+        "created_at": "2026-07-18T06:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078360821986742518"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "女性力量"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1008615379885670400",
+              "start": 3,
+              "username": "zhinarensml8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078360821986742518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077713497425920295",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhinarensml8964: 妓娜媎\n＃女性力量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1008615379885670400",
+        "conversation_id": "2077713497425920295",
+        "created_at": "2026-07-16T11:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077713497425920295"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "女性力量"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077713497425920295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 12756,
+          "like_count": 357,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "妓娜媎\n＃女性力量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 338,
+          "like_count": 2010,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 709
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-18T07:40:20.000Z",
+        "description": "已复活，勿忘我",
+        "id": "1008615379885670400",
+        "location": "731无害化东北狗中心",
+        "name": "大統領_official",
+        "pinned_tweet_id": "2077314942500520231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077662712512053248/WH5g9QeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 1117,
+          "like_count": 49192,
+          "listed_count": 6,
+          "media_count": 738,
+          "tweet_count": 4790
+        },
+        "url": "",
+        "username": "zhinarensml8964",
+        "verified": false
+      }
+    ]
+  }
+}

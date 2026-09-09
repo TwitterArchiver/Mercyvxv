@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077655520341598208"
+      ],
+      "media_source_tweet_id": [
+        "2077655663640023320"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2077668016557609461",
+    "created_at": "2026-07-16T08:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T09:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077668016557609461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057552254463291393",
+          "start": 3,
+          "username": "6De_dian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MfEMr1HGYM",
+          "end": 60,
+          "expanded_url": "https://x.com/6De_dian/status/2077655663640023320/photo/1",
+          "media_key": "3_2077655520341598208",
+          "start": 37,
+          "url": "https://t.co/MfEMr1HGYM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077668016557609461",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077655663640023320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @6De_dian: 哦不。。\n所以用外文真的比老钟文安全很多啊… https://t.co/MfEMr1HGYM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077655520341598208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVQsBeXIAA2EEq.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077655520341598208"
+          ],
+          "media_source_tweet_id": [
+            "2077655663640023320"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2077668016557609461",
+        "created_at": "2026-07-16T08:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077668016557609461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057552254463291393",
+              "start": 3,
+              "username": "6De_dian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfEMr1HGYM",
+              "end": 60,
+              "expanded_url": "https://x.com/6De_dian/status/2077655663640023320/photo/1",
+              "media_key": "3_2077655520341598208",
+              "start": 37,
+              "url": "https://t.co/MfEMr1HGYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077668016557609461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077655663640023320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @6De_dian: 哦不。。\n所以用外文真的比老钟文安全很多啊… https://t.co/MfEMr1HGYM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077655520341598208"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "conversation_id": "2077655663640023320",
+        "created_at": "2026-07-16T07:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077655663640023320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfEMr1HGYM",
+              "end": 46,
+              "expanded_url": "https://x.com/6De_dian/status/2077655663640023320/photo/1",
+              "media_key": "3_2077655520341598208",
+              "start": 23,
+              "url": "https://t.co/MfEMr1HGYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077655663640023320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哦不。。\n所以用外文真的比老钟文安全很多啊… https://t.co/MfEMr1HGYM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 309,
+          "like_count": 1462,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 547
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱着：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 426,
+          "like_count": 10004,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1816
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

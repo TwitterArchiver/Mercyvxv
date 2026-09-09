@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079262528534650880"
+      ],
+      "media_source_tweet_id": [
+        "2079262858529960385"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079398295898828991",
+    "created_at": "2026-07-21T02:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079398295898828991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2036054805148536832",
+          "start": 3,
+          "username": "natsukashiinaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MZUC16ig4c",
+          "end": 43,
+          "expanded_url": "https://x.com/natsukashiinaa/status/2079262858529960385/video/1",
+          "media_key": "13_2079262528534650880",
+          "start": 20,
+          "url": "https://t.co/MZUC16ig4c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079398295898828991",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 368
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079262858529960385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @natsukashiinaa: https://t.co/MZUC16ig4c"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10500,
+        "height": 720,
+        "media_key": "13_2079262528534650880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079262528534650880/img/6xNBcNlLrcP-OUg3.jpg",
+        "public_metrics": {
+          "view_count": 25947
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079262528534650880/vid/avc1/320x320/GQ3oGOc_leDyxhFN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079262528534650880/vid/avc1/540x540/XKu8IjP1jZOv_Rhv.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079262528534650880/vid/avc1/720x720/uKpqo8qBqVjvdHGZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079262528534650880/pl/FqIi0RGJaMWL7JkW.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079262528534650880"
+          ]
+        },
+        "author_id": "2036054805148536832",
+        "conversation_id": "2079262858529960385",
+        "created_at": "2026-07-20T17:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079262858529960385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZUC16ig4c",
+              "end": 23,
+              "expanded_url": "https://x.com/natsukashiinaa/status/2079262858529960385/video/1",
+              "media_key": "13_2079262528534650880",
+              "start": 0,
+              "url": "https://t.co/MZUC16ig4c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079262858529960385",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 621,
+          "impression_count": 63547,
+          "like_count": 3745,
+          "quote_count": 9,
+          "reply_count": 11,
+          "retweet_count": 368
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MZUC16ig4c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079262528534650880"
+          ],
+          "media_source_tweet_id": [
+            "2079262858529960385"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079398295898828991",
+        "created_at": "2026-07-21T02:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079398295898828991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2036054805148536832",
+              "start": 3,
+              "username": "natsukashiinaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZUC16ig4c",
+              "end": 43,
+              "expanded_url": "https://x.com/natsukashiinaa/status/2079262858529960385/video/1",
+              "media_key": "13_2079262528534650880",
+              "start": 20,
+              "url": "https://t.co/MZUC16ig4c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079398295898828991",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 368
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079262858529960385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @natsukashiinaa: https://t.co/MZUC16ig4c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 405,
+          "like_count": 2702,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 919
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T12:18:10.000Z",
+        "description": "",
+        "id": "2036054805148536832",
+        "name": "𝙽𝚊𝚝𝚜𝚞𝚔𝚊𝚜𝚑𝚒𝚒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036149558808653824/cOrF1jW2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15867,
+          "following_count": 441,
+          "like_count": 1555,
+          "listed_count": 46,
+          "media_count": 549,
+          "tweet_count": 571
+        },
+        "url": "",
+        "username": "natsukashiinaa",
+        "verified": true
+      }
+    ]
+  }
+}

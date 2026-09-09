@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2076152708332171592",
+    "created_at": "2026-07-13T16:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076702881701609558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011793328988438531",
+          "start": 0,
+          "username": "angelkawaii011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076702881701609558",
+    "in_reply_to_user_id": "2011793328988438531",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076701824137171202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaii011 药物好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2076152708332171592",
+        "created_at": "2026-07-13T16:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076702881701609558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011793328988438531",
+              "start": 0,
+              "username": "angelkawaii011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076702881701609558",
+        "in_reply_to_user_id": "2011793328988438531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076701824137171202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii011 药物好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011793328988438531",
+        "conversation_id": "2076152708332171592",
+        "created_at": "2026-07-13T16:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076701824137171202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076701824137171202",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076152708332171592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 和药结婚太好了 药是不会离开你的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 283,
+          "like_count": 683,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T13:31:28.000Z",
+        "description": "健健康康地爱人 健健康康地被爱",
+        "id": "2011793328988438531",
+        "name": "01全否定bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071500253220487168/1EMgAIdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 141,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "angelkawaii011",
+        "verified": false
+      }
+    ]
+  }
+}

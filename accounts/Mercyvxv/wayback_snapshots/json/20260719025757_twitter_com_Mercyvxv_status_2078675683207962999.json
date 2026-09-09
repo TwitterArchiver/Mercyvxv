@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078520012843982848"
+      ],
+      "media_source_tweet_id": [
+        "2078520018195902512"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2078675683207962999",
+    "created_at": "2026-07-19T02:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T03:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078675683207962999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2019494132759293953",
+          "start": 3,
+          "username": "_nxvz1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8CmbjEYGBz",
+          "end": 35,
+          "expanded_url": "https://x.com/_nxvz1/status/2078520018195902512/photo/1",
+          "media_key": "3_2078520012843982848",
+          "start": 12,
+          "url": "https://t.co/8CmbjEYGBz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078675683207962999",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078520018195902512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @_nxvz1: https://t.co/8CmbjEYGBz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2002,
+        "media_key": "3_2078520012843982848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhi8HAbIAA2gB-.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078520012843982848"
+          ]
+        },
+        "author_id": "2019494132759293953",
+        "conversation_id": "2078520018195902512",
+        "created_at": "2026-07-18T16:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078520018195902512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8CmbjEYGBz",
+              "end": 23,
+              "expanded_url": "https://x.com/_nxvz1/status/2078520018195902512/photo/1",
+              "media_key": "3_2078520012843982848",
+              "start": 0,
+              "url": "https://t.co/8CmbjEYGBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078520018195902512",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 37442,
+          "like_count": 1739,
+          "quote_count": 19,
+          "reply_count": 7,
+          "retweet_count": 136
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/8CmbjEYGBz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078520012843982848"
+          ],
+          "media_source_tweet_id": [
+            "2078520018195902512"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2078675683207962999",
+        "created_at": "2026-07-19T02:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078675683207962999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2019494132759293953",
+              "start": 3,
+              "username": "_nxvz1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8CmbjEYGBz",
+              "end": 35,
+              "expanded_url": "https://x.com/_nxvz1/status/2078520018195902512/photo/1",
+              "media_key": "3_2078520012843982848",
+              "start": 12,
+              "url": "https://t.co/8CmbjEYGBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078675683207962999",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078520018195902512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @_nxvz1: https://t.co/8CmbjEYGBz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 363,
+          "like_count": 2214,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 767
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T19:31:52.000Z",
+        "description": "251 @slwepybunny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "slwepybunny"
+              }
+            ]
+          }
+        },
+        "id": "2019494132759293953",
+        "name": "あ",
+        "pinned_tweet_id": "2058096947278602610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078128052761137152/8nVvsxUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 14,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "_nxvz1",
+        "verified": false
+      }
+    ]
+  }
+}

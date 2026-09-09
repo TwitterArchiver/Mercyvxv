@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2080895283987468348",
+    "created_at": "2026-07-25T22:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T23:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081142809483227376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2077975360151617536",
+          "start": 0,
+          "username": "7jyfk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081142809483227376",
+    "in_reply_to_user_id": "2077975360151617536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081047651433480426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7jyfk 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080895283987468348",
+        "created_at": "2026-07-25T22:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T23:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081142809483227376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2077975360151617536",
+              "start": 0,
+              "username": "7jyfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081142809483227376",
+        "in_reply_to_user_id": "2077975360151617536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081047651433480426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7jyfk 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077975360151617536",
+        "conversation_id": "2080895283987468348",
+        "created_at": "2026-07-25T16:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081047651433480426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081047651433480426",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080895283987468348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 449,
+          "like_count": 3929,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1415
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-17T04:35:42.000Z",
+        "description": "",
+        "id": "2077975360151617536",
+        "name": "刀刀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077975936730021888/GjQkBxwH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "7jyfk",
+        "verified": false
+      }
+    ]
+  }
+}

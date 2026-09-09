@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2079377115187921122",
+    "created_at": "2026-07-21T03:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079406641452302644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1800072059214598144",
+          "start": 0,
+          "username": "bnli270777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079406641452302644",
+    "in_reply_to_user_id": "1800072059214598144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079377115187921122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bnli270777 可爱+血腥一起画！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2079377115187921122",
+        "created_at": "2026-07-21T03:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079406641452302644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800072059214598144",
+              "start": 0,
+              "username": "bnli270777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079406641452302644",
+        "in_reply_to_user_id": "1800072059214598144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079377115187921122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnli270777 可爱+血腥一起画！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800072059214598144",
+        "conversation_id": "2079377115187921122",
+        "created_at": "2026-07-21T01:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079377115187921122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bnli270777/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/bnli270777/status/2078793437512626524",
+              "start": 16,
+              "url": "https://t.co/aiJUkWYo7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079377115187921122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078793437512626524",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦不 我需要一个非常客观的选择 https://t.co/aiJUkWYo7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 407,
+          "like_count": 2715,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 925
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T07:47:09.000Z",
+        "description": "God Dammit//🇨🇳 🇺🇸 🇲🇲通用                    \n                     10后            \n                                                                 外语回复都是翻译器",
+        "id": "1800072059214598144",
+        "location": "Kowloon City District",
+        "name": "U-M",
+        "pinned_tweet_id": "2053865036775579942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017680406246834176/QRkjw3E-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2568,
+          "following_count": 53,
+          "like_count": 2160,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 675
+        },
+        "url": "",
+        "username": "bnli270777",
+        "verified": false
+      }
+    ]
+  }
+}

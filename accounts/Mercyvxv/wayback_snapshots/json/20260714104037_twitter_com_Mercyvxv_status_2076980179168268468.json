@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2076919586780516596",
+    "created_at": "2026-07-14T10:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076980179168268468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1528077789944946688",
+          "start": 0,
+          "username": "ZaoNaJang_"
+        },
+        {
+          "end": 23,
+          "id": "1841626911228780545",
+          "start": 12,
+          "username": "kujou_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076980179168268468",
+    "in_reply_to_user_id": "1528077789944946688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076979158329225328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaoNaJang_ @kujou_king 😂我哪像你一样张嘴鸡巴闭口逼的一样性压抑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2076919586780516596",
+        "created_at": "2026-07-14T10:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076980179168268468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1528077789944946688",
+              "start": 0,
+              "username": "ZaoNaJang_"
+            },
+            {
+              "end": 23,
+              "id": "1841626911228780545",
+              "start": 12,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076980179168268468",
+        "in_reply_to_user_id": "1528077789944946688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076979158329225328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaoNaJang_ @kujou_king 😂我哪像你一样张嘴鸡巴闭口逼的一样性压抑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528077789944946688",
+        "conversation_id": "2076919586780516596",
+        "created_at": "2026-07-14T10:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076979158329225328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            },
+            {
+              "end": 21,
+              "id": "1841626911228780545",
+              "start": 10,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076979158329225328",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076976568212361228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv @kujou_king 黑骷髅☠️的阴道 你是很想舔 怎么护主 你是大泰迪啊 孩子  你主人给你发逼照了吗 给你撸了吗 傻孩子 你母亲遭受到攻击 我也不见得你挺身而出 看来你很性压抑 🙊🙊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 286,
+          "like_count": 845,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 294
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T18:18:39.000Z",
+        "description": "",
+        "id": "1528077789944946688",
+        "location": "Shanghai",
+        "name": "泷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070506528361349120/XdWllLDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 3,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "ZaoNaJang_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "中国人别骂我了，我最喜欢中国人了，女孩都回fo的（请直接告诉我），",
+        "id": "1841626911228780545",
+        "location": "没有🚪不加V不扩列不要问了",
+        "name": "🧸猪圈的传说愛莉莎🍺",
+        "pinned_tweet_id": "1871831076504735759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074828437475430400/3AkBvFn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2522,
+          "following_count": 344,
+          "like_count": 5270,
+          "listed_count": 20,
+          "media_count": 62,
+          "tweet_count": 2198
+        },
+        "url": "",
+        "username": "kujou_king",
+        "verified": false
+      }
+    ]
+  }
+}

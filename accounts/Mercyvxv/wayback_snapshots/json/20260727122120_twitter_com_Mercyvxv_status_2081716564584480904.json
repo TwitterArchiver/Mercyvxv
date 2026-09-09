@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2081713081479233962",
+    "created_at": "2026-07-27T12:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081716564584480904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934448761406935042",
+          "start": 0,
+          "username": "Ajs_aya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081716564584480904",
+    "in_reply_to_user_id": "1934448761406935042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081716335567163406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ajs_aya 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2081713081479233962",
+        "created_at": "2026-07-27T12:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081716564584480904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934448761406935042",
+              "start": 0,
+              "username": "Ajs_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081716564584480904",
+        "in_reply_to_user_id": "1934448761406935042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081716335567163406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajs_aya 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934448761406935042",
+        "conversation_id": "2081713081479233962",
+        "created_at": "2026-07-27T12:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081716335567163406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081716335567163406",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081715587710112225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 464,
+          "like_count": 4404,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1618
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T03:11:47.000Z",
+        "description": "@Ajs_ririka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Ajs_ririka"
+              }
+            ]
+          }
+        },
+        "id": "1934448761406935042",
+        "name": "Aya",
+        "pinned_tweet_id": "2079820684918730837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078014243144962048/Ch5fSIYH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 58,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "Ajs_aya",
+        "verified": false
+      }
+    ]
+  }
+}

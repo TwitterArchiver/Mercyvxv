@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2081840825970069853",
+    "created_at": "2026-07-28T05:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081976489214628276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1406996057678966784",
+          "start": 0,
+          "username": "samomo20010403"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081976489214628276",
+    "in_reply_to_user_id": "1406996057678966784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081974501143937106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samomo20010403 害怕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1137,
+        "media_key": "3_2081974494923776000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSoxbla4AAS6mD.jpg",
+        "width": 1262
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2081840825970069853",
+        "created_at": "2026-07-28T05:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081976489214628276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1406996057678966784",
+              "start": 0,
+              "username": "samomo20010403"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081976489214628276",
+        "in_reply_to_user_id": "1406996057678966784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081974501143937106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samomo20010403 害怕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081974494923776000"
+          ]
+        },
+        "author_id": "1406996057678966784",
+        "conversation_id": "2081840825970069853",
+        "created_at": "2026-07-28T05:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081974501143937106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E30b7As6zy",
+              "end": 43,
+              "expanded_url": "https://x.com/samomo20010403/status/2081974501143937106/photo/1",
+              "media_key": "3_2081974494923776000",
+              "start": 20,
+              "url": "https://t.co/E30b7As6zy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081974501143937106",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081840825970069853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 捅死你捅死你捅死你 https://t.co/E30b7As6zy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 472,
+          "like_count": 4602,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1721
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T15:23:07.000Z",
+        "description": "给我喝哈基米",
+        "id": "1406996057678966784",
+        "name": "Eaburices`天宫院澪🇨🇳🇯🇵🇰🇷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081744535542218752/iHrecnlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 914,
+          "like_count": 258,
+          "listed_count": 6,
+          "media_count": 111,
+          "tweet_count": 696
+        },
+        "url": "",
+        "username": "samomo20010403",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2079582481217618260",
+    "created_at": "2026-07-22T00:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T01:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079719098439921887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2078277656412581889",
+          "start": 0,
+          "username": "WXX0530"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079719098439921887",
+    "in_reply_to_user_id": "2078277656412581889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079641870393856016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WXX0530 好😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2079582481217618260",
+        "created_at": "2026-07-22T00:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079719098439921887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2078277656412581889",
+              "start": 0,
+              "username": "WXX0530"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079719098439921887",
+        "in_reply_to_user_id": "2078277656412581889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079641870393856016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WXX0530 好😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078277656412581889",
+        "conversation_id": "2079582481217618260",
+        "created_at": "2026-07-21T18:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079641870393856016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079641870393856016",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079582481217618260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 不，你不要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 421,
+          "like_count": 2921,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1026
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-18T00:37:34.000Z",
+        "description": "一個04年大學生/看好主頁封面圖判定我為男女/167cm/64kg/精神狀態未知/無敵社恐/喜歡寂靜/Delta Force/有過應激行為（少）/磕藥/歡迎大家來我主頁玩",
+        "id": "2078277656412581889",
+        "location": "China Taiwan",
+        "name": "Fiona",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078278068293210112/w5w_LNlX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 66,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "WXX0530",
+        "verified": false
+      }
+    ]
+  }
+}

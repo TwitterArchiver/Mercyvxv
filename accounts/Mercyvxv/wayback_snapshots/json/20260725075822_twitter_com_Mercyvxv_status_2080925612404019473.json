@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2080925612404019473",
+    "created_at": "2026-07-25T07:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T08:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080925612404019473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/420420420ctl/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/420420420ctl/status/2080895459577704915",
+          "start": 10,
+          "url": "https://t.co/0konT4V7ff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080925612404019473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080895459577704915",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你这个飞是正经飞吗 https://t.co/0konT4V7ff"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15665,
+        "height": 1080,
+        "media_key": "13_2080892920664891392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080892920664891392/img/wjFVSP4IAsZpfdlc.jpg",
+        "public_metrics": {
+          "view_count": 193
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080892920664891392/vid/avc1/1280x720/NmUTlvTFdCoVLwyf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080892920664891392/vid/avc1/640x360/U8HdeZqRgv27Aw80.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080892920664891392/vid/avc1/480x270/xFh9sX_-N9Qlcv6L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080892920664891392/pl/i6dlJ9MnMF6PwG02.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080892920664891392/vid/avc1/1920x1080/KU-VL-Wj99F6U_7T.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080925612404019473",
+        "created_at": "2026-07-25T07:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080925612404019473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/420420420ctl/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/420420420ctl/status/2080895459577704915",
+              "start": 10,
+              "url": "https://t.co/0konT4V7ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080925612404019473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080895459577704915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你这个飞是正经飞吗 https://t.co/0konT4V7ff"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080892920664891392"
+          ]
+        },
+        "author_id": "1678171777409875968",
+        "conversation_id": "2080895459577704915",
+        "created_at": "2026-07-25T05:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080895459577704915"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 80,
+              "tag": "中国人能飞"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "中国人"
+            },
+            {
+              "end": 97,
+              "start": 92,
+              "tag": "感觉至上"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lw3rzvBvHd",
+              "end": 121,
+              "expanded_url": "https://x.com/420420420CTL/status/2080895459577704915/video/1",
+              "media_key": "13_2080892920664891392",
+              "start": 98,
+              "url": "https://t.co/Lw3rzvBvHd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080895459577704915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 438,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "中国人能飞✈️✈️Listen😎is✊😎CHINAAA!!! ✊i can fly 🚀🚀🚀中国人看见的转🇨🇳🇨🇳 不转的是日本人😡 中文就是飞🚁 黄皮肤才对 👍#中国人能飞 #中国人 #感觉至上 https://t.co/Lw3rzvBvHd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 447,
+          "like_count": 3804,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1369
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "2056029691916713996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018807810830770177/xgp8x96H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4578,
+          "following_count": 704,
+          "like_count": 684,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1157
+        },
+        "url": "",
+        "username": "420420420CTL",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2081571031144333465",
+    "created_at": "2026-07-27T05:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T06:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081608781038022897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2052432401289363456",
+          "start": 0,
+          "username": "hyacinthcxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081608781038022897",
+    "in_reply_to_user_id": "2052432401289363456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081608599655297265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyacinthcxi 剧烈迷糊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2081571031144333465",
+        "created_at": "2026-07-27T05:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081608781038022897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2052432401289363456",
+              "start": 0,
+              "username": "hyacinthcxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081608781038022897",
+        "in_reply_to_user_id": "2052432401289363456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081608599655297265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyacinthcxi 剧烈迷糊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052432401289363456",
+        "conversation_id": "2081571031144333465",
+        "created_at": "2026-07-27T05:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081608599655297265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081608599655297265",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081608169139400995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv （喝光）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 457,
+          "like_count": 4262,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1534
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T17:02:25.000Z",
+        "description": "2009 休学4年 抑郁 ptsd bpd\n前世@camelliacxi @hyacxi\n同类和我互fo喵谢谢你们\n🚪45",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "camelliacxi"
+              },
+              {
+                "end": 44,
+                "start": 37,
+                "username": "hyacxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/camelliacxi",
+                "end": 23,
+                "expanded_url": "http://ngl.link/camelliacxi",
+                "start": 0,
+                "url": "https://t.co/4VLvWURMRv"
+              }
+            ]
+          }
+        },
+        "id": "2052432401289363456",
+        "name": "Hyacinth",
+        "pinned_tweet_id": "2075831905199808582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075683920000225280/TEtE_bCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 17,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/4VLvWURMRv",
+        "username": "hyacinthcxi",
+        "verified": false
+      }
+    ]
+  }
+}

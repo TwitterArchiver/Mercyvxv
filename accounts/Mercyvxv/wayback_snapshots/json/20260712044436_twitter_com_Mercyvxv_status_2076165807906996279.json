@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072911864279834624"
+      ],
+      "media_source_tweet_id": [
+        "2072911870185414686"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076165807906996279",
+    "created_at": "2026-07-12T04:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076165807906996279"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 20,
+          "tag": "suicidetwt"
+        },
+        {
+          "end": 39,
+          "start": 32,
+          "tag": "shtwtt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1982545821817245696",
+          "start": 3,
+          "username": "defensaccortar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HszNgwAsvq",
+          "end": 94,
+          "expanded_url": "https://x.com/defensaccortar/status/2072911870185414686/photo/1",
+          "media_key": "3_2072911864279834624",
+          "start": 71,
+          "url": "https://t.co/HszNgwAsvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076165807906996279",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 734
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072911870185414686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @defensaccortar: #suicidetwt #shtwtt\n\"¿ enserio tanto te afectó ? \" https://t.co/HszNgwAsvq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2072911864279834624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMR2W5kXoAAc4H7.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072911864279834624"
+          ],
+          "media_source_tweet_id": [
+            "2072911870185414686"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076165807906996279",
+        "created_at": "2026-07-12T04:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076165807906996279"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 20,
+              "tag": "suicidetwt"
+            },
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "shtwtt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1982545821817245696",
+              "start": 3,
+              "username": "defensaccortar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HszNgwAsvq",
+              "end": 94,
+              "expanded_url": "https://x.com/defensaccortar/status/2072911870185414686/photo/1",
+              "media_key": "3_2072911864279834624",
+              "start": 71,
+              "url": "https://t.co/HszNgwAsvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076165807906996279",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 734
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072911870185414686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @defensaccortar: #suicidetwt #shtwtt\n\"¿ enserio tanto te afectó ? \" https://t.co/HszNgwAsvq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072911864279834624"
+          ]
+        },
+        "author_id": "1982545821817245696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072911870185414686",
+        "created_at": "2026-07-03T05:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072911870185414686"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "suicidetwt"
+            },
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "shtwtt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HszNgwAsvq",
+              "end": 74,
+              "expanded_url": "https://x.com/defensaccortar/status/2072911870185414686/photo/1",
+              "media_key": "3_2072911864279834624",
+              "start": 51,
+              "url": "https://t.co/HszNgwAsvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072911870185414686",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 18831,
+          "like_count": 1980,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 734
+        },
+        "reply_settings": "everyone",
+        "text": "#suicidetwt #shtwtt\n\"¿ enserio tanto te afectó ? \" https://t.co/HszNgwAsvq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 255,
+          "like_count": 479,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T20:32:38.000Z",
+        "description": "",
+        "id": "1982545821817245696",
+        "name": "kokö ٭",
+        "pinned_tweet_id": "2070987333214818718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075828167441321984/erad6HvO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 147,
+          "like_count": 1245,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 672
+        },
+        "url": "",
+        "username": "defensaccortar",
+        "verified": false
+      }
+    ]
+  }
+}

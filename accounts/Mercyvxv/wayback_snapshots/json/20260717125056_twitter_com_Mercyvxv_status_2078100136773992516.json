@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2078072791979655451",
+    "created_at": "2026-07-17T12:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T13:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078100136773992516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2065677235374432256",
+          "start": 0,
+          "username": "Laph1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078100136773992516",
+    "in_reply_to_user_id": "2065677235374432256",
+    "lang": "is",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078072791979655451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Laph1a hug hug🫂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2078072791979655451].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2078072791979655451",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2078072791979655451"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2078072791979655451",
+        "created_at": "2026-07-17T12:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078100136773992516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2065677235374432256",
+              "start": 0,
+              "username": "Laph1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078100136773992516",
+        "in_reply_to_user_id": "2065677235374432256",
+        "lang": "is",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078072791979655451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Laph1a hug hug🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 328,
+          "like_count": 1759,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 639
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T06:07:25.000Z",
+        "description": "INTP-T ¦ 病み垢 ¦ 哲学 ¦ 退廃 ¦ 快楽 ¦ LG(B)T ¦ ♂︎",
+        "id": "2065677235374432256",
+        "name": "ラフィ",
+        "pinned_tweet_id": "2067416863190249656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077756797981765633/L_EmY597_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 72,
+          "like_count": 830,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1369
+        },
+        "url": "",
+        "username": "Laph1a",
+        "verified": true
+      }
+    ]
+  }
+}

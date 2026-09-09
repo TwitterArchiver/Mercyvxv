@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078179266408181760"
+      ],
+      "media_source_tweet_id": [
+        "2078193014149955995"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2078338086266941917",
+    "created_at": "2026-07-18T04:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078338086266941917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1539805282229960706",
+          "start": 3,
+          "username": "catofsouls"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TkaD9OQKML",
+          "end": 39,
+          "expanded_url": "https://x.com/catofsouls/status/2078193014149955995/video/1",
+          "media_key": "13_2078179266408181760",
+          "start": 16,
+          "url": "https://t.co/TkaD9OQKML"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078338086266941917",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 861
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078193014149955995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @catofsouls: https://t.co/TkaD9OQKML"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5000,
+        "height": 714,
+        "media_key": "13_2078179266408181760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078179266408181760/img/BSyrBdc-bBoTCSjh.jpg",
+        "public_metrics": {
+          "view_count": 26142
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078179266408181760/vid/avc1/272x270/RHb6O-bv1OfG2gcj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078179266408181760/vid/avc1/362x360/q96YXN54awSFwX53.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078179266408181760/vid/avc1/720x714/-vOqGRIG4yDBdpR6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078179266408181760/pl/pWjaucShoth7i1i1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078179266408181760"
+          ]
+        },
+        "author_id": "1539805282229960706",
+        "conversation_id": "2078193014149955995",
+        "created_at": "2026-07-17T19:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078193014149955995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TkaD9OQKML",
+              "end": 23,
+              "expanded_url": "https://x.com/catofsouls/status/2078193014149955995/video/1",
+              "media_key": "13_2078179266408181760",
+              "start": 0,
+              "url": "https://t.co/TkaD9OQKML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078193014149955995",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 572,
+          "impression_count": 101604,
+          "like_count": 5484,
+          "quote_count": 49,
+          "reply_count": 19,
+          "retweet_count": 861
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TkaD9OQKML"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078179266408181760"
+          ],
+          "media_source_tweet_id": [
+            "2078193014149955995"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2078338086266941917",
+        "created_at": "2026-07-18T04:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078338086266941917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1539805282229960706",
+              "start": 3,
+              "username": "catofsouls"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TkaD9OQKML",
+              "end": 39,
+              "expanded_url": "https://x.com/catofsouls/status/2078193014149955995/video/1",
+              "media_key": "13_2078179266408181760",
+              "start": 16,
+              "url": "https://t.co/TkaD9OQKML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078338086266941917",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 861
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078193014149955995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @catofsouls: https://t.co/TkaD9OQKML"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 338,
+          "like_count": 1958,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 685
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-23T02:59:45.000Z",
+        "description": "summons cats",
+        "id": "1539805282229960706",
+        "name": "cat of souls",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074465189399871488/XKHAYuae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146221,
+          "following_count": 2,
+          "like_count": 5397,
+          "listed_count": 286,
+          "media_count": 228,
+          "tweet_count": 3897
+        },
+        "url": "",
+        "username": "catofsouls",
+        "verified": true
+      }
+    ]
+  }
+}

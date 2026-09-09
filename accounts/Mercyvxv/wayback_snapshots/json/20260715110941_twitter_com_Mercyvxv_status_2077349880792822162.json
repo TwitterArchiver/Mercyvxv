@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2077349880792822162",
+    "created_at": "2026-07-15T11:09:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077349880792822162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1595110651621318656",
+          "start": 3,
+          "username": "ProcyonCoke731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077349880792822162",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077055854814376321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ProcyonCoke731: Why don't you Chinks just stick to the Chinese internet? The Communist Party won't even let you use a VPN, but you stil…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2077349880792822162",
+        "created_at": "2026-07-15T11:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077349880792822162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1595110651621318656",
+              "start": 3,
+              "username": "ProcyonCoke731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077349880792822162",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077055854814376321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ProcyonCoke731: Why don't you Chinks just stick to the Chinese internet? The Communist Party won't even let you use a VPN, but you stil…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595110651621318656",
+        "conversation_id": "2077055854814376321",
+        "created_at": "2026-07-14T15:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077055854814376321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077055854814376321",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Why don't you Chinks just stick to the Chinese internet? The Communist Party won't even let you use a VPN, but you still fucking do it anyway. You come out here just to watch porn. Breaking your country's law against using VPNs just for some dick. I can see you're not that patriotic—at least your country isn't as important to you as a dick."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1099,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Why don't you Chinks just stick to the Chinese internet? The Communist Party won't even let you use a VPN, but you still fucking do it anyway. You come out here just to watch porn. Breaking your country's law against using VPNs just for some dick. I can see you're not that"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 298,
+          "like_count": 1155,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T17:43:19.000Z",
+        "description": "直升機駕駛員\n异世界转生号https://t.co/2usdJjOgLk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chaosc…",
+                "end": 36,
+                "expanded_url": "https://bsky.app/profile/chaoscoke731.bsky.social",
+                "start": 13,
+                "url": "https://t.co/2usdJjOgLk"
+              }
+            ]
+          }
+        },
+        "id": "1595110651621318656",
+        "name": "桜桃可乐🇯🇵🌌🌸🍸✝️",
+        "pinned_tweet_id": "1981997572719014169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023258759754080256/8WJDUScr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5672,
+          "following_count": 1196,
+          "like_count": 34547,
+          "listed_count": 63,
+          "media_count": 4147,
+          "tweet_count": 18102
+        },
+        "url": "",
+        "username": "ProcyonCoke731",
+        "verified": true
+      }
+    ]
+  }
+}

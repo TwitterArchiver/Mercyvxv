@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2078713219779268850",
+    "created_at": "2026-07-19T05:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T06:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078713219779268850"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078713219779268850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起来之前自己歌喉 明明把气管都切开了 血呛到气管里窒息 我再过最多三分钟恐怕就昏迷似掉了。但救护车来的就是这么及时。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2078713219779268850",
+        "created_at": "2026-07-19T05:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078713219779268850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078713219779268850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起来之前自己歌喉 明明把气管都切开了 血呛到气管里窒息 我再过最多三分钟恐怕就昏迷似掉了。但救护车来的就是这么及时。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 365,
+          "like_count": 2280,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 796
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

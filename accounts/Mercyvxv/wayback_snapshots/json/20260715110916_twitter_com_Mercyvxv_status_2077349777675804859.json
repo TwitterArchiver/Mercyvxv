@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2077349777675804859",
+    "created_at": "2026-07-15T11:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077349777675804859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ci_shang85157/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ci_shang85157/status/2077322026369560968",
+          "start": 5,
+          "url": "https://t.co/iuq4nWJuql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077349777675804859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077322026369560968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我这辈子 https://t.co/iuq4nWJuql"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2077349777675804859",
+        "created_at": "2026-07-15T11:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077349777675804859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ci_shang85157/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ci_shang85157/status/2077322026369560968",
+              "start": 5,
+              "url": "https://t.co/iuq4nWJuql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077349777675804859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077322026369560968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这辈子 https://t.co/iuq4nWJuql"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2077322026369560968",
+        "created_at": "2026-07-15T09:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077322026369560968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077322026369560968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只想当嗑药的傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 298,
+          "like_count": 1154,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答。  嗯我是男生 不要认错了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 739,
+          "like_count": 24717,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 8898
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

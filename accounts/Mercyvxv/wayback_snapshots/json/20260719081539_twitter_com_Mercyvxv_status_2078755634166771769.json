@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2078755634166771769",
+    "created_at": "2026-07-19T08:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T09:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078755634166771769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jolinlikers/st…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/jolinlikers/status/2078721797055500593",
+          "start": 22,
+          "url": "https://t.co/N3sH3pa0d6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078755634166771769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078721797055500593",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁他妈把这玩意推到我主页上的我要推给你们看 https://t.co/N3sH3pa0d6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12900,
+        "height": 960,
+        "media_key": "13_2078721761848573952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078721761848573952/img/GkrgtsWJLUOAsKkA.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078721761848573952/vid/avc1/320x564/7SJoVdosFLHV9wJ5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078721761848573952/vid/avc1/480x846/FvsQhh7hdqXj4cM2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078721761848573952/vid/avc1/544x960/WDeGdYmIMSGFBSsr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078721761848573952/pl/htTaYkz_GK8wmPRs.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2078755634166771769",
+        "created_at": "2026-07-19T08:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078755634166771769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jolinlikers/st…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/jolinlikers/status/2078721797055500593",
+              "start": 22,
+              "url": "https://t.co/N3sH3pa0d6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078755634166771769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078721797055500593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁他妈把这玩意推到我主页上的我要推给你们看 https://t.co/N3sH3pa0d6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078721761848573952"
+          ]
+        },
+        "author_id": "2008405248579432448",
+        "conversation_id": "2078721797055500593",
+        "created_at": "2026-07-19T06:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078721797055500593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oi0n99VOBg",
+              "end": 35,
+              "expanded_url": "https://x.com/jolinlikers/status/2078721797055500593/video/1",
+              "media_key": "13_2078721761848573952",
+              "start": 12,
+              "url": "https://t.co/Oi0n99VOBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078721797055500593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "md几把好硬 来个骚逼 https://t.co/Oi0n99VOBg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 370,
+          "like_count": 2340,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 813
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T05:08:30.000Z",
+        "description": "",
+        "id": "2008405248579432448",
+        "name": "c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078720628895723520/DEJBJtxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 18,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "jolinlikers",
+        "verified": false
+      }
+    ]
+  }
+}

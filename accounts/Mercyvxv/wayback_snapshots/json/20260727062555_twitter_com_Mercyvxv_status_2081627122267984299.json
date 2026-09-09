@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2081627122267984299",
+    "created_at": "2026-07-27T06:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T07:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081627122267984299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1587351840256974850",
+          "start": 3,
+          "username": "__uninosushi__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081627122267984299",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3336
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081244137597378967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @__uninosushi__: ⠀\n^  ̫^　　&gt; 𖥦 &lt;　　=• . •=　　UwU\n\n˃̶͈ ֊̫ ˂̶͈　　◕ ʜ ◕　　｡⌒ ω ⌒｡\n\n≧ ω ≦　　♡ ﹃ ♡　　ơ.ơ　　ˊℴ⃚⃙⃘ ௰ℴ⃙⃚⃘ ˋ\n\nට  ̫ ට　　ˆ&gt; ₃ &lt;ˆ　　𐐃 ·̫ 𐐃　　＞ω…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2081627122267984299",
+        "created_at": "2026-07-27T06:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081627122267984299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1587351840256974850",
+              "start": 3,
+              "username": "__uninosushi__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081627122267984299",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3336
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081244137597378967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @__uninosushi__: ⠀\n^  ̫^　　&gt; 𖥦 &lt;　　=• . •=　　UwU\n\n˃̶͈ ֊̫ ˂̶͈　　◕ ʜ ◕　　｡⌒ ω ⌒｡\n\n≧ ω ≦　　♡ ﹃ ♡　　ơ.ơ　　ˊℴ⃚⃙⃘ ௰ℴ⃙⃚⃘ ˋ\n\nට  ̫ ට　　ˆ&gt; ₃ &lt;ˆ　　𐐃 ·̫ 𐐃　　＞ω…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587351840256974850",
+        "conversation_id": "2081244137597378967",
+        "created_at": "2026-07-26T05:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081244137597378967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081244137597378967",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11191,
+          "impression_count": 771647,
+          "like_count": 19915,
+          "quote_count": 215,
+          "reply_count": 0,
+          "retweet_count": 3336
+        },
+        "reply_settings": "following",
+        "text": "⠀\n^  ̫^　　&gt; 𖥦 &lt;　　=• . •=　　UwU\n\n˃̶͈ ֊̫ ˂̶͈　　◕ ʜ ◕　　｡⌒ ω ⌒｡\n\n≧ ω ≦　　♡ ﹃ ♡　　ơ.ơ　　ˊℴ⃚⃙⃘ ௰ℴ⃙⃚⃘ ˋ\n\nට  ̫ ට　　ˆ&gt; ₃ &lt;ˆ　　𐐃 ·̫ 𐐃　　＞ω＜/\n\n¯▿¯　　𓏼ᐪ ᵕ ᐪ𓏼　　¯ࡇ¯　　^~^\n\nര  ̫ ര　　′⧿′　　TᴖT　　•̄ ̫ •̄.　　꜏ ˔ ꜊\n⠀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 460,
+          "like_count": 4301,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1556
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-01T07:52:39.000Z",
+        "description": "☁️𓏫 . https://t.co/oPChOc6w4Z ｡ ꒱ྀི  \nᴋᴀᴏᴍᴏᴊɪ￤ᴀᴀ￤ꜱʏᴍʙᴏʟ￤ꜱᴛᴀᴍᴘ ᴀɴᴅᴍᴏʀᴇ ˘𓂂.  ̫ .𓂂˘꜆ꕮ 𝅄 ׂ⭒",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hatarakitakunai.blog",
+                "end": 29,
+                "expanded_url": "https://hatarakitakunai.blog",
+                "start": 6,
+                "url": "https://t.co/oPChOc6w4Z"
+              }
+            ]
+          }
+        },
+        "id": "1587351840256974850",
+        "location": "__ᴜɴɪɴᴏꜱᴜꜱʜɪ__",
+        "name": "ᴜɴɪ.",
+        "pinned_tweet_id": "2078677751717072985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876874312432709632/sCaglIqq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191097,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 526,
+          "media_count": 92,
+          "tweet_count": 1278
+        },
+        "url": "",
+        "username": "__uninosushi__",
+        "verified": false
+      }
+    ]
+  }
+}

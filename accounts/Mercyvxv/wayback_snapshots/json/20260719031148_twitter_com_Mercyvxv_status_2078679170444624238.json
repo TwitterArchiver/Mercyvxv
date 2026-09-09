@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078379010774777856"
+      ],
+      "media_source_tweet_id": [
+        "2078379015598174665"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2078679170444624238",
+    "created_at": "2026-07-19T03:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078679170444624238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1649352789544534016",
+          "start": 3,
+          "username": "4kill_n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4io2Xeve4w",
+          "end": 36,
+          "expanded_url": "https://x.com/4kill_n/status/2078379015598174665/photo/1",
+          "media_key": "3_2078379010774777856",
+          "start": 13,
+          "url": "https://t.co/4io2Xeve4w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078679170444624238",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 213
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078379015598174665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4kill_n: https://t.co/4io2Xeve4w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078379010774777856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfistXbwAAy7zl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078379010774777856"
+          ]
+        },
+        "author_id": "1649352789544534016",
+        "conversation_id": "2078379015598174665",
+        "created_at": "2026-07-18T07:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078379015598174665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4io2Xeve4w",
+              "end": 23,
+              "expanded_url": "https://x.com/4kill_n/status/2078379015598174665/photo/1",
+              "media_key": "3_2078379010774777856",
+              "start": 0,
+              "url": "https://t.co/4io2Xeve4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078379015598174665",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 273,
+          "impression_count": 26152,
+          "like_count": 4032,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 213
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4io2Xeve4w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078379010774777856"
+          ],
+          "media_source_tweet_id": [
+            "2078379015598174665"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2078679170444624238",
+        "created_at": "2026-07-19T03:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078679170444624238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1649352789544534016",
+              "start": 3,
+              "username": "4kill_n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4io2Xeve4w",
+              "end": 36,
+              "expanded_url": "https://x.com/4kill_n/status/2078379015598174665/photo/1",
+              "media_key": "3_2078379010774777856",
+              "start": 13,
+              "url": "https://t.co/4io2Xeve4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078679170444624238",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 213
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078379015598174665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4kill_n: https://t.co/4io2Xeve4w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 363,
+          "like_count": 2226,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 772
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T10:02:12.000Z",
+        "description": "Pinterestに転載してください",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/HT5Z5BBD2SD5?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/jOmjExX5Tj"
+              }
+            ]
+          }
+        },
+        "id": "1649352789544534016",
+        "name": "⁴𝔨𝔦𝔩𝔩",
+        "pinned_tweet_id": "2008491992549126609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017252273949458432/13hmKH95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6358,
+          "following_count": 0,
+          "like_count": 7001,
+          "listed_count": 22,
+          "media_count": 326,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/jOmjExX5Tj",
+        "username": "4kill_n",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076677855388262400"
+      ],
+      "media_source_tweet_id": [
+        "2076677857640661024"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2076993872761352645",
+    "created_at": "2026-07-14T11:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076993872761352645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049968416157466625",
+          "start": 3,
+          "username": "popbrant"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d3PiTgZ7Th",
+          "end": 37,
+          "expanded_url": "https://x.com/popbrant/status/2076677857640661024/photo/1",
+          "media_key": "3_2076677855388262400",
+          "start": 14,
+          "url": "https://t.co/d3PiTgZ7Th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076993872761352645",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1152
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076677857640661024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @popbrant: https://t.co/d3PiTgZ7Th"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2076677855388262400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHXgbtWYAAnj8c.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076677855388262400"
+          ],
+          "media_source_tweet_id": [
+            "2076677857640661024"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2076993872761352645",
+        "created_at": "2026-07-14T11:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076993872761352645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049968416157466625",
+              "start": 3,
+              "username": "popbrant"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3PiTgZ7Th",
+              "end": 37,
+              "expanded_url": "https://x.com/popbrant/status/2076677857640661024/photo/1",
+              "media_key": "3_2076677855388262400",
+              "start": 14,
+              "url": "https://t.co/d3PiTgZ7Th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076993872761352645",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1152
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076677857640661024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @popbrant: https://t.co/d3PiTgZ7Th"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076677855388262400"
+          ]
+        },
+        "author_id": "2049968416157466625",
+        "conversation_id": "2076677857640661024",
+        "created_at": "2026-07-13T14:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076677857640661024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3PiTgZ7Th",
+              "end": 23,
+              "expanded_url": "https://x.com/popbrant/status/2076677857640661024/photo/1",
+              "media_key": "3_2076677855388262400",
+              "start": 0,
+              "url": "https://t.co/d3PiTgZ7Th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076677857640661024",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 283,
+          "impression_count": 54179,
+          "like_count": 4723,
+          "quote_count": 22,
+          "reply_count": 5,
+          "retweet_count": 1152
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/d3PiTgZ7Th"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 286,
+          "like_count": 866,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T21:45:53.000Z",
+        "description": "個人データ:::::: 物質界に忘れられた魂あの世に戻って愛する人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/popbrane",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/popbrane",
+                "start": 0,
+                "url": "https://t.co/dnYwTtET8S"
+              }
+            ]
+          }
+        },
+        "id": "2049968416157466625",
+        "location": "بالزراب",
+        "name": "T3bt3abop2bna2ban2nso2hgo2",
+        "pinned_tweet_id": "2071330391223328834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071266728953462784/BmR_ddVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 71,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/dnYwTtET8S",
+        "username": "popbrant",
+        "verified": false
+      }
+    ]
+  }
+}

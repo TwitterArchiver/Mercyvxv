@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2076163135569113152",
+    "created_at": "2026-07-12T04:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076163135569113152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ruai_0324/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/ruai_0324/status/2075940306546205095",
+          "start": 12,
+          "url": "https://t.co/hxprO7xb46"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076163135569113152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075940306546205095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这都封 msk真神了。 https://t.co/hxprO7xb46"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2075940292038160384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM84smHa8AAz4fY.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2075940300242223104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM84tErbAAAARwb.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2076163135569113152",
+        "created_at": "2026-07-12T04:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076163135569113152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ruai_0324/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/ruai_0324/status/2075940306546205095",
+              "start": 12,
+              "url": "https://t.co/hxprO7xb46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076163135569113152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075940306546205095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这都封 msk真神了。 https://t.co/hxprO7xb46"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075940292038160384",
+            "3_2075940300242223104"
+          ]
+        },
+        "author_id": "2055228634710065152",
+        "conversation_id": "2075940306546205095",
+        "created_at": "2026-07-11T13:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075940306546205095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oEmXNo7sVC",
+              "end": 36,
+              "expanded_url": "https://x.com/Ruai_0324/status/2075940306546205095/photo/1",
+              "media_key": "3_2075940292038160384",
+              "start": 13,
+              "url": "https://t.co/oEmXNo7sVC"
+            },
+            {
+              "display_url": "pic.x.com/oEmXNo7sVC",
+              "end": 36,
+              "expanded_url": "https://x.com/Ruai_0324/status/2075940306546205095/photo/1",
+              "media_key": "3_2075940300242223104",
+              "start": 13,
+              "url": "https://t.co/oEmXNo7sVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075940306546205095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 503,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真是够了 又给我号封了😫 https://t.co/oEmXNo7sVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 254,
+          "like_count": 476,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T10:08:54.000Z",
+        "description": "櫻川由奈的另一個人格Ruai(@xiaoyi_0324)不是多意识体 这样说更戏剧性一些|簡中/繁中|生产于2010年的普通MTF|VibeCoding大手子(什么||可能包含一点碎碎念和负面",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "xiaoyi_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/mApcFzl8Sm"
+              }
+            ]
+          }
+        },
+        "id": "2055228634710065152",
+        "location": "来玩提问箱吧求求你了😭",
+        "name": "Ruai_🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055229295052935168/EYY7LEmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 84,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/mApcFzl8Sm",
+        "username": "Ruai_0324",
+        "verified": true
+      }
+    ]
+  }
+}

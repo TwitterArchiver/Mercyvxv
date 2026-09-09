@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2077472412996948150",
+    "created_at": "2026-07-16T06:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T07:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077635950705091071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011793328988438531",
+          "start": 0,
+          "username": "angelkawaii011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077635950705091071",
+    "in_reply_to_user_id": "2011793328988438531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077634476340064473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaii011 我的大脑一直在自己攻击自己救命啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2077472412996948150",
+        "created_at": "2026-07-16T06:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077635950705091071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011793328988438531",
+              "start": 0,
+              "username": "angelkawaii011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077635950705091071",
+        "in_reply_to_user_id": "2011793328988438531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077634476340064473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii011 我的大脑一直在自己攻击自己救命啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011793328988438531",
+        "conversation_id": "2077472412996948150",
+        "created_at": "2026-07-16T06:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077634476340064473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077634476340064473",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077588689086242858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 完全是哈哈哈哈哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 307,
+          "like_count": 1401,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 528
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T13:31:28.000Z",
+        "description": "健健康康地爱人 健健康康地被爱",
+        "id": "2011793328988438531",
+        "name": "01全否定bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071500253220487168/1EMgAIdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 154,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "angelkawaii011",
+        "verified": false
+      }
+    ]
+  }
+}

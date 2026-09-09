@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2076947945392668815",
+    "created_at": "2026-07-14T08:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T09:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076947945392668815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2041020227681390592",
+          "start": 3,
+          "username": "yumekawaii_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076947945392668815",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076922572483199125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yumekawaii_ai: SSRIで性欲をゼロにすることに成功してから\n俺の人生を見る目が変わった。\n性欲を手放すと素晴らしいものが見えてくる"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2076947945392668815",
+        "created_at": "2026-07-14T08:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076947945392668815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2041020227681390592",
+              "start": 3,
+              "username": "yumekawaii_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076947945392668815",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076922572483199125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yumekawaii_ai: SSRIで性欲をゼロにすることに成功してから\n俺の人生を見る目が変わった。\n性欲を手放すと素晴らしいものが見えてくる"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041020227681390592",
+        "conversation_id": "2076922572483199125",
+        "created_at": "2026-07-14T06:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076922572483199125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076922572483199125",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "SSRIで性欲をゼロにすることに成功してから\n俺の人生を見る目が変わった。\n性欲を手放すと素晴らしいものが見えてくる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 286,
+          "like_count": 802,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T05:11:43.000Z",
+        "description": "日本のHarm ReductionとRecoveryの理解と知識を欧米並みの水準に向上させます。｜ドラッグの文化、薬理、依存症、そして回復",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "truth-light.jp",
+                "end": 23,
+                "expanded_url": "https://www.truth-light.jp/",
+                "start": 0,
+                "url": "https://t.co/TuRdUWcBY6"
+              }
+            ]
+          }
+        },
+        "id": "2041020227681390592",
+        "name": "夢可愛アイ❤️‍🩹",
+        "pinned_tweet_id": "2074884223811588300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048497889421488128/b5tueMch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 34,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/TuRdUWcBY6",
+        "username": "yumekawaii_ai",
+        "verified": true
+      }
+    ]
+  }
+}

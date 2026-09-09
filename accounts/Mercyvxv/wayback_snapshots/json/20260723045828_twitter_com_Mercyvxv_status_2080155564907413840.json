@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080155553838563328"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2080155564907413840",
+    "created_at": "2026-07-23T04:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T05:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080155564907413840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BqOvlDC1vS",
+          "end": 73,
+          "expanded_url": "https://x.com/Mercyvxv/status/2080155564907413840/photo/1",
+          "media_key": "3_2080155553838563328",
+          "start": 50,
+          "url": "https://t.co/BqOvlDC1vS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080155564907413840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚买了三盒巴氯芬想带进精卫结果被护士发现收走了😭我现在真的身无分文了求求好心人给点吧我想抽烟😭感谢 https://t.co/BqOvlDC1vS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2080155553838563328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4ydIAagAApduN.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080155553838563328"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080155564907413840",
+        "created_at": "2026-07-23T04:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080155564907413840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BqOvlDC1vS",
+              "end": 73,
+              "expanded_url": "https://x.com/Mercyvxv/status/2080155564907413840/photo/1",
+              "media_key": "3_2080155553838563328",
+              "start": 50,
+              "url": "https://t.co/BqOvlDC1vS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080155564907413840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚买了三盒巴氯芬想带进精卫结果被护士发现收走了😭我现在真的身无分文了求求好心人给点吧我想抽烟😭感谢 https://t.co/BqOvlDC1vS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 429,
+          "like_count": 3221,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1141
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

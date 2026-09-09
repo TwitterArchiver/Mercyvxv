@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2081571031144333465",
+    "created_at": "2026-07-27T11:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081710962575593486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684425717579227136",
+          "start": 0,
+          "username": "foxneko333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081710962575593486",
+    "in_reply_to_user_id": "1684425717579227136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081665586602680547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foxneko333 在精卫没条件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2081571031144333465",
+        "created_at": "2026-07-27T11:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081710962575593486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684425717579227136",
+              "start": 0,
+              "username": "foxneko333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081710962575593486",
+        "in_reply_to_user_id": "1684425717579227136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081665586602680547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foxneko333 在精卫没条件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684425717579227136",
+        "conversation_id": "2081571031144333465",
+        "created_at": "2026-07-27T08:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081665586602680547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081665586602680547",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081571031144333465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 这真的能喝吗？还是喝点正常的酒吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 462,
+          "like_count": 4394,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1610
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T04:50:02.000Z",
+        "description": "09/赌狗/社恐/穷鬼",
+        "id": "1684425717579227136",
+        "name": "Fox neko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078139422592397312/SfkyLJvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 60,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "foxneko333",
+        "verified": false
+      }
+    ]
+  }
+}

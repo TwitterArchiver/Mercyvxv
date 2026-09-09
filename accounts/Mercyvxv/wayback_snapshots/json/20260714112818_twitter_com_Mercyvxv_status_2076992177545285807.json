@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076992159778304000",
+        "3_2076992159744733184",
+        "3_2076992159774056448"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2076992177545285807",
+    "created_at": "2026-07-14T11:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076992177545285807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SwJO5L2PuE",
+          "end": 33,
+          "expanded_url": "https://x.com/Mercyvxv/status/2076992177545285807/photo/1",
+          "media_key": "3_2076992159778304000",
+          "start": 10,
+          "url": "https://t.co/SwJO5L2PuE"
+        },
+        {
+          "display_url": "pic.x.com/SwJO5L2PuE",
+          "end": 33,
+          "expanded_url": "https://x.com/Mercyvxv/status/2076992177545285807/photo/1",
+          "media_key": "3_2076992159744733184",
+          "start": 10,
+          "url": "https://t.co/SwJO5L2PuE"
+        },
+        {
+          "display_url": "pic.x.com/SwJO5L2PuE",
+          "end": 33,
+          "expanded_url": "https://x.com/Mercyvxv/status/2076992177545285807/photo/1",
+          "media_key": "3_2076992159774056448",
+          "start": 10,
+          "url": "https://t.co/SwJO5L2PuE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076992177545285807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前的图...唉。 https://t.co/SwJO5L2PuE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076992159778304000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL1XWzbcAA87QK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076992159744733184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL1XWrbMAAkzLD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2076992159774056448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL1XWyaoAAmzOr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076992159778304000",
+            "3_2076992159744733184",
+            "3_2076992159774056448"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076992177545285807",
+        "created_at": "2026-07-14T11:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076992177545285807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SwJO5L2PuE",
+              "end": 33,
+              "expanded_url": "https://x.com/Mercyvxv/status/2076992177545285807/photo/1",
+              "media_key": "3_2076992159778304000",
+              "start": 10,
+              "url": "https://t.co/SwJO5L2PuE"
+            },
+            {
+              "display_url": "pic.x.com/SwJO5L2PuE",
+              "end": 33,
+              "expanded_url": "https://x.com/Mercyvxv/status/2076992177545285807/photo/1",
+              "media_key": "3_2076992159744733184",
+              "start": 10,
+              "url": "https://t.co/SwJO5L2PuE"
+            },
+            {
+              "display_url": "pic.x.com/SwJO5L2PuE",
+              "end": 33,
+              "expanded_url": "https://x.com/Mercyvxv/status/2076992177545285807/photo/1",
+              "media_key": "3_2076992159774056448",
+              "start": 10,
+              "url": "https://t.co/SwJO5L2PuE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076992177545285807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前的图...唉。 https://t.co/SwJO5L2PuE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 286,
+          "like_count": 860,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

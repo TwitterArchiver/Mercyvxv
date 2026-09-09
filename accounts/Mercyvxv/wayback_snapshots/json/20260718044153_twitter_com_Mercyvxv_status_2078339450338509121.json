@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078101160230006784"
+      ],
+      "media_source_tweet_id": [
+        "2078101182107578687"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2078339450338509121",
+    "created_at": "2026-07-18T04:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078339450338509121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2068394378100699136",
+          "start": 3,
+          "username": "meowpinfrens"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3VEmVkTyxq",
+          "end": 41,
+          "expanded_url": "https://x.com/meowpinfrens/status/2078101182107578687/video/1",
+          "media_key": "13_2078101160230006784",
+          "start": 18,
+          "url": "https://t.co/3VEmVkTyxq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078339450338509121",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2080
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078101182107578687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meowpinfrens: https://t.co/3VEmVkTyxq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17500,
+        "height": 576,
+        "media_key": "13_2078101160230006784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078101160230006784/img/oRQt8hHBz3R_AtKy.jpg",
+        "public_metrics": {
+          "view_count": 86712
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078101160230006784/vid/avc1/480x270/z7novxPNef3FGAq7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078101160230006784/vid/avc1/640x360/19B411XnBMcBUJZf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078101160230006784/vid/avc1/1024x576/coVRzETiRXYdEbk6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078101160230006784/pl/GNRclJXbqIhmc5oY.m3u8?v=cfc"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078101160230006784"
+          ]
+        },
+        "author_id": "2068394378100699136",
+        "conversation_id": "2078101182107578687",
+        "created_at": "2026-07-17T12:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078101182107578687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3VEmVkTyxq",
+              "end": 23,
+              "expanded_url": "https://x.com/meowpinfrens/status/2078101182107578687/video/1",
+              "media_key": "13_2078101160230006784",
+              "start": 0,
+              "url": "https://t.co/3VEmVkTyxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078101182107578687",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2194,
+          "impression_count": 193169,
+          "like_count": 11469,
+          "quote_count": 92,
+          "reply_count": 52,
+          "retweet_count": 2080
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3VEmVkTyxq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078101160230006784"
+          ],
+          "media_source_tweet_id": [
+            "2078101182107578687"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2078339450338509121",
+        "created_at": "2026-07-18T04:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078339450338509121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2068394378100699136",
+              "start": 3,
+              "username": "meowpinfrens"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3VEmVkTyxq",
+              "end": 41,
+              "expanded_url": "https://x.com/meowpinfrens/status/2078101182107578687/video/1",
+              "media_key": "13_2078101160230006784",
+              "start": 18,
+              "url": "https://t.co/3VEmVkTyxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078339450338509121",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2080
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078101182107578687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meowpinfrens: https://t.co/3VEmVkTyxq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 338,
+          "like_count": 1960,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 686
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T18:05:19.000Z",
+        "description": "dam dam di di di di",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pump.fun/coin/3Tf3RD5t4…",
+                "end": 23,
+                "expanded_url": "https://pump.fun/coin/3Tf3RD5t45wQJF8uEYVXpR2M4wBiCaSNwUWENzVGpump",
+                "start": 0,
+                "url": "https://t.co/yffeeGPcHK"
+              }
+            ]
+          }
+        },
+        "id": "2068394378100699136",
+        "name": "meowpin",
+        "pinned_tweet_id": "2078101182107578687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077156608086355968/mgDqate__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 10,
+          "like_count": 296,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/yffeeGPcHK",
+        "username": "meowpinfrens",
+        "verified": true
+      }
+    ]
+  }
+}

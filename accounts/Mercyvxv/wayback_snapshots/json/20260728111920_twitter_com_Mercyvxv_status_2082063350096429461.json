@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2082063350096429461",
+    "created_at": "2026-07-28T11:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082063350096429461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057729979677548544",
+          "start": 3,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082063350096429461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081761647425978558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouoo: 一想到万一跟健全人恋过爱过或发生过性关系感觉这辈子都无望了，感觉要写进黑历史，一辈子洗不白，下地狱让我陈述罪情我说我曾经跟一位精神面貌姣好道德良好素质极高的真善美光伟正无不良嗜好顺直健全人谈过/做过/发生亲密关系过，判官一听给我判去负8964层去了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2082063350096429461",
+        "created_at": "2026-07-28T11:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082063350096429461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057729979677548544",
+              "start": 3,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082063350096429461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081761647425978558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouoo: 一想到万一跟健全人恋过爱过或发生过性关系感觉这辈子都无望了，感觉要写进黑历史，一辈子洗不白，下地狱让我陈述罪情我说我曾经跟一位精神面貌姣好道德良好素质极高的真善美光伟正无不良嗜好顺直健全人谈过/做过/发生亲密关系过，判官一听给我判去负8964层去了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2081761647425978558",
+        "created_at": "2026-07-27T15:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081761647425978558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081761647425978558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一想到万一跟健全人恋过爱过或发生过性关系感觉这辈子都无望了，感觉要写进黑历史，一辈子洗不白，下地狱让我陈述罪情我说我曾经跟一位精神面貌姣好道德良好素质极高的真善美光伟正无不良嗜好顺直健全人谈过/做过/发生亲密关系过，判官一听给我判去负8964层去了\n\n本人一生恪守神经病忠贞 坚决不与健全人发生任何越界情感 任何一个有健全爱好的人类我第一眼就阳痿了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3117,
+          "like_count": 99,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "一想到万一跟健全人恋过爱过或发生过性关系感觉这辈子都无望了，感觉要写进黑历史，一辈子洗不白，下地狱让我陈述罪情我说我曾经跟一位精神面貌姣好道德良好素质极高的真善美光伟正无不良嗜好顺直健全人谈过/做过/发生亲密关系过，判官一听给我判去负8964层去了\n\n本人一生恪守神经病忠贞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 483,
+          "like_count": 4738,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1794
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 982,
+          "like_count": 3769,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 2864
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      }
+    ]
+  }
+}

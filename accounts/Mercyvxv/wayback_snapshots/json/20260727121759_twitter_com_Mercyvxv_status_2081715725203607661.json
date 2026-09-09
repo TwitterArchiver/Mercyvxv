@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2081715725203607661",
+    "created_at": "2026-07-27T12:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081715725203607661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1522094771136831488",
+          "start": 3,
+          "username": "Raincandy_1937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081715725203607661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906626606074052692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Raincandy_1937: ......能听到吗？\n信号接入，这里是鸦之巢的独立佣兵Rain。曾失去重要之物，目前正在寻找生存的意义，说不定有一天能够成为Raven。\n尽管事实可能不如我们所愿，我也愿意尽力尊重个人自由与普世价值，与大家在平等温和的基础上共同交流。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_1906626603641417728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnWyy1VbMAAUHmW.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2081715725203607661",
+        "created_at": "2026-07-27T12:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081715725203607661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1522094771136831488",
+              "start": 3,
+              "username": "Raincandy_1937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081715725203607661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906626606074052692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Raincandy_1937: ......能听到吗？\n信号接入，这里是鸦之巢的独立佣兵Rain。曾失去重要之物，目前正在寻找生存的意义，说不定有一天能够成为Raven。\n尽管事实可能不如我们所愿，我也愿意尽力尊重个人自由与普世价值，与大家在平等温和的基础上共同交流。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906626603641417728"
+          ]
+        },
+        "author_id": "1522094771136831488",
+        "conversation_id": "1906626606074052692",
+        "created_at": "2025-03-31T08:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T09:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906626606074052692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5rvJgWb22",
+              "end": 162,
+              "expanded_url": "https://x.com/Raincandy_1937/status/1906626606074052692/photo/1",
+              "media_key": "3_1906626603641417728",
+              "start": 139,
+              "url": "https://t.co/A5rvJgWb22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906626606074052692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5508,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "......能听到吗？\n信号接入，这里是鸦之巢的独立佣兵Rain。曾失去重要之物，目前正在寻找生存的意义，说不定有一天能够成为Raven。\n尽管事实可能不如我们所愿，我也愿意尽力尊重个人自由与普世价值，与大家在平等温和的基础上共同交流。\n愿这双借来的翅膀，能够飞渡落雨的天空。 https://t.co/A5rvJgWb22"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 463,
+          "like_count": 4401,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1614
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T06:04:16.000Z",
+        "description": "飞越雨幕笼罩的天空，选择无人见证过的自由",
+        "id": "1522094771136831488",
+        "location": "銀河車站",
+        "name": "The Raven in the Rain🏳️‍🌈",
+        "pinned_tweet_id": "1906626606074052692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081117262283751424/LtCpbe6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 1799,
+          "like_count": 17351,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 7553
+        },
+        "url": "",
+        "username": "Raincandy_1937",
+        "verified": false
+      }
+    ]
+  }
+}

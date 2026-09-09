@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2077043511489187840"
+      ],
+      "media_source_tweet_id": [
+        "2077043638173843837"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2077355471623917642",
+    "created_at": "2026-07-15T11:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077355471623917642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2072344475964219392",
+          "start": 3,
+          "username": "acvra8814"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HOQDlPE1Ar",
+          "end": 38,
+          "expanded_url": "https://x.com/acvra8814/status/2077043638173843837/photo/1",
+          "media_key": "16_2077043511489187840",
+          "start": 15,
+          "url": "https://t.co/HOQDlPE1Ar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077355471623917642",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 243
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077043638173843837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acvra8814: https://t.co/HOQDlPE1Ar"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2077043511489187840",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNMkEa1X0AAQS-C.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNMkEa1X0AAQS-C.mp4"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077043511489187840"
+          ],
+          "media_source_tweet_id": [
+            "2077043638173843837"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2077355471623917642",
+        "created_at": "2026-07-15T11:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077355471623917642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2072344475964219392",
+              "start": 3,
+              "username": "acvra8814"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOQDlPE1Ar",
+              "end": 38,
+              "expanded_url": "https://x.com/acvra8814/status/2077043638173843837/photo/1",
+              "media_key": "16_2077043511489187840",
+              "start": 15,
+              "url": "https://t.co/HOQDlPE1Ar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077355471623917642",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 243
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077043638173843837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acvra8814: https://t.co/HOQDlPE1Ar"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077043511489187840"
+          ]
+        },
+        "author_id": "2072344475964219392",
+        "conversation_id": "2077043638173843837",
+        "created_at": "2026-07-14T14:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077043638173843837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOQDlPE1Ar",
+              "end": 23,
+              "expanded_url": "https://x.com/acvra8814/status/2077043638173843837/photo/1",
+              "media_key": "16_2077043511489187840",
+              "start": 0,
+              "url": "https://t.co/HOQDlPE1Ar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077043638173843837",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 13201,
+          "like_count": 1312,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HOQDlPE1Ar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 298,
+          "like_count": 1171,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T15:41:09.000Z",
+        "description": "I love Guro, Loli, League of Legends, Dota 2, and Hoi4, sometimes play war thunder\n🇷🇺😭💢",
+        "id": "2072344475964219392",
+        "location": "могила твоей мамочки😜",
+        "name": "XuTpbIE_EbyT_MyDpbIX | acvra | 1ŘΛPΣ4ŃłζζΣŘŠ88😭💢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076995667696746496/LTY8RLkK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 97,
+          "like_count": 1127,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "acvra8814",
+        "verified": false
+      }
+    ]
+  }
+}

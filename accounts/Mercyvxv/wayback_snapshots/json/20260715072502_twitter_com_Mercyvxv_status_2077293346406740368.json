@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2077293346406740368",
+    "created_at": "2026-07-15T07:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077293346406740368"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "精神探索"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1868205822511288320",
+          "start": 3,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077293346406740368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077221838837739892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vicoOci_Olvidar: #精神探索 \n只有打心底里觉得自己是滞纳人的人，才会一看见支黑就哈气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2077293346406740368",
+        "created_at": "2026-07-15T07:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077293346406740368"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "精神探索"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1868205822511288320",
+              "start": 3,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077293346406740368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077221838837739892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vicoOci_Olvidar: #精神探索 \n只有打心底里觉得自己是滞纳人的人，才会一看见支黑就哈气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "2077221838837739892",
+        "created_at": "2026-07-15T02:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077221838837739892"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "精神探索"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xijinping_bot/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/xijinping_bot/status/2077092540252148158",
+              "start": 35,
+              "url": "https://t.co/1EiuxfwVUO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077221838837739892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077092540252148158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#精神探索 \n只有打心底里觉得自己是滞纳人的人，才会一看见支黑就哈气 https://t.co/1EiuxfwVUO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 297,
+          "like_count": 1072,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 378
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "我總有一天會把你給我帶來的所有傷痛一並還給你的｜全肯定@D_D_ovO_｜😺 @ashasw114514 @misakinae8964 @rinko_zero8964｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "ashasw114514"
+              },
+              {
+                "end": 67,
+                "start": 53,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "床",
+        "name": "💿胃名立希◉‿◉",
+        "pinned_tweet_id": "2072999358048637429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4686,
+          "following_count": 408,
+          "like_count": 25455,
+          "listed_count": 17,
+          "media_count": 1552,
+          "tweet_count": 19082
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2080402170273566953",
+    "created_at": "2026-07-24T01:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T02:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080465559398023497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993098158495395840",
+          "start": 0,
+          "username": "kfqnszVKWv91426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080465559398023497",
+    "in_reply_to_user_id": "1993098158495395840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080402170273566953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kfqnszVKWv91426 好激烈的战斗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32931,
+        "height": 1280,
+        "media_key": "13_2080402114275373056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080402114275373056/img/5D6lS1kr5bdeVlJU.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080402114275373056/vid/avc1/320x568/JqX2f5fTVCVJlHsp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080402114275373056/vid/avc1/480x852/UVAzMi7bkNS2yZw0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080402114275373056/vid/avc1/720x1280/UMXt-HcJ8jknDUOA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080402114275373056/pl/7zTPv7_R69OxDyHj.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080402170273566953",
+        "created_at": "2026-07-24T01:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080465559398023497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993098158495395840",
+              "start": 0,
+              "username": "kfqnszVKWv91426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080465559398023497",
+        "in_reply_to_user_id": "1993098158495395840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080402170273566953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kfqnszVKWv91426 好激烈的战斗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080402114275373056"
+          ]
+        },
+        "author_id": "1993098158495395840",
+        "conversation_id": "2080402170273566953",
+        "created_at": "2026-07-23T21:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T22:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080402170273566953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARMzMl2jZN",
+              "end": 33,
+              "expanded_url": "https://x.com/kfqnszVKWv91426/status/2080402170273566953/video/1",
+              "media_key": "13_2080402114275373056",
+              "start": 10,
+              "url": "https://t.co/ARMzMl2jZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080402170273566953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和吊灯缠斗30回合 https://t.co/ARMzMl2jZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2080155564907413840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 433,
+          "like_count": 3446,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1249
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T23:23:44.000Z",
+        "description": "中焦中抑/泛性恋/💊\n我想追求幸福",
+        "id": "1993098158495395840",
+        "name": "air",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046692710976040960/G3P1mnT9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 139,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "kfqnszVKWv91426",
+        "verified": false
+      }
+    ]
+  }
+}

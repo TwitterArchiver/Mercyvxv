@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2079774242879795235",
+    "created_at": "2026-07-22T03:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079774242879795235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/steml0l/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/steml0l/status/2079745841670353347",
+          "start": 28,
+          "url": "https://t.co/Q6NcmSelOL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079774242879795235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079745841670353347",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关于我为什么要当支黑而不是反贼，因为芝麻猪压根就不是人 https://t.co/Q6NcmSelOL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2079774242879795235",
+        "created_at": "2026-07-22T03:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079774242879795235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/steml0l/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/steml0l/status/2079745841670353347",
+              "start": 28,
+              "url": "https://t.co/Q6NcmSelOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079774242879795235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079745841670353347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于我为什么要当支黑而不是反贼，因为芝麻猪压根就不是人 https://t.co/Q6NcmSelOL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065316215506309120",
+        "conversation_id": "2079515638452908480",
+        "created_at": "2026-07-22T01:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079745841670353347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048745058804105216",
+              "start": 0,
+              "username": "TaoistYouth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079745841670353347",
+        "in_reply_to_user_id": "2048745058804105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 498,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079515638452908480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoistYouth 跟国外的反贼说下，8964 这几个数字在国内从来没有被限制。这只是反贼们的 g 点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 423,
+          "like_count": 3023,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1062
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T06:13:16.000Z",
+        "description": "",
+        "id": "2065316215506309120",
+        "name": "Stem",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065317182645682176/rZ6mTTv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 81,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 849
+        },
+        "url": "",
+        "username": "Steml0l",
+        "verified": false
+      }
+    ]
+  }
+}

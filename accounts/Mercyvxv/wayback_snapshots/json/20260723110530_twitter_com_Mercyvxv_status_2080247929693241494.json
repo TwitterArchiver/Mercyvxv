@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2080232046111473822",
+    "created_at": "2026-07-23T11:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080247929693241494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1729362484195393536",
+          "start": 0,
+          "username": "potato413561"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080247929693241494",
+    "in_reply_to_user_id": "1729362484195393536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080232046111473822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@potato413561 不要和晚安联用 不要和谵妄剂联用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080232046111473822",
+        "created_at": "2026-07-23T11:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080247929693241494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1729362484195393536",
+              "start": 0,
+              "username": "potato413561"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080247929693241494",
+        "in_reply_to_user_id": "1729362484195393536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080232046111473822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@potato413561 不要和晚安联用 不要和谵妄剂联用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729362484195393536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2080232046111473822",
+        "created_at": "2026-07-23T10:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080232046111473822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080232046111473822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么有关普瑞的注意事项^ ^\n健康od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2080155564907413840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 433,
+          "like_count": 3297,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1175
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T04:52:15.000Z",
+        "description": "至今为止我都不相信医院给我诊断出的双相^ ^不许骚扰我 正常私信看到回 工作和学业都很忙（ ; ; ）偷我图倒霉一辈子 我觉得我是暴力s",
+        "id": "1729362484195393536",
+        "name": "potatokami",
+        "pinned_tweet_id": "2070766067715330257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079405031099715585/o7kCk-ya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 256,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "potato413561",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2077584241538576397",
+    "created_at": "2026-07-16T02:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T03:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077584241538576397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mercyvxv/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/mercyvxv/status/2077286259022843990",
+          "start": 9,
+          "url": "https://t.co/FyH4MnEgVf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077584241538576397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077286259022843990",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为啥这条这么多赞 https://t.co/FyH4MnEgVf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2077584241538576397",
+        "created_at": "2026-07-16T02:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T03:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077584241538576397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mercyvxv/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/mercyvxv/status/2077286259022843990",
+              "start": 9,
+              "url": "https://t.co/FyH4MnEgVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077584241538576397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077286259022843990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为啥这条这么多赞 https://t.co/FyH4MnEgVf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2077286259022843990",
+        "created_at": "2026-07-15T06:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077286259022843990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077286259022843990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3056,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "终于能吸毒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 301,
+          "like_count": 1219,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 464
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

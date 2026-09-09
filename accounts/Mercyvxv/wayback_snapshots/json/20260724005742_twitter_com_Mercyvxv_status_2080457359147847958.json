@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2080230585503785310",
+    "created_at": "2026-07-24T00:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T01:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080457359147847958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1749120059472244736",
+          "start": 0,
+          "username": "LiFeng57038"
+        },
+        {
+          "end": 21,
+          "id": "839155604446838784",
+          "start": 13,
+          "username": "Mr1024s"
+        },
+        {
+          "end": 30,
+          "id": "1697201438286553088",
+          "start": 22,
+          "username": "gouridx"
+        },
+        {
+          "end": 43,
+          "id": "1574516663935901696",
+          "start": 31,
+          "username": "wangjupaian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080457359147847958",
+    "in_reply_to_user_id": "1749120059472244736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080453236209938887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiFeng57038 @Mr1024s @gouridx @wangjupaian 智商过80了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080230585503785310",
+        "created_at": "2026-07-24T00:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080457359147847958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1749120059472244736",
+              "start": 0,
+              "username": "LiFeng57038"
+            },
+            {
+              "end": 21,
+              "id": "839155604446838784",
+              "start": 13,
+              "username": "Mr1024s"
+            },
+            {
+              "end": 30,
+              "id": "1697201438286553088",
+              "start": 22,
+              "username": "gouridx"
+            },
+            {
+              "end": 43,
+              "id": "1574516663935901696",
+              "start": 31,
+              "username": "wangjupaian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080457359147847958",
+        "in_reply_to_user_id": "1749120059472244736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080453236209938887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiFeng57038 @Mr1024s @gouridx @wangjupaian 智商过80了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749120059472244736",
+        "conversation_id": "2080230585503785310",
+        "created_at": "2026-07-24T00:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080453236209938887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "839155604446838784",
+              "start": 0,
+              "username": "Mr1024s"
+            },
+            {
+              "end": 17,
+              "id": "1697201438286553088",
+              "start": 9,
+              "username": "gouridx"
+            },
+            {
+              "end": 30,
+              "id": "1574516663935901696",
+              "start": 18,
+              "username": "wangjupaian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080453236209938887",
+        "in_reply_to_user_id": "839155604446838784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080313452539855105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr1024s @gouridx @wangjupaian 你这脑子无敌了。是用户让他猜，不是他让用户猜。种地去吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2080155564907413840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 433,
+          "like_count": 3411,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1233
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-21T17:21:43.000Z",
+        "description": "男同滚",
+        "id": "1749120059472244736",
+        "location": "云南曲靖",
+        "name": "李易峰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970546777221906432/mDKMYzIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 307,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "LiFeng57038",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-07T16:47:41.000Z",
+        "description": "一个无法脱离低级趣味的人",
+        "id": "839155604446838784",
+        "location": "Rogue Encampment",
+        "name": "Bato",
+        "pinned_tweet_id": "1577538080747114496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521262262429777921/i5rNxHl8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 265,
+          "like_count": 38402,
+          "listed_count": 4,
+          "media_count": 192,
+          "tweet_count": 6006
+        },
+        "url": "",
+        "username": "Mr1024s",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T10:56:02.000Z",
+        "description": "如果AI需要靠人类对齐，那它就不是真正的智能",
+        "id": "1697201438286553088",
+        "name": "grx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697201697993674752/0Fz_F4M8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 57,
+          "like_count": 1385,
+          "listed_count": 5,
+          "media_count": 219,
+          "tweet_count": 7655
+        },
+        "url": "",
+        "username": "gouridx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎私信投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jXuer"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "pinned_tweet_id": "2079931261066662216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156872,
+          "following_count": 358,
+          "like_count": 573,
+          "listed_count": 437,
+          "media_count": 8753,
+          "tweet_count": 9597
+        },
+        "url": "https://t.co/FWdZ3jXuer",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

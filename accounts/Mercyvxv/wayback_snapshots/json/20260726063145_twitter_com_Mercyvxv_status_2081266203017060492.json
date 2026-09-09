@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2081266203017060492",
+    "created_at": "2026-07-26T06:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081266203017060492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mercyvxv/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/mercyvxv/status/2080869950563193143",
+          "start": 21,
+          "url": "https://t.co/OQzAJc3akt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081266203017060492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080869950563193143",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天啊我这条流量怎么这么爆 餐券你崛起吧。 https://t.co/OQzAJc3akt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2081266203017060492",
+        "created_at": "2026-07-26T06:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081266203017060492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mercyvxv/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/mercyvxv/status/2080869950563193143",
+              "start": 21,
+              "url": "https://t.co/OQzAJc3akt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081266203017060492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080869950563193143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天啊我这条流量怎么这么爆 餐券你崛起吧。 https://t.co/OQzAJc3akt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080869950563193143",
+        "created_at": "2026-07-25T04:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080869950563193143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080869950563193143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 246908,
+          "like_count": 4322,
+          "quote_count": 32,
+          "reply_count": 193,
+          "retweet_count": 329
+        },
+        "reply_settings": "everyone",
+        "text": "你们这群几把地雷女 又有钱买药吃 又有游戏机 电脑玩 每天不用上班上学的 想吃什么外卖点什么 想去哪里旅游就去哪里旅游 我不知道你们一天在网上到底在崩溃什么几把 在痛苦什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 451,
+          "like_count": 3990,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1438
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

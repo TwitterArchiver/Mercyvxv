@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2080997063601357046",
+    "created_at": "2026-07-26T01:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T02:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081188276866871696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801534903626121216",
+          "start": 0,
+          "username": "qngshu988723424"
+        },
+        {
+          "end": 28,
+          "id": "2916917561",
+          "start": 17,
+          "username": "SamYangAus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081188276866871696",
+    "in_reply_to_user_id": "1801534903626121216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081175933013418120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngshu988723424 @SamYangAus 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080997063601357046",
+        "created_at": "2026-07-26T01:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081188276866871696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801534903626121216",
+              "start": 0,
+              "username": "qngshu988723424"
+            },
+            {
+              "end": 28,
+              "id": "2916917561",
+              "start": 17,
+              "username": "SamYangAus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081188276866871696",
+        "in_reply_to_user_id": "1801534903626121216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081175933013418120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngshu988723424 @SamYangAus 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801534903626121216",
+        "conversation_id": "2080997063601357046",
+        "created_at": "2026-07-26T00:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T01:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081175933013418120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2916917561",
+              "start": 0,
+              "username": "SamYangAus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081175933013418120",
+        "in_reply_to_user_id": "2916917561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081125267008024585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SamYangAus 看见你这句逼话算我又栽一回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 449,
+          "like_count": 3965,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1428
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "enby/和鸟每天抢吃的/一分钟发八条/说话很人机可能博关注,谢谢你们祝你们身体健康可能🩸💊内容||                                  @Ace_Purin←点击关注布丁谢谢喵，这个是很可爱说话也很萌的人。可以多和她互动！这个布丁很好互动也很有意思，我最喜欢这个人，希望我们都能开心。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "Ace_Purin"
+              }
+            ]
+          }
+        },
+        "id": "1801534903626121216",
+        "location": "鸟笼",
+        "name": "rotaka",
+        "pinned_tweet_id": "2039361438062723095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017539398498455559/yoqs9-Hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 815,
+          "like_count": 10470,
+          "listed_count": 2,
+          "media_count": 735,
+          "tweet_count": 9231
+        },
+        "url": "",
+        "username": "qngshu988723424",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-12T05:21:18.000Z",
+        "description": "",
+        "id": "2916917561",
+        "name": "SamYang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 7,
+          "like_count": 3,
+          "listed_count": 17,
+          "media_count": 329,
+          "tweet_count": 20635
+        },
+        "url": "",
+        "username": "SamYangAus",
+        "verified": false
+      }
+    ]
+  }
+}

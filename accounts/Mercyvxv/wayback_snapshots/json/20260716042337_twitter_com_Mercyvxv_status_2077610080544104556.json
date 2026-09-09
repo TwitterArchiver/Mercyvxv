@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077422818044870656"
+      ],
+      "media_source_tweet_id": [
+        "2077422819437338634"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2077610080544104556",
+    "created_at": "2026-07-16T04:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077610080544104556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "282295901",
+          "start": 3,
+          "username": "danzwku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ehCotUqbF",
+          "end": 64,
+          "expanded_url": "https://x.com/danzwku/status/2077422819437338634/photo/1",
+          "media_key": "3_2077422818044870656",
+          "start": 41,
+          "url": "https://t.co/1ehCotUqbF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077610080544104556",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 688
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077422819437338634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @danzwku: This will never get old lol https://t.co/1ehCotUqbF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 657,
+        "media_key": "3_2077422818044870656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNR9C93bAAAxHfx.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077422818044870656"
+          ],
+          "media_source_tweet_id": [
+            "2077422819437338634"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2077610080544104556",
+        "created_at": "2026-07-16T04:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077610080544104556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "282295901",
+              "start": 3,
+              "username": "danzwku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ehCotUqbF",
+              "end": 64,
+              "expanded_url": "https://x.com/danzwku/status/2077422819437338634/photo/1",
+              "media_key": "3_2077422818044870656",
+              "start": 41,
+              "url": "https://t.co/1ehCotUqbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077610080544104556",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 688
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077422819437338634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @danzwku: This will never get old lol https://t.co/1ehCotUqbF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077422818044870656"
+          ]
+        },
+        "author_id": "282295901",
+        "conversation_id": "2077422819437338634",
+        "created_at": "2026-07-15T15:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077422819437338634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ehCotUqbF",
+              "end": 51,
+              "expanded_url": "https://x.com/danzwku/status/2077422819437338634/photo/1",
+              "media_key": "3_2077422818044870656",
+              "start": 28,
+              "url": "https://t.co/1ehCotUqbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077422819437338634",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 296,
+          "impression_count": 189026,
+          "like_count": 7478,
+          "quote_count": 24,
+          "reply_count": 54,
+          "retweet_count": 688
+        },
+        "reply_settings": "everyone",
+        "text": "This will never get old lol https://t.co/1ehCotUqbF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 307,
+          "like_count": 1343,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 497
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-14T23:11:59.000Z",
+        "description": "Chinese-Taiwanese-Canadian\n\nbcuz not every Taiwanese is of Han/Chinese descent\n\n& not every Chinese supports the PRC 🇨🇳 \n\nRT/like/follow 🚫 endorsement",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/danielku118",
+                "end": 23,
+                "expanded_url": "http://youtube.com/danielku118",
+                "start": 0,
+                "url": "https://t.co/NDvQgy56ut"
+              }
+            ]
+          }
+        },
+        "id": "282295901",
+        "name": "Daniel Ku 顧仲文 🇹🇼🇨🇦",
+        "pinned_tweet_id": "2055712926296936664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1125107759240712192/sBMuEo_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4189,
+          "following_count": 7500,
+          "like_count": 81837,
+          "listed_count": 32,
+          "media_count": 3278,
+          "tweet_count": 65717
+        },
+        "url": "https://t.co/NDvQgy56ut",
+        "username": "danzwku",
+        "verified": true
+      }
+    ]
+  }
+}

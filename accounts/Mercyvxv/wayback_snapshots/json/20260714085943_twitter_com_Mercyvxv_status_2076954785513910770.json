@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2076897802542788879",
+    "created_at": "2026-07-14T08:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T09:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076954785513910770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2068677094046044160",
+          "start": 0,
+          "username": "Dddgojb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076954785513910770",
+    "in_reply_to_user_id": "2068677094046044160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076897802542788879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dddgojb 这帮傻逼给我看死了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076897792078077952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKfibubYAAdA48.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2076897802542788879",
+        "created_at": "2026-07-14T08:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076954785513910770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2068677094046044160",
+              "start": 0,
+              "username": "Dddgojb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076954785513910770",
+        "in_reply_to_user_id": "2068677094046044160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076897802542788879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dddgojb 这帮傻逼给我看死了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076897792078077952"
+          ]
+        },
+        "author_id": "2068677094046044160",
+        "conversation_id": "2076897802542788879",
+        "created_at": "2026-07-14T05:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076897802542788879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/poZjcg1aga",
+              "end": 23,
+              "expanded_url": "https://x.com/Dddgojb/status/2076897802542788879/photo/1",
+              "media_key": "3_2076897792078077952",
+              "start": 0,
+              "url": "https://t.co/poZjcg1aga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076897802542788879",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/poZjcg1aga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 286,
+          "like_count": 814,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 283
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-21T12:47:56.000Z",
+        "description": "互fo大欢迎 随便发。。",
+        "id": "2068677094046044160",
+        "name": "PureRR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068734457407053824/gZP39Rwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 82,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "Dddgojb",
+        "verified": false
+      }
+    ]
+  }
+}

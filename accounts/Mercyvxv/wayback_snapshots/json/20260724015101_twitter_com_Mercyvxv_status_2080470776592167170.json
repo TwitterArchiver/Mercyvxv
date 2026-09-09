@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2080470776592167170",
+    "created_at": "2026-07-24T01:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T02:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080470776592167170"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yaoguoez0/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/yaoguoez0/status/2079802986109518143",
+          "start": 17,
+          "url": "https://t.co/dxLl9nDve4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080470776592167170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079802986109518143",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是中国人我要什么素质啊（叉腰） https://t.co/dxLl9nDve4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2080470776592167170",
+        "created_at": "2026-07-24T01:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080470776592167170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yaoguoez0/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/yaoguoez0/status/2079802986109518143",
+              "start": 17,
+              "url": "https://t.co/dxLl9nDve4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080470776592167170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079802986109518143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是中国人我要什么素质啊（叉腰） https://t.co/dxLl9nDve4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041875296618737666",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2079802986109518143",
+        "created_at": "2026-07-22T05:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079802986109518143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079802986109518143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 43435,
+          "like_count": 2213,
+          "quote_count": 7,
+          "reply_count": 92,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "我对烟人彻底失去耐心了，简直是蠢猪一样，在公共场合吸烟，本质上就是素质低下没有同理心，漠视周围人，明知道这个百害无一利还要为了一己私欲害人害己，这群人的自控能力也就是还有社会道德底线的约束，漠视周围人的健康，那我将漠视烟人的人格。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2080155564907413840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 433,
+          "like_count": 3451,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1253
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T13:46:49.000Z",
+        "description": "",
+        "id": "2041875296618737666",
+        "name": "秋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059541309598404608/oaDPmpsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 54,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "Yaoguoez0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2078312945130598679",
+    "created_at": "2026-07-18T02:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T03:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078312945130598679"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xz8796/status/…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/xz8796/status/2078310761424929032",
+          "start": 113,
+          "url": "https://t.co/66ygKJRPn9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078312945130598679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078310761424929032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有过性行为：✅\n有过男朋友：✅\n有过女朋友：✅\n嗑过药：✅\n喝过酒：✅  \n挂过科：✅  \n去过夜店：❌  \n抽过烟/用过电子烟：✅\n吻过别人：✅\n被留堂：✅\n被课堂赶出去：✅\n考试作弊：✅\n偷偷溜出家门：✅\n\n我就这样堕落 https://t.co/66ygKJRPn9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2078312945130598679",
+        "created_at": "2026-07-18T02:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078312945130598679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xz8796/status/…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/xz8796/status/2078310761424929032",
+              "start": 113,
+              "url": "https://t.co/66ygKJRPn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078312945130598679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078310761424929032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：✅\n有过男朋友：✅\n有过女朋友：✅\n嗑过药：✅\n喝过酒：✅  \n挂过科：✅  \n去过夜店：❌  \n抽过烟/用过电子烟：✅\n吻过别人：✅\n被留堂：✅\n被课堂赶出去：✅\n考试作弊：✅\n偷偷溜出家门：✅\n\n我就这样堕落 https://t.co/66ygKJRPn9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2078310761424929032",
+        "created_at": "2026-07-18T02:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078310761424929032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/todorokidoya1/…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/todorokidoya1/status/2078106172184514758",
+              "start": 131,
+              "url": "https://t.co/nQZO6aaX6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078310761424929032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078106172184514758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：✅\n有过男朋友：✅\n有过女朋友：❌\n嗑过药：✅\n喝过酒：✅  \n挂过科：✅  \n去过夜店：❌  \n抽过烟/用过电子烟：✅\n吻过别人：✅\n被留堂：❌\n被课堂赶出去：❌\n考试作弊：❌\n偷偷溜出家门：❌\n\n我应该是 一个好女孩吧 （我是被作弊的那一个😭） https://t.co/nQZO6aaX6c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 335,
+          "like_count": 1912,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 665
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 不好看 可互关 机器人除外 不见证\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨\n有點陰暗 囤積癖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "plane294"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2077121942403035280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076966433515532288/I6rNTjt__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 266,
+          "like_count": 2705,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 1634
+        },
+        "url": "",
+        "username": "xz8796",
+        "verified": true
+      }
+    ]
+  }
+}

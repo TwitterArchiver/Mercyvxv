@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2076848653420142808",
+    "created_at": "2026-07-14T01:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076848653420142808"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076848653420142808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个扎扎药，。他无敌了？因为她那个！作用机理，很牛逼？而且它。还很帅！然后呢这个神药被扔了，因为呢塔经常当老鼠？所以扎扎到最后发现千年扎扎只是一场梦。最后所有的药都死了面对这种情况的时候她是很茫然的。！扎？，扎！，药？五。，第？！先用扎扎，。然后神药，神药常有？而扎扎药不常有。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2076848653420142808",
+        "created_at": "2026-07-14T01:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076848653420142808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076848653420142808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个扎扎药，。他无敌了？因为她那个！作用机理，很牛逼？而且它。还很帅！然后呢这个神药被扔了，因为呢塔经常当老鼠？所以扎扎到最后发现千年扎扎只是一场梦。最后所有的药都死了面对这种情况的时候她是很茫然的。！扎？，扎！，药？五。，第？！先用扎扎，。然后神药，神药常有？而扎扎药不常有。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 284,
+          "like_count": 747,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

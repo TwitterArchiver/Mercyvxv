@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2081950727493292459",
+    "created_at": "2026-07-28T12:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082081749488816306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1672685302400393218",
+          "start": 0,
+          "username": "quexiao0131_4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082081749488816306",
+    "in_reply_to_user_id": "1672685302400393218",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082080695246377453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quexiao0131_4 💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2081950727493292459",
+        "created_at": "2026-07-28T12:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082081749488816306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672685302400393218",
+              "start": 0,
+              "username": "quexiao0131_4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082081749488816306",
+        "in_reply_to_user_id": "1672685302400393218",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082080695246377453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quexiao0131_4 💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672685302400393218",
+        "conversation_id": "2081950727493292459",
+        "created_at": "2026-07-28T12:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082080695246377453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082080695246377453",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081950727493292459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 好美呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 483,
+          "like_count": 4782,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1812
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T19:18:29.000Z",
+        "description": "大号@quexiao0131_2‖自残自伤‖ birth 01 31 ||常驻上海||私信互FO ||不键政 ||无线下‖ ☆生活再难也还得坚持 我们一起加油👋 最后祝自己永不放弃 永不失败 永远做自己",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "quexiao0131_2"
+              }
+            ]
+          }
+        },
+        "id": "1672685302400393218",
+        "location": "需要帮助的时候 三七永远在你背后₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "name": "三七睡不醒",
+        "pinned_tweet_id": "1893263871357411566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068011037622956033/lePqPou7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 347,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "quexiao0131_4",
+        "verified": false
+      }
+    ]
+  }
+}

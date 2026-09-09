@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2081632862768693711",
+    "created_at": "2026-07-27T10:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081681858665099559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779747754216198144",
+          "start": 0,
+          "username": "Mercury_97z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081681858665099559",
+    "in_reply_to_user_id": "1779747754216198144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081632862768693711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercury_97z 愈美片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2081632862768693711",
+        "created_at": "2026-07-27T10:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081681858665099559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779747754216198144",
+              "start": 0,
+              "username": "Mercury_97z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081681858665099559",
+        "in_reply_to_user_id": "1779747754216198144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081632862768693711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercury_97z 愈美片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779747754216198144",
+        "conversation_id": "2081632862768693711",
+        "created_at": "2026-07-27T06:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081632862768693711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081632862768693711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 345,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "流感后一直干咳不恢复吃什么比较有用啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 462,
+          "like_count": 4367,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1594
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T05:45:24.000Z",
+        "description": "热爱蓝色/双/超爱动漫/热爱美好肉体和有趣的帖子/爱互动/听得杂/看得杂/人有点乱七八糟/🈲️4i/🈲️zz相关话题/讨厌傻福会拉黑",
+        "id": "1779747754216198144",
+        "name": "苔咩咩𛰙᭜𖫴𖫰𖫱𖫳𖫲꛰ᩝ︪᭜𖫴𖫰𖫱𖫳𖫲꛰ᩝ𛰚",
+        "pinned_tweet_id": "2072293238267142341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005372844805636096/6WLieqNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 1620,
+          "like_count": 50166,
+          "listed_count": 7,
+          "media_count": 1089,
+          "tweet_count": 7150
+        },
+        "url": "",
+        "username": "Mercury_97z",
+        "verified": false
+      }
+    ]
+  }
+}

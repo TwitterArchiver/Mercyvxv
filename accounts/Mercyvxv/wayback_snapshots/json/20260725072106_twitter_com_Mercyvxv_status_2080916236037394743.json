@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2080895283987468348",
+    "created_at": "2026-07-25T07:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T08:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080916236037394743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903104521624227841",
+          "start": 0,
+          "username": "PhonSng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080916236037394743",
+    "in_reply_to_user_id": "1903104521624227841",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080916087890411925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PhonSng 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080895283987468348",
+        "created_at": "2026-07-25T07:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080916236037394743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903104521624227841",
+              "start": 0,
+              "username": "PhonSng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080916236037394743",
+        "in_reply_to_user_id": "1903104521624227841",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080916087890411925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PhonSng 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903104521624227841",
+        "conversation_id": "2080895283987468348",
+        "created_at": "2026-07-25T07:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080916087890411925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080916087890411925",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080895283987468348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 447,
+          "like_count": 3788,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1363
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:21:08.000Z",
+        "description": "LGBTQIA+友好/泛性恋-友跨🏳️‍⚧️/INTP-T/小楠孩/生产日期：12.10/pr80重度依赖/不见证/欢迎来找我交朋友互fo/可以叫我橘猫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orangecatt2",
+                "end": 23,
+                "expanded_url": "http://t.me/orangecatt2",
+                "start": 0,
+                "url": "https://t.co/dLdtYJCxDO"
+              }
+            ]
+          }
+        },
+        "id": "1903104521624227841",
+        "location": "南极企鹅窟",
+        "name": "caTT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079859136549023744/8fpTbvnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 254,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/dLdtYJCxDO",
+        "username": "PhonSng",
+        "verified": false
+      }
+    ]
+  }
+}

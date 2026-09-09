@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2081715542575239594",
+    "created_at": "2026-07-27T12:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081715542575239594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mercyvxv/statu…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/mercyvxv/status/2081713081479233962",
+          "start": 82,
+          "url": "https://t.co/h07I7407vY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081715542575239594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081713081479233962",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我自杀几乎从来都不是我想死....甚至可以说我并不想自杀。但我每次都是犯病才自杀的，我的大脑根本不在线，甚至是断片的状态。我不想死，我想活着。但我的精神病不允许。 https://t.co/h07I7407vY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2081715542575239594",
+        "created_at": "2026-07-27T12:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081715542575239594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mercyvxv/statu…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/mercyvxv/status/2081713081479233962",
+              "start": 82,
+              "url": "https://t.co/h07I7407vY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081715542575239594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081713081479233962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我自杀几乎从来都不是我想死....甚至可以说我并不想自杀。但我每次都是犯病才自杀的，我的大脑根本不在线，甚至是断片的状态。我不想死，我想活着。但我的精神病不允许。 https://t.co/h07I7407vY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2081713081479233962",
+        "created_at": "2026-07-27T12:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081713081479233962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081713081479233962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想有一个重度精神病控制不了自己生死随时可能紫砂的对象快来私信我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 462,
+          "like_count": 4400,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1612
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

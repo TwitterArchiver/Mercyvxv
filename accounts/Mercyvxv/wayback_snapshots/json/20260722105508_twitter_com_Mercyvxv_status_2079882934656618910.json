@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2079856039143551284",
+    "created_at": "2026-07-22T10:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T11:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079882934656618910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2045494653043322880",
+          "start": 0,
+          "username": "cxvooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079882934656618910",
+    "in_reply_to_user_id": "2045494653043322880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079875139869520340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxvooo 两次割腕一次割喉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2079856039143551284",
+        "created_at": "2026-07-22T10:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079882934656618910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2045494653043322880",
+              "start": 0,
+              "username": "cxvooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079882934656618910",
+        "in_reply_to_user_id": "2045494653043322880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079875139869520340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxvooo 两次割腕一次割喉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045494653043322880",
+        "conversation_id": "2079856039143551284",
+        "created_at": "2026-07-22T10:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079875139869520340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079875139869520340",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079856039143551284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 宝宝用什么方式自杀失败的呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 427,
+          "like_count": 3109,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1104
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T13:30:20.000Z",
+        "description": "",
+        "id": "2045494653043322880",
+        "name": "我操你们所有人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078867160622063616/vC9oGPaW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 121,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "cxvooo",
+        "verified": false
+      }
+    ]
+  }
+}

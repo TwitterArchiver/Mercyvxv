@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2080616811675136008",
+    "created_at": "2026-07-25T03:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T04:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080852461926117515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2058879697011019776",
+          "start": 0,
+          "username": "Zarathustra8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080852461926117515",
+    "in_reply_to_user_id": "2058879697011019776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080616811675136008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zarathustra8964 卧槽我爱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080616755911946240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_V6nnbcAAwAR8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080616756289380352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_V6pBaoAAJUrZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080616756889186304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_V6rQa8AAGRRx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080616756322967552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_V6pJbIAAr24g.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080616811675136008",
+        "created_at": "2026-07-25T03:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080852461926117515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2058879697011019776",
+              "start": 0,
+              "username": "Zarathustra8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080852461926117515",
+        "in_reply_to_user_id": "2058879697011019776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080616811675136008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zarathustra8964 卧槽我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080616755911946240",
+            "3_2080616756289380352",
+            "3_2080616756889186304",
+            "3_2080616756322967552"
+          ]
+        },
+        "author_id": "2058879697011019776",
+        "conversation_id": "2080616811675136008",
+        "created_at": "2026-07-24T11:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080616811675136008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I88ZLB9oiy",
+              "end": 36,
+              "expanded_url": "https://x.com/Zarathustra8964/status/2080616811675136008/photo/1",
+              "media_key": "3_2080616755911946240",
+              "start": 13,
+              "url": "https://t.co/I88ZLB9oiy"
+            },
+            {
+              "display_url": "pic.x.com/I88ZLB9oiy",
+              "end": 36,
+              "expanded_url": "https://x.com/Zarathustra8964/status/2080616811675136008/photo/1",
+              "media_key": "3_2080616756289380352",
+              "start": 13,
+              "url": "https://t.co/I88ZLB9oiy"
+            },
+            {
+              "display_url": "pic.x.com/I88ZLB9oiy",
+              "end": 36,
+              "expanded_url": "https://x.com/Zarathustra8964/status/2080616811675136008/photo/1",
+              "media_key": "3_2080616756889186304",
+              "start": 13,
+              "url": "https://t.co/I88ZLB9oiy"
+            },
+            {
+              "display_url": "pic.x.com/I88ZLB9oiy",
+              "end": 36,
+              "expanded_url": "https://x.com/Zarathustra8964/status/2080616811675136008/photo/1",
+              "media_key": "3_2080616756322967552",
+              "start": 13,
+              "url": "https://t.co/I88ZLB9oiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080616811675136008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2063,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神分裂发作时我会这样做 https://t.co/I88ZLB9oiy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2080155564907413840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 444,
+          "like_count": 3677,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1319
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 150,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false
+      }
+    ]
+  }
+}

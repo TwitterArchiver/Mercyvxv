@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079264890573803521"
+      ],
+      "media_source_tweet_id": [
+        "2079264901617312019"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2079364761406620028",
+    "created_at": "2026-07-21T00:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T01:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079364761406620028"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "广东"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "山东"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809529788178305024",
+          "start": 3,
+          "username": "qiiiiiiike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NGD6DCEN1n",
+          "end": 61,
+          "expanded_url": "https://x.com/qiiiiiiike/status/2079264901617312019/photo/1",
+          "media_key": "3_2079264890573803521",
+          "start": 38,
+          "url": "https://t.co/NGD6DCEN1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079364761406620028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079264901617312019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiiiiiiike: 我睡不好 好难受。#门槛妹 #广东 #山东 https://t.co/NGD6DCEN1n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1021,
+        "media_key": "3_2079264890573803521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsIZsyX0AEjnYH.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079264890573803521"
+          ]
+        },
+        "author_id": "1809529788178305024",
+        "conversation_id": "2079264901617312019",
+        "created_at": "2026-07-20T17:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079264901617312019"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "广东"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "山东"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NGD6DCEN1n",
+              "end": 45,
+              "expanded_url": "https://x.com/qiiiiiiike/status/2079264901617312019/photo/1",
+              "media_key": "3_2079264890573803521",
+              "start": 22,
+              "url": "https://t.co/NGD6DCEN1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079264901617312019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2085,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我睡不好 好难受。#门槛妹 #广东 #山东 https://t.co/NGD6DCEN1n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079264890573803521"
+          ],
+          "media_source_tweet_id": [
+            "2079264901617312019"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2079364761406620028",
+        "created_at": "2026-07-21T00:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079364761406620028"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "广东"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "山东"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1809529788178305024",
+              "start": 3,
+              "username": "qiiiiiiike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NGD6DCEN1n",
+              "end": 61,
+              "expanded_url": "https://x.com/qiiiiiiike/status/2079264901617312019/photo/1",
+              "media_key": "3_2079264890573803521",
+              "start": 38,
+              "url": "https://t.co/NGD6DCEN1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079364761406620028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079264901617312019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiiiiiiike: 我睡不好 好难受。#门槛妹 #广东 #山东 https://t.co/NGD6DCEN1n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 403,
+          "like_count": 2620,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 896
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T10:08:56.000Z",
+        "description": "🚪88 私信只回口令➕姓",
+        "id": "1809529788178305024",
+        "name": "7k",
+        "pinned_tweet_id": "2077509572520980797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812096532574822401/2qj18fxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 46,
+          "like_count": 1072,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 664
+        },
+        "url": "",
+        "username": "qiiiiiiike",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2081950727493292459",
+    "created_at": "2026-07-28T06:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081988332981211152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936421503530307584",
+          "start": 0,
+          "username": "chichen0317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081988332981211152",
+    "in_reply_to_user_id": "1936421503530307584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081978424990540197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chichen0317 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2081950727493292459",
+        "created_at": "2026-07-28T06:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081988332981211152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936421503530307584",
+              "start": 0,
+              "username": "chichen0317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081988332981211152",
+        "in_reply_to_user_id": "1936421503530307584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081978424990540197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chichen0317 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936421503530307584",
+        "conversation_id": "2081950727493292459",
+        "created_at": "2026-07-28T05:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081978424990540197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081978424990540197",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081950727493292459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 我的天，抱抱你！一切都会好起来的，我之前也这样🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 476,
+          "like_count": 4614,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1727
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T13:51:38.000Z",
+        "description": "ケーキが一番美味しいです！🍰",
+        "id": "1936421503530307584",
+        "location": "Koto-ku, Tokyo",
+        "name": "🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081978628598874112/Ea8DzvPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 25,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "chichen0317",
+        "verified": false
+      }
+    ]
+  }
+}

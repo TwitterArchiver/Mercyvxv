@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2076299487535108414",
+    "created_at": "2026-07-13T02:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T03:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076488030165287386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011793328988438531",
+          "start": 0,
+          "username": "angelkawaii011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076488030165287386",
+    "in_reply_to_user_id": "2011793328988438531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076299487535108414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaii011 啊啊我之前一直吃安非他酮然后抽烟没感觉气死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2076299487535108414",
+        "created_at": "2026-07-13T02:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076488030165287386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011793328988438531",
+              "start": 0,
+              "username": "angelkawaii011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076488030165287386",
+        "in_reply_to_user_id": "2011793328988438531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076299487535108414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii011 啊啊我之前一直吃安非他酮然后抽烟没感觉气死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011793328988438531",
+        "conversation_id": "2076299487535108414",
+        "created_at": "2026-07-12T13:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076299487535108414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076299487535108414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要当一条分离焦虑的狗 少吃安非他酮好吗！抽烟苦死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 269,
+          "like_count": 546,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T13:31:28.000Z",
+        "description": "健健康康地爱人 健健康康地被爱",
+        "id": "2011793328988438531",
+        "name": "01全否定bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071500253220487168/1EMgAIdM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 141,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "angelkawaii011",
+        "verified": false
+      }
+    ]
+  }
+}

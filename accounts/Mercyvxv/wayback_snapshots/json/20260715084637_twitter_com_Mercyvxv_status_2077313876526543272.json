@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2077313876526543272",
+    "created_at": "2026-07-15T08:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077313876526543272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1882697857393893376",
+          "start": 3,
+          "username": "8964reckless_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077313876526543272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077202254369841530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964reckless_: 小时候觉得辍学的吸毒的抽烟的酗酒的自残的纹身的穿奇装异服的滥交的同性恋的人妖的都好可怕呀长大了发现全你妈是我自己太好笑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2077313876526543272",
+        "created_at": "2026-07-15T08:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077313876526543272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1882697857393893376",
+              "start": 3,
+              "username": "8964reckless_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077313876526543272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077202254369841530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964reckless_: 小时候觉得辍学的吸毒的抽烟的酗酒的自残的纹身的穿奇装异服的滥交的同性恋的人妖的都好可怕呀长大了发现全你妈是我自己太好笑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882697857393893376",
+        "conversation_id": "2077202254369841530",
+        "created_at": "2026-07-15T01:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T02:20:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077201703913550048",
+          "2077202254369841530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077202254369841530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 400,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小时候觉得辍学的吸毒的抽烟的酗酒的自残的纹身的穿奇装异服的滥交的同性恋的人妖的都好可怕呀长大了发现全你妈是我自己太好笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 297,
+          "like_count": 1103,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 394
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T07:53:19.000Z",
+        "description": "好丽友派@Xooaviccc\n首先我不听摇滚｜皮套@8964_xy11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "Xooaviccc"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "8964_xy11"
+              }
+            ]
+          }
+        },
+        "id": "1882697857393893376",
+        "location": "Nowhere",
+        "name": "sakuta_02",
+        "pinned_tweet_id": "2061866105912869370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066191819030081536/20xAvW3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 470,
+          "like_count": 9287,
+          "listed_count": 3,
+          "media_count": 277,
+          "tweet_count": 3495
+        },
+        "url": "",
+        "username": "8964reckless_",
+        "verified": true
+      }
+    ]
+  }
+}

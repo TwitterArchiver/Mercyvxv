@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2080165633610875043",
+    "created_at": "2026-07-23T08:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T09:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080208075290743139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2078716467781013504",
+          "start": 0,
+          "username": "slearthly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080208075290743139",
+    "in_reply_to_user_id": "2078716467781013504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080207864476697087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slearthly 那是80mg 800mg致死量啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080165633610875043",
+        "created_at": "2026-07-23T08:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080208075290743139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2078716467781013504",
+              "start": 0,
+              "username": "slearthly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080208075290743139",
+        "in_reply_to_user_id": "2078716467781013504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080207864476697087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slearthly 那是80mg 800mg致死量啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078716467781013504",
+        "conversation_id": "2080165633610875043",
+        "created_at": "2026-07-23T08:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080207864476697087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080207864476697087",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080206461234507871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 不知道，我吃了八片吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2080155564907413840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 431,
+          "like_count": 3265,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1165
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-19T05:54:53.000Z",
+        "description": "励志在不亏本的情况下尽量降低糖价\n雌/孕/抗雄/减肥药代理/美白/pr金刚🌽\n09年无证/🍥25.11.16/od妹/双向/坐标广东/高二/jumpstyle爱好者/可互fo  可以叫咱雾川岛/小雾/买糖私信ovo/没回就是在睡觉",
+        "id": "2078716467781013504",
+        "name": "sly雾川岛🍥-糖商",
+        "pinned_tweet_id": "2080126448099340298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079183410195845120/SDOhXjtC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 107,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "slearthly",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2079409649108021713",
+    "created_at": "2026-07-21T03:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079409649108021713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hermosaw571/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hermosaw571/status/2079208590284554746",
+          "start": 8,
+          "url": "https://t.co/swtg4o8YxX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079409649108021713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079208590284554746",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有日系麦片姐 https://t.co/swtg4o8YxX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2079409649108021713",
+        "created_at": "2026-07-21T03:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079409649108021713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hermosaw571/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hermosaw571/status/2079208590284554746",
+              "start": 8,
+              "url": "https://t.co/swtg4o8YxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079409649108021713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079208590284554746",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有日系麦片姐 https://t.co/swtg4o8YxX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043449955323437057",
+        "conversation_id": "2079180548602491204",
+        "created_at": "2026-07-20T14:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079208590284554746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079208590284554746",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079180548602491204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 🍽️元気もらった🦃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 407,
+          "like_count": 2721,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 928
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T22:03:31.000Z",
+        "description": "已入驻高端真实曰P平台👉https://t.co/srJAMyeOqG 🍑X上超多小姐姐都在这里，真人认证严格把关，全程隐私加密保护，上平台安全有保障，不用担心泄露🍑附近可直接加V，随时约～小号已被禁言，大号在这👉@cdr2404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 107,
+                "username": "cdr2404"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "h6t8.top",
+                "end": 35,
+                "expanded_url": "https://h6t8.top",
+                "start": 12,
+                "url": "https://t.co/srJAMyeOqG"
+              }
+            ]
+          }
+        },
+        "id": "2043449955323437057",
+        "location": "3.8 公里",
+        "name": "奶思🍊同城约P🍊点主页",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079208893386035200/qW87dyMY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "HermosaW571",
+        "verified": false
+      }
+    ]
+  }
+}

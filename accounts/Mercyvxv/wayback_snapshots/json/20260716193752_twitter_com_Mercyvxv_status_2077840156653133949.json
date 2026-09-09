@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2077733569418690890",
+    "created_at": "2026-07-16T19:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T20:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077840156653133949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1944341985118023680",
+          "start": 0,
+          "username": "liberazioney_60"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077840156653133949",
+    "in_reply_to_user_id": "1944341985118023680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077752603887411671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liberazioney_60 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2077733569418690890",
+        "created_at": "2026-07-16T19:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T20:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077840156653133949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1944341985118023680",
+              "start": 0,
+              "username": "liberazioney_60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077840156653133949",
+        "in_reply_to_user_id": "1944341985118023680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077752603887411671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liberazioney_60 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944341985118023680",
+        "conversation_id": "2077733569418690890",
+        "created_at": "2026-07-16T13:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077752603887411671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077752603887411671",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077733569418690890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 摸摸你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 310,
+          "like_count": 1496,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T10:24:33.000Z",
+        "description": "cn卷卷 双子 intj 泛 switch \n我看极端主义未必极端",
+        "id": "1944341985118023680",
+        "name": "其实我伤口也很痛",
+        "pinned_tweet_id": "2074864077843890243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074759785552171008/QlfveBVN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 46,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "liberazioney_60",
+        "verified": false
+      }
+    ]
+  }
+}

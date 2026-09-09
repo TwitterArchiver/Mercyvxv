@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2081962236218945827",
+    "created_at": "2026-07-28T04:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T05:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081962236218945827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mercyvxv/statu…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/mercyvxv/status/2081950727493292459",
+          "start": 17,
+          "url": "https://t.co/BrlEajjTyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081962236218945827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081950727493292459",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们能看出来我之前胳膊上刻了字吗 https://t.co/BrlEajjTyy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2081950718928494592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSTJfGaIAAWZu-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2081962236218945827",
+        "created_at": "2026-07-28T04:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081962236218945827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mercyvxv/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/mercyvxv/status/2081950727493292459",
+              "start": 17,
+              "url": "https://t.co/BrlEajjTyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081962236218945827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081950727493292459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们能看出来我之前胳膊上刻了字吗 https://t.co/BrlEajjTyy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081950718928494592"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081950727493292459",
+        "created_at": "2026-07-28T03:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081950727493292459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghjrX9HI6r",
+              "end": 26,
+              "expanded_url": "https://x.com/Mercyvxv/status/2081950727493292459/photo/1",
+              "media_key": "3_2081950718928494592",
+              "start": 3,
+              "url": "https://t.co/ghjrX9HI6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081950727493292459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "疤痕 https://t.co/ghjrX9HI6r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 472,
+          "like_count": 4588,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1713
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

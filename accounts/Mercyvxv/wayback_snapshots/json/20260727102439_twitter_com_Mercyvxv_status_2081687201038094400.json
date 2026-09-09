@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2080869950563193143",
+    "created_at": "2026-07-27T10:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081687201038094400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058073831433179138",
+          "start": 0,
+          "username": "rippleoffq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081687201038094400",
+    "in_reply_to_user_id": "2058073831433179138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081686098049122574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rippleoffq 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080869950563193143",
+        "created_at": "2026-07-27T10:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081687201038094400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058073831433179138",
+              "start": 0,
+              "username": "rippleoffq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081687201038094400",
+        "in_reply_to_user_id": "2058073831433179138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081686098049122574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rippleoffq 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058073831433179138",
+        "conversation_id": "2080869950563193143",
+        "created_at": "2026-07-27T10:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081686098049122574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081686098049122574",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081576032201765103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 每个人的父母不一样，我的父母也是知道我有自残之后就让我去死，但是我们只需要做好自己，不用听任何人胡说八道，好好生活未来我们还有很多机会的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 462,
+          "like_count": 4373,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1596
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T06:33:55.000Z",
+        "description": "不爱男不爱女，纯爱我自己",
+        "id": "2058073831433179138",
+        "location": "离你0.1m",
+        "name": "ripple",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081682560803803136/ntPVMLKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "rippleoffq",
+        "verified": false
+      }
+    ]
+  }
+}

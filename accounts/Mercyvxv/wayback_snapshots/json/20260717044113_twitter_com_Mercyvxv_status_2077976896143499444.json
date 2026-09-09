@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2077676124700565574",
+    "created_at": "2026-07-17T04:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077976896143499444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040055575544004608",
+          "start": 0,
+          "username": "Ar19890604"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077976896143499444",
+    "in_reply_to_user_id": "2040055575544004608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077676124700565574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ar19890604 还真是滞纳猪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2077676113275334657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVjasIXMAEE0pW.jpg",
+        "width": 505
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2077676124700565574",
+        "created_at": "2026-07-17T04:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077976896143499444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040055575544004608",
+              "start": 0,
+              "username": "Ar19890604"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077976896143499444",
+        "in_reply_to_user_id": "2040055575544004608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077676124700565574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ar19890604 还真是滞纳猪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077676113275334657"
+          ]
+        },
+        "author_id": "2040055575544004608",
+        "conversation_id": "2077676124700565574",
+        "created_at": "2026-07-16T08:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077676124700565574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y9gRqLiN19",
+              "end": 34,
+              "expanded_url": "https://x.com/Ar19890604/status/2077676124700565574/photo/1",
+              "media_key": "3_2077676113275334657",
+              "start": 11,
+              "url": "https://t.co/y9gRqLiN19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077676124700565574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9845,
+          "like_count": 121,
+          "quote_count": 1,
+          "reply_count": 80,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "死了怎这么多支那猪啊 https://t.co/y9gRqLiN19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 319,
+          "like_count": 1644,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 605
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T13:16:13.000Z",
+        "description": "新自由主义 哈耶克学派\n温和支黑 精日 台独",
+        "id": "2040055575544004608",
+        "location": "中国中南海",
+        "name": "Ar.🇯🇵 🇹🇼 🇺🇦🇬🇧🇫🇮（互fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066739669447102464/nLgeC86F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 95,
+          "like_count": 3623,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 1107
+        },
+        "url": "",
+        "username": "Ar19890604",
+        "verified": false
+      }
+    ]
+  }
+}

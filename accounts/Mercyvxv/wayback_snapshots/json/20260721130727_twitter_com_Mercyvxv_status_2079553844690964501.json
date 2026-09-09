@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2078922852796121567",
+    "created_at": "2026-07-21T13:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079553844690964501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1864244294984364032",
+          "start": 0,
+          "username": "Paiynn173"
+        },
+        {
+          "end": 24,
+          "id": "1124790071314587648",
+          "start": 11,
+          "username": "LanwujiDrink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079553844690964501",
+    "in_reply_to_user_id": "1864244294984364032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079553383615381979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Paiynn173 @LanwujiDrink 容易badtrip 不过图里这个貌似是met不是dpt 我也忘记给叶老板送的什么了 总之是这两个中的一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2078922852796121567",
+        "created_at": "2026-07-21T13:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079553844690964501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1864244294984364032",
+              "start": 0,
+              "username": "Paiynn173"
+            },
+            {
+              "end": 24,
+              "id": "1124790071314587648",
+              "start": 11,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079553844690964501",
+        "in_reply_to_user_id": "1864244294984364032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079553383615381979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paiynn173 @LanwujiDrink 容易badtrip 不过图里这个貌似是met不是dpt 我也忘记给叶老板送的什么了 总之是这两个中的一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864244294984364032",
+        "conversation_id": "2078922852796121567",
+        "created_at": "2026-07-21T13:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079553383615381979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            },
+            {
+              "end": 23,
+              "id": "1124790071314587648",
+              "start": 10,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079553383615381979",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079039596772622596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv @LanwujiDrink omg这个效果怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 413,
+          "like_count": 2861,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1000
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T09:44:34.000Z",
+        "description": "转生4.0...真是够了..../🔞R18，武汉/流动性别（酷儿？）/INFP 认出我是谁请不要伸张/17",
+        "id": "1864244294984364032",
+        "location": "武汉",
+        "name": "蒎蒎霖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948622219518820352/C4W15-JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 434,
+          "like_count": 737,
+          "listed_count": 4,
+          "media_count": 30,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "Paiynn173",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年｜When the devil can’t get to you he send hoes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2079147346848633137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 121,
+          "like_count": 2986,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1059
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false
+      }
+    ]
+  }
+}

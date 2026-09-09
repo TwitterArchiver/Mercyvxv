@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081894170168352769"
+      ],
+      "media_source_tweet_id": [
+        "2081894180620513395"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2082076617573315030",
+    "created_at": "2026-07-28T12:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082076617573315030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1980479917306298368",
+          "start": 3,
+          "username": "acervygatinhos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/38K3jvE37s",
+          "end": 94,
+          "expanded_url": "https://x.com/acervygatinhos/status/2081894180620513395/video/1",
+          "media_key": "13_2081894170168352769",
+          "start": 71,
+          "url": "https://t.co/38K3jvE37s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082076617573315030",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 594
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081894180620513395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acervygatinhos: gatinho pronto pra acender seu cigarrinho e caindo https://t.co/38K3jvE37s"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2966,
+        "height": 720,
+        "media_key": "13_2081894170168352769",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081894170168352769/img/ZhW7LNvsG0BsSg79.jpg",
+        "public_metrics": {
+          "view_count": 36902
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081894170168352769/vid/avc1/320x320/lOLlUnkXSXVqaaaM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081894170168352769/vid/avc1/540x540/gQxy21AZozs84lqC.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081894170168352769/vid/avc1/720x720/Qvon-ILJuFV81V7n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081894170168352769/pl/9vGnCdfjWMLAJ4Hr.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081894170168352769"
+          ]
+        },
+        "author_id": "1980479917306298368",
+        "conversation_id": "2081894180620513395",
+        "created_at": "2026-07-28T00:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T01:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081894180620513395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/38K3jvE37s",
+              "end": 74,
+              "expanded_url": "https://x.com/acervygatinhos/status/2081894180620513395/video/1",
+              "media_key": "13_2081894170168352769",
+              "start": 51,
+              "url": "https://t.co/38K3jvE37s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081894180620513395",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 477,
+          "impression_count": 93687,
+          "like_count": 4084,
+          "quote_count": 49,
+          "reply_count": 24,
+          "retweet_count": 594
+        },
+        "reply_settings": "everyone",
+        "text": "gatinho pronto pra acender seu cigarrinho e caindo https://t.co/38K3jvE37s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081894170168352769"
+          ],
+          "media_source_tweet_id": [
+            "2081894180620513395"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2082076617573315030",
+        "created_at": "2026-07-28T12:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082076617573315030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1980479917306298368",
+              "start": 3,
+              "username": "acervygatinhos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/38K3jvE37s",
+              "end": 94,
+              "expanded_url": "https://x.com/acervygatinhos/status/2081894180620513395/video/1",
+              "media_key": "13_2081894170168352769",
+              "start": 71,
+              "url": "https://t.co/38K3jvE37s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082076617573315030",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 594
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081894180620513395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acervygatinhos: gatinho pronto pra acender seu cigarrinho e caindo https://t.co/38K3jvE37s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 483,
+          "like_count": 4769,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1806
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T03:43:20.000Z",
+        "description": "videos de gatinhos pra vcs 🐈",
+        "id": "1980479917306298368",
+        "location": "Brasil",
+        "name": "acervo gatinhos",
+        "pinned_tweet_id": "1993748537029587296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078447272602300416/ANAl_uSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2868,
+          "following_count": 9,
+          "like_count": 2256,
+          "listed_count": 6,
+          "media_count": 153,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "acervygatinhos",
+        "verified": true
+      }
+    ]
+  }
+}

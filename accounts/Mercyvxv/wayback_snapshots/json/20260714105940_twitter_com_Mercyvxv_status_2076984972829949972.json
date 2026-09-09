@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2076919586780516596",
+    "created_at": "2026-07-14T10:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076984972829949972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1528077789944946688",
+          "start": 0,
+          "username": "ZaoNaJang_"
+        },
+        {
+          "end": 23,
+          "id": "1841626911228780545",
+          "start": 12,
+          "username": "kujou_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076984972829949972",
+    "in_reply_to_user_id": "1528077789944946688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076982410160595173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaoNaJang_ @kujou_king 而且我去西安是看病的不是玩的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2076919586780516596",
+        "created_at": "2026-07-14T10:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076984972829949972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1528077789944946688",
+              "start": 0,
+              "username": "ZaoNaJang_"
+            },
+            {
+              "end": 23,
+              "id": "1841626911228780545",
+              "start": 12,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076984972829949972",
+        "in_reply_to_user_id": "1528077789944946688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076982410160595173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaoNaJang_ @kujou_king 而且我去西安是看病的不是玩的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528077789944946688",
+        "conversation_id": "2076919586780516596",
+        "created_at": "2026-07-14T10:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076982410160595173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            },
+            {
+              "end": 21,
+              "id": "1841626911228780545",
+              "start": 10,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076982410160595173",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076980179168268468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv @kujou_king 你马勒戈壁 你踏马一个打中文简体的人 能说出南京大刺杀 你调侃什么 你学过历史吗 孩子 \n你是日本的狗对不对 啊 孩子 护你主人这么好 南京大屠杀还能让你娱乐化啊 撒子 就你这种几把人还在西安玩你妈呢 废物 老撒子玩意 你也给爹滚出中国 回到你的日本去孩子 你是人吗。兄弟 你问一下你祖辈丝光了没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 286,
+          "like_count": 850,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 298
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T18:18:39.000Z",
+        "description": "",
+        "id": "1528077789944946688",
+        "location": "Shanghai",
+        "name": "泷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070506528361349120/XdWllLDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 3,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "ZaoNaJang_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "中国人别骂我了，我最喜欢中国人了，女孩都回fo的（请直接告诉我），",
+        "id": "1841626911228780545",
+        "location": "没有🚪不加V不扩列不要问了",
+        "name": "🧸猪圈的传说愛莉莎🍺",
+        "pinned_tweet_id": "1871831076504735759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074828437475430400/3AkBvFn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2522,
+          "following_count": 344,
+          "like_count": 5273,
+          "listed_count": 20,
+          "media_count": 62,
+          "tweet_count": 2199
+        },
+        "url": "",
+        "username": "kujou_king",
+        "verified": false
+      }
+    ]
+  }
+}

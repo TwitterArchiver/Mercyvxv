@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2077653591742124330",
+    "created_at": "2026-07-16T07:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T08:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077653591742124330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/edmondleconte/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/edmondleconte/status/2077566568788107457",
+          "start": 12,
+          "url": "https://t.co/IWtaeCYwwL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077653591742124330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077566568788107457",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好萌的机器人你们还骂吗 https://t.co/IWtaeCYwwL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2077653591742124330",
+        "created_at": "2026-07-16T07:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077653591742124330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/edmondleconte/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/edmondleconte/status/2077566568788107457",
+              "start": 12,
+              "url": "https://t.co/IWtaeCYwwL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077653591742124330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077566568788107457",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好萌的机器人你们还骂吗 https://t.co/IWtaeCYwwL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066973531456364544",
+        "conversation_id": "2077421974264135806",
+        "created_at": "2026-07-16T01:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077566568788107457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813393863819587584",
+              "start": 0,
+              "username": "FallingKillme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077566568788107457",
+        "in_reply_to_user_id": "1813393863819587584",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077421974264135806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FallingKillme 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 307,
+          "like_count": 1425,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 535
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T19:58:09.000Z",
+        "description": "22岁女大 身高168cm 接线下 口嗨的勿扰 喝🍵可以深入哟\n\n~桐🥁城⛱️上☎️椚~下方👇👇可联系✈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linlove9",
+                "end": 23,
+                "expanded_url": "http://t.me/linlove9",
+                "start": 0,
+                "url": "https://t.co/C3tWjNcIC0"
+              }
+            ]
+          }
+        },
+        "id": "2066973531456364544",
+        "location": "距离2.5km👉✈",
+        "name": "魏晶🌸同城丄门🌸外围喝🍵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077566578141368320/42tzph6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/C3tWjNcIC0",
+        "username": "EdmondLeconte",
+        "verified": false
+      }
+    ]
+  }
+}

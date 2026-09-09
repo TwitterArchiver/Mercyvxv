@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2077383266617962710",
+    "created_at": "2026-07-16T02:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T03:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077585849424982336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2077230282604961792",
+          "start": 0,
+          "username": "SLRIGHT1227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077585849424982336",
+    "in_reply_to_user_id": "2077230282604961792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077479231618265460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SLRIGHT1227 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2077383266617962710",
+        "created_at": "2026-07-16T02:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T03:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077585849424982336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2077230282604961792",
+              "start": 0,
+              "username": "SLRIGHT1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077585849424982336",
+        "in_reply_to_user_id": "2077230282604961792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077479231618265460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SLRIGHT1227 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077230282604961792",
+        "conversation_id": "2077383266617962710",
+        "created_at": "2026-07-15T19:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T20:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077479231618265460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077479231618265460",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077383266617962710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 并没有呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 303,
+          "like_count": 1236,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 471
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T03:15:47.000Z",
+        "description": "私は中国から来た日本語の学生、日本語はまだ上手じゃないので、中国語で話してください。よろしくお願いします",
+        "id": "2077230282604961792",
+        "name": "SLRIGHT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077230914955104256/geu9PpxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "SLRIGHT1227",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2078770124572803164",
+    "created_at": "2026-07-19T09:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078770298695098781"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078770298695098781",
+    "in_reply_to_user_id": "2063169843671793664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078770124572803164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我翻了半天相册就这一张小橘子的图（（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2078770109527834624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlGZpwbQAAXKZ6.jpg",
+        "width": 1919
+      },
+      {
+        "height": 583,
+        "media_key": "3_2078770109557215232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlGZp3bkAAr96i.jpg",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2078770124572803164",
+        "created_at": "2026-07-19T09:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078770298695098781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078770298695098781",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078770124572803164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我翻了半天相册就这一张小橘子的图（（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078770109527834624",
+            "3_2078770109557215232"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2078770124572803164",
+        "created_at": "2026-07-19T09:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078770124572803164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B6a1WW42oP",
+              "end": 36,
+              "expanded_url": "https://x.com/Mercyvxv/status/2078770124572803164/photo/1",
+              "media_key": "3_2078770109527834624",
+              "start": 13,
+              "url": "https://t.co/B6a1WW42oP"
+            },
+            {
+              "display_url": "pic.x.com/B6a1WW42oP",
+              "end": 36,
+              "expanded_url": "https://x.com/Mercyvxv/status/2078770124572803164/photo/1",
+              "media_key": "3_2078770109557215232",
+              "start": 13,
+              "url": "https://t.co/B6a1WW42oP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078770124572803164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最喜欢的是向日葵和小橘子 https://t.co/B6a1WW42oP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 371,
+          "like_count": 2360,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 819
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

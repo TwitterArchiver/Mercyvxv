@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076651041572196352"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076639980483645913",
+    "created_at": "2026-07-13T12:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076651052385099795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032059814348754944",
+          "start": 0,
+          "username": "KrvyScorpii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/11TH3PWP4x",
+          "end": 40,
+          "expanded_url": "https://x.com/Mercyvxv/status/2076651052385099795/photo/1",
+          "media_key": "3_2076651041572196352",
+          "start": 17,
+          "url": "https://t.co/11TH3PWP4x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076651052385099795",
+    "in_reply_to_user_id": "2032059814348754944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076639980483645913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KrvyScorpii 望周知 https://t.co/11TH3PWP4x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 503,
+        "media_key": "3_2076651041572196352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNG_HqdbEAAL2Jm.jpg",
+        "width": 641
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076639969620496384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNG1DMObkAAgtUH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076651041572196352"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076639980483645913",
+        "created_at": "2026-07-13T12:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076651052385099795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032059814348754944",
+              "start": 0,
+              "username": "KrvyScorpii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/11TH3PWP4x",
+              "end": 40,
+              "expanded_url": "https://x.com/Mercyvxv/status/2076651052385099795/photo/1",
+              "media_key": "3_2076651041572196352",
+              "start": 17,
+              "url": "https://t.co/11TH3PWP4x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076651052385099795",
+        "in_reply_to_user_id": "2032059814348754944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076639980483645913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KrvyScorpii 望周知 https://t.co/11TH3PWP4x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076639969620496384"
+          ]
+        },
+        "author_id": "2032059814348754944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076639980483645913",
+        "created_at": "2026-07-13T12:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076639980483645913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pN1NveSElp",
+              "end": 40,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2076639980483645913/photo/1",
+              "media_key": "3_2076639969620496384",
+              "start": 17,
+              "url": "https://t.co/pN1NveSElp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076639980483645913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这堆东西也是用不上了 该处理了吧 https://t.co/pN1NveSElp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 275,
+          "like_count": 638,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T11:43:12.000Z",
+        "description": "这里是krvy，前pdw wiki管理员，退役oder，某传奇贝斯手，希望能成为人类",
+        "id": "2032059814348754944",
+        "name": "Krvy #心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055970057549934592/BEgsZwuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 77,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "KrvyScorpii",
+        "verified": false
+      }
+    ]
+  }
+}

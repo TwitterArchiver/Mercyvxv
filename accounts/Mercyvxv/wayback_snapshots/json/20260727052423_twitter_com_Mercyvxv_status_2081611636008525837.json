@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078639707047501824"
+      ],
+      "media_source_tweet_id": [
+        "2078639737552695365"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2081611636008525837",
+    "created_at": "2026-07-27T05:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T06:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081611636008525837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750468126972559360",
+          "start": 3,
+          "username": "miyarah_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3UpD0a8WVc",
+          "end": 78,
+          "expanded_url": "https://x.com/jujubazofc/status/2078639737552695365/video/1",
+          "media_key": "13_2078639707047501824",
+          "start": 55,
+          "url": "https://t.co/3UpD0a8WVc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081611636008525837",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3345
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081361819713614227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyarah_: quiero pasar todo el domingo así contigo https://t.co/3UpD0a8WVc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18602,
+        "height": 720,
+        "media_key": "13_2078639707047501824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078639707047501824/img/J1pP4-26V9iG0xoP.jpg",
+        "public_metrics": {
+          "view_count": 1392643
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078639707047501824/vid/avc1/480x270/vtEPnL0UAMExTDrN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078639707047501824/vid/avc1/640x360/alDuNIzTaPnIGu8E.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078639707047501824/vid/avc1/1280x720/O6RgdZb7OvdVMcdq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078639707047501824/pl/1H2xBRK01R83boZS.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078639707047501824"
+          ]
+        },
+        "author_id": "1537692926",
+        "conversation_id": "2078639737552695365",
+        "created_at": "2026-07-19T00:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078639737552695365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PYsZA6KMdY",
+              "end": 57,
+              "expanded_url": "https://x.com/jujubazofc/status/2078639737552695365/video/1",
+              "media_key": "13_2078639707047501824",
+              "start": 34,
+              "url": "https://t.co/PYsZA6KMdY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078639737552695365",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7342,
+          "impression_count": 3998085,
+          "like_count": 85064,
+          "quote_count": 864,
+          "reply_count": 337,
+          "retweet_count": 9830
+        },
+        "reply_settings": "everyone",
+        "text": "quero passar todo o domingo assim https://t.co/PYsZA6KMdY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078639707047501824"
+          ],
+          "media_source_tweet_id": [
+            "2078639737552695365"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2081611636008525837",
+        "created_at": "2026-07-27T05:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081611636008525837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750468126972559360",
+              "start": 3,
+              "username": "miyarah_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3UpD0a8WVc",
+              "end": 78,
+              "expanded_url": "https://x.com/jujubazofc/status/2078639737552695365/video/1",
+              "media_key": "13_2078639707047501824",
+              "start": 55,
+              "url": "https://t.co/3UpD0a8WVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081611636008525837",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3345
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081361819713614227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyarah_: quiero pasar todo el domingo así contigo https://t.co/3UpD0a8WVc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078639707047501824"
+          ],
+          "media_source_tweet_id": [
+            "2078639737552695365"
+          ]
+        },
+        "author_id": "1750468126972559360",
+        "conversation_id": "2081361819713614227",
+        "created_at": "2026-07-26T12:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081361819713614227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3UpD0a8WVc",
+              "end": 64,
+              "expanded_url": "https://x.com/jujubazofc/status/2078639737552695365/video/1",
+              "media_key": "13_2078639707047501824",
+              "start": 41,
+              "url": "https://t.co/3UpD0a8WVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081361819713614227",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4025,
+          "impression_count": 1405105,
+          "like_count": 42063,
+          "quote_count": 340,
+          "reply_count": 129,
+          "retweet_count": 3345
+        },
+        "reply_settings": "everyone",
+        "text": "quiero pasar todo el domingo así contigo https://t.co/3UpD0a8WVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 457,
+          "like_count": 4268,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1540
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T10:41:08.000Z",
+        "description": "a ver pélame una mandarina",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "karl.♡",
+                "end": 23,
+                "expanded_url": "https://karl.xn--c6h",
+                "start": 0,
+                "url": "https://t.co/r6yCv7UhK4"
+              }
+            ]
+          }
+        },
+        "id": "1750468126972559360",
+        "location": "˚ ʚ 22:22 ɞ ˚",
+        "name": "miya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078907663434346496/iG271fw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17461,
+          "following_count": 2004,
+          "like_count": 184999,
+          "listed_count": 145,
+          "media_count": 6129,
+          "tweet_count": 152250
+        },
+        "url": "https://t.co/r6yCv7UhK4",
+        "username": "miyarah_",
+        "verified": false
+      }
+    ]
+  }
+}

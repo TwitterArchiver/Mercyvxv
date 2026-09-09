@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077822287546290177"
+      ],
+      "media_source_tweet_id": [
+        "2077822333243285773"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "conversation_id": "2077953791421567412",
+    "created_at": "2026-07-17T03:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077953791421567412"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 31,
+          "tag": "chainsmokercat"
+        },
+        {
+          "end": 56,
+          "start": 47,
+          "tag": "yanineko"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1425793654623457285",
+          "start": 3,
+          "username": "meowmei_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6I3Gb6xJH3",
+          "end": 80,
+          "expanded_url": "https://x.com/meowmei_/status/2077822333243285773/video/1",
+          "media_key": "13_2077822287546290177",
+          "start": 57,
+          "url": "https://t.co/6I3Gb6xJH3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077953791421567412",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2232
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077822333243285773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meowmei_: Maxwell the neko\n#chainsmokercat #yanineko https://t.co/6I3Gb6xJH3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14366,
+        "height": 720,
+        "media_key": "13_2077822287546290177",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077822287546290177/img/wnFa5avOM-lcimX1.jpg",
+        "public_metrics": {
+          "view_count": 94457
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077822287546290177/vid/avc1/330x270/NvGOS0aayps5Ck9S.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077822287546290177/vid/avc1/440x360/qvZKmqnfmT6rObiI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077822287546290177/vid/avc1/882x720/ATNykj_mWShBtgxs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077822287546290177/pl/NdPm8_u2J44UO-rN.m3u8?v=cfc"
+          }
+        ],
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077822287546290177"
+          ]
+        },
+        "author_id": "1425793654623457285",
+        "conversation_id": "2077822333243285773",
+        "created_at": "2026-07-16T18:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077822333243285773"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 17,
+              "tag": "chainsmokercat"
+            },
+            {
+              "end": 42,
+              "start": 33,
+              "tag": "yanineko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6I3Gb6xJH3",
+              "end": 66,
+              "expanded_url": "https://x.com/meowmei_/status/2077822333243285773/video/1",
+              "media_key": "13_2077822287546290177",
+              "start": 43,
+              "url": "https://t.co/6I3Gb6xJH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077822333243285773",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2640,
+          "impression_count": 211518,
+          "like_count": 18291,
+          "quote_count": 14,
+          "reply_count": 26,
+          "retweet_count": 2232
+        },
+        "reply_settings": "everyone",
+        "text": "Maxwell the neko\n#chainsmokercat #yanineko https://t.co/6I3Gb6xJH3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077822287546290177"
+          ],
+          "media_source_tweet_id": [
+            "2077822333243285773"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "conversation_id": "2077953791421567412",
+        "created_at": "2026-07-17T03:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077953791421567412"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 31,
+              "tag": "chainsmokercat"
+            },
+            {
+              "end": 56,
+              "start": 47,
+              "tag": "yanineko"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1425793654623457285",
+              "start": 3,
+              "username": "meowmei_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6I3Gb6xJH3",
+              "end": 80,
+              "expanded_url": "https://x.com/meowmei_/status/2077822333243285773/video/1",
+              "media_key": "13_2077822287546290177",
+              "start": 57,
+              "url": "https://t.co/6I3Gb6xJH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077953791421567412",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2232
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077822333243285773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meowmei_: Maxwell the neko\n#chainsmokercat #yanineko https://t.co/6I3Gb6xJH3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 320,
+          "like_count": 1585,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 594
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T12:18:03.000Z",
+        "description": "I really like memes and cats | Artist | she/her",
+        "id": "1425793654623457285",
+        "name": "meowmei🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046358690811551744/qtjBV9Id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5872,
+          "following_count": 81,
+          "like_count": 4763,
+          "listed_count": 15,
+          "media_count": 135,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "meowmei_",
+        "verified": false
+      }
+    ]
+  }
+}

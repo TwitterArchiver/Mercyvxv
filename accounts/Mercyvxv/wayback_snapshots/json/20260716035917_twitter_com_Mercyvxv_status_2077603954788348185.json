@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2077573985655820766",
+    "created_at": "2026-07-16T03:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077603954788348185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1640674561980260354",
+          "start": 0,
+          "username": "NmsleseResearch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077603954788348185",
+    "in_reply_to_user_id": "1640674561980260354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077573985655820766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NmsleseResearch 像磕大了说的话"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1210,
+        "media_key": "3_2077573977401384960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUGhmWa4AAQ6KY.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2077573985655820766",
+        "created_at": "2026-07-16T03:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077603954788348185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1640674561980260354",
+              "start": 0,
+              "username": "NmsleseResearch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077603954788348185",
+        "in_reply_to_user_id": "1640674561980260354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077573985655820766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NmsleseResearch 像磕大了说的话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077573977401384960"
+          ]
+        },
+        "author_id": "1640674561980260354",
+        "conversation_id": "2077573985655820766",
+        "created_at": "2026-07-16T02:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T03:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077573985655820766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5k0W8fSbfe",
+              "end": 23,
+              "expanded_url": "https://x.com/NmsleseResearch/status/2077573985655820766/photo/1",
+              "media_key": "3_2077573977401384960",
+              "start": 0,
+              "url": "https://t.co/5k0W8fSbfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077573985655820766",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1581,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5k0W8fSbfe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 306,
+          "like_count": 1317,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 490
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T11:17:59.000Z",
+        "description": "推特兔友的迷惑行為收集處（晚安推除外）丨歡迎投稿",
+        "id": "1640674561980260354",
+        "location": "Nmslese City",
+        "name": "🐻老大🔬兔友研究院Bot",
+        "pinned_tweet_id": "2072306616213643440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866832536816795648/rAEgM1H5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17177,
+          "following_count": 2781,
+          "like_count": 449688,
+          "listed_count": 79,
+          "media_count": 9178,
+          "tweet_count": 25357
+        },
+        "url": "",
+        "username": "NmsleseResearch",
+        "verified": true
+      }
+    ]
+  }
+}

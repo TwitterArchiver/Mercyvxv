@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2080163053363228689",
+    "created_at": "2026-07-23T12:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080269543705129109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701574041507934208",
+          "start": 0,
+          "username": "shji1080972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080269543705129109",
+    "in_reply_to_user_id": "1701574041507934208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080268242858430796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shji1080972 我已经住过三四次精神病院了 封闭病房也去过 戒毒所也进过去待了一个月 没用 我只想着出来以后怎么吸毒 我已经彻底堕落了 早就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080163053363228689",
+        "created_at": "2026-07-23T12:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080269543705129109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701574041507934208",
+              "start": 0,
+              "username": "shji1080972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080269543705129109",
+        "in_reply_to_user_id": "1701574041507934208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080268242858430796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shji1080972 我已经住过三四次精神病院了 封闭病房也去过 戒毒所也进过去待了一个月 没用 我只想着出来以后怎么吸毒 我已经彻底堕落了 早就是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701574041507934208",
+        "conversation_id": "2080163053363228689",
+        "created_at": "2026-07-23T12:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080268242858430796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080268242858430796",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080252935729262887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 人有时候确实需要强制，就像当兵的没有严苛训练是练不成的，你现在被强制，我相信会成就更好的你自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2080155564907413840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 433,
+          "like_count": 3325,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1189
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T12:30:50.000Z",
+        "description": "",
+        "id": "1701574041507934208",
+        "name": "世界",
+        "pinned_tweet_id": "2024489611322675684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987161096072151041/RQHT45Yc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 3,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 796
+        },
+        "url": "",
+        "username": "shji1080972",
+        "verified": false
+      }
+    ]
+  }
+}
