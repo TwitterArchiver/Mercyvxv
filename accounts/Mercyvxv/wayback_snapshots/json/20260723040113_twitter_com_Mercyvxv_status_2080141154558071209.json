@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079767213322682368",
+        "3_2079767278925787136",
+        "3_2079767282780418048"
+      ],
+      "media_source_tweet_id": [
+        "2079767286374896116",
+        "2079767286374896116",
+        "2079767286374896116"
+      ]
+    },
+    "author_id": "2063169843671793664",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080141154558071209",
+    "created_at": "2026-07-23T04:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T05:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080141154558071209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1639247931898306561",
+          "start": 3,
+          "username": "sam51824016070"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YVrlovgD9F",
+          "end": 126,
+          "expanded_url": "https://x.com/sam51824016070/status/2079767286374896116/video/1",
+          "media_key": "13_2079767213322682368",
+          "start": 103,
+          "url": "https://t.co/YVrlovgD9F"
+        },
+        {
+          "display_url": "pic.x.com/YVrlovgD9F",
+          "end": 126,
+          "expanded_url": "https://x.com/sam51824016070/status/2079767286374896116/video/1",
+          "media_key": "3_2079767278925787136",
+          "start": 103,
+          "url": "https://t.co/YVrlovgD9F"
+        },
+        {
+          "display_url": "pic.x.com/YVrlovgD9F",
+          "end": 126,
+          "expanded_url": "https://x.com/sam51824016070/status/2079767286374896116/video/1",
+          "media_key": "3_2079767282780418048",
+          "start": 103,
+          "url": "https://t.co/YVrlovgD9F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080141154558071209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 854
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079767286374896116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sam51824016070: 7月21日，据爱心人士透露，广东雷州农业局要把500只猫、狗蒸熟或者活埋处理 ⚠️\n\n目前湛江的志愿者已赶到现场救援。\n\n视频是志愿者和猫贩子搏斗抢下猫车的视频。… https://t.co/YVrlovgD9F"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27732,
+        "height": 612,
+        "media_key": "13_2079767213322682368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079767213322682368/img/Ajh6jEqE81i5g6dO.jpg",
+        "public_metrics": {
+          "view_count": 49393
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079767213322682368/vid/avc1/476x270/qAk5QKXE5WLUNQ3S.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079767213322682368/vid/avc1/634x360/ocMKYsqWwVulaUFB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079767213322682368/vid/avc1/1080x612/-qCEPcGWywSpmVxe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079767213322682368/pl/XhCrn-A1XN-LjJNh.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 729,
+        "media_key": "3_2079767278925787136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzRUjPaMAAeUl0.jpg",
+        "width": 972
+      },
+      {
+        "height": 729,
+        "media_key": "3_2079767282780418048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzRUxmbMAAgbXp.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079767213322682368",
+            "3_2079767278925787136",
+            "3_2079767282780418048"
+          ]
+        },
+        "author_id": "1639247931898306561",
+        "conversation_id": "2079767286374896116",
+        "created_at": "2026-07-22T03:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079767286374896116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YVrlovgD9F",
+              "end": 105,
+              "expanded_url": "https://x.com/sam51824016070/status/2079767286374896116/video/1",
+              "media_key": "13_2079767213322682368",
+              "start": 82,
+              "url": "https://t.co/YVrlovgD9F"
+            },
+            {
+              "display_url": "pic.x.com/YVrlovgD9F",
+              "end": 105,
+              "expanded_url": "https://x.com/sam51824016070/status/2079767286374896116/video/1",
+              "media_key": "3_2079767278925787136",
+              "start": 82,
+              "url": "https://t.co/YVrlovgD9F"
+            },
+            {
+              "display_url": "pic.x.com/YVrlovgD9F",
+              "end": 105,
+              "expanded_url": "https://x.com/sam51824016070/status/2079767286374896116/video/1",
+              "media_key": "3_2079767282780418048",
+              "start": 82,
+              "url": "https://t.co/YVrlovgD9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079767286374896116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "7月21日，据爱心人士透露，广东雷州农业局要把500只猫、狗蒸熟或者活埋处理 ⚠️\n\n目前湛江的志愿者已赶到现场救援。\n\n视频是志愿者和猫贩子搏斗抢下猫车的视频。 \n\n这五百多只猫、狗大多数是被偷盗的，包含泰迪、比熊、秋田犬等宠物犬种。已经20多个小时没有喝水，没有吃过任何的东西，有部分体力不支，或被摔死。\n\n当地政府准备将这些猫和狗做无害化处理（活埋或者焚烧）\n\n请大家紧急扩散一下，救援人员将把这五百只猫和狗的生命救下来🆘"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 87601,
+          "like_count": 2102,
+          "quote_count": 56,
+          "reply_count": 231,
+          "retweet_count": 854
+        },
+        "reply_settings": "everyone",
+        "text": "7月21日，据爱心人士透露，广东雷州农业局要把500只猫、狗蒸熟或者活埋处理 ⚠️\n\n目前湛江的志愿者已赶到现场救援。\n\n视频是志愿者和猫贩子搏斗抢下猫车的视频。 https://t.co/YVrlovgD9F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079767213322682368",
+            "3_2079767278925787136",
+            "3_2079767282780418048"
+          ],
+          "media_source_tweet_id": [
+            "2079767286374896116",
+            "2079767286374896116",
+            "2079767286374896116"
+          ]
+        },
+        "author_id": "2063169843671793664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080141154558071209",
+        "created_at": "2026-07-23T04:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080141154558071209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1639247931898306561",
+              "start": 3,
+              "username": "sam51824016070"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YVrlovgD9F",
+              "end": 126,
+              "expanded_url": "https://x.com/sam51824016070/status/2079767286374896116/video/1",
+              "media_key": "13_2079767213322682368",
+              "start": 103,
+              "url": "https://t.co/YVrlovgD9F"
+            },
+            {
+              "display_url": "pic.x.com/YVrlovgD9F",
+              "end": 126,
+              "expanded_url": "https://x.com/sam51824016070/status/2079767286374896116/video/1",
+              "media_key": "3_2079767278925787136",
+              "start": 103,
+              "url": "https://t.co/YVrlovgD9F"
+            },
+            {
+              "display_url": "pic.x.com/YVrlovgD9F",
+              "end": 126,
+              "expanded_url": "https://x.com/sam51824016070/status/2079767286374896116/video/1",
+              "media_key": "3_2079767282780418048",
+              "start": 103,
+              "url": "https://t.co/YVrlovgD9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080141154558071209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 854
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079767286374896116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sam51824016070: 7月21日，据爱心人士透露，广东雷州农业局要把500只猫、狗蒸熟或者活埋处理 ⚠️\n\n目前湛江的志愿者已赶到现场救援。\n\n视频是志愿者和猫贩子搏斗抢下猫车的视频。… https://t.co/YVrlovgD9F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 429,
+          "like_count": 3209,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1135
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T12:50:09.000Z",
+        "description": "共产党那么邪恶，如果我们不反共，我们还是人吗❓\n\n爱国就反共，反共才是真爱国，没有共产党才有新中国，爱国反共，反共光荣，亲共可耻！\n\n请关注小号https://t.co/dllXpw0KFa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Jamesso972309?…",
+                "end": 95,
+                "expanded_url": "https://x.com/Jamesso972309?t=HqKwQBV3q3Iar0J1ZHYvFQ&s=09",
+                "start": 72,
+                "url": "https://t.co/dllXpw0KFa"
+              }
+            ]
+          }
+        },
+        "id": "1639247931898306561",
+        "location": "California, USA",
+        "name": "YiFeng Su",
+        "pinned_tweet_id": "2043574281398091860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836500437815693314/URQTGhSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42466,
+          "following_count": 11735,
+          "like_count": 60749,
+          "listed_count": 202,
+          "media_count": 5271,
+          "tweet_count": 15402
+        },
+        "url": "",
+        "username": "sam51824016070",
+        "verified": true
+      }
+    ]
+  }
+}

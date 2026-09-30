@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063169843671793664",
+    "conversation_id": "2075913290677682208",
+    "created_at": "2026-07-12T05:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T06:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076177316146008073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967257406129504256",
+          "start": 0,
+          "username": "Zdu1279757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076177316146008073",
+    "in_reply_to_user_id": "1967257406129504256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075913290677682208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zdu1279757 傻逼msk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075913283287265280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8gIeraMAAIV1j.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2075913290677682208",
+        "created_at": "2026-07-12T05:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076177316146008073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967257406129504256",
+              "start": 0,
+              "username": "Zdu1279757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076177316146008073",
+        "in_reply_to_user_id": "1967257406129504256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075913290677682208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zdu1279757 傻逼msk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075913283287265280"
+          ]
+        },
+        "author_id": "1967257406129504256",
+        "conversation_id": "2075913290677682208",
+        "created_at": "2026-07-11T12:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075913290677682208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v2gAKs8Rnw",
+              "end": 31,
+              "expanded_url": "https://x.com/Zdu1279757/status/2075913290677682208/photo/1",
+              "media_key": "3_2075913283287265280",
+              "start": 8,
+              "url": "https://t.co/v2gAKs8Rnw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075913290677682208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 998,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你有病啊。。。 https://t.co/v2gAKs8Rnw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2072980468744765809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 257,
+          "like_count": 503,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T16:01:43.000Z",
+        "description": "🚪52/125/256 萌妹子免费｜自残｜泛性恋｜sub m｜互fo私信｜低精力可能不回消息｜打钱你是例外\n纯绿/半绿线下私信",
+        "id": "1967257406129504256",
+        "name": "iukio",
+        "pinned_tweet_id": "2075956408781275634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060324836292059136/KMYYNM1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 59,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 344
+        },
+        "url": "",
+        "username": "Zdu1279757",
+        "verified": false
+      }
+    ]
+  }
+}
