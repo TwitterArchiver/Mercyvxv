@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-22T07:39:51",
+  "last_updated": "2026-10-22T07:40:31",
   "html": {
     "https://web.archive.org/web/20260606081311if_/https://twitter.com/Mercyvxv/status/2063172334379524402": {
       "status": "done",
@@ -11196,13 +11196,13 @@
       "last_updated": "2026-07-12T01:56:30"
     },
     "https://video.twimg.com/tweet_video/HMpm9eeWUAAsjVS.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260712044237_twitter_com_Mercyvxv_status_2076165310097592416.json"
       ],
-      "last_updated": "2026-09-30T19:14:10",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260712044237/https://video.twimg.com/tweet_video/HMpm9eeWUAAsjVS.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f341e0fec30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-22T07:40:12",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260712044237/https://video.twimg.com/tweet_video/HMpm9eeWUAAsjVS.mp4",
+      "miss_count": 5
     },
     "https://video.twimg.com/amplify_video/2076805370664886272/vid/avc1/720x1280/lBtyrXZyCBHho3v8.mp4": {
       "status": "done",
@@ -11237,18 +11237,18 @@
       "referenced_by": [
         "20260715113154_twitter_com_Mercyvxv_status_2077355471623917642.json"
       ],
-      "last_updated": "2026-09-30T19:14:12",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260715113154/https://video.twimg.com/tweet_video/HNMkEa1X0AAQS-C.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f341e0ff3b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-22T07:40:16",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260715113154/https://video.twimg.com/tweet_video/HNMkEa1X0AAQS-C.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f390900f440>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/ext_tw_video/2077552944371904512/pu/vid/avc1/720x1280/MND5p2on3WNdok5r.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260716034427_twitter_com_Mercyvxv_status_2077600222616961109.json"
       ],
-      "last_updated": "2026-09-30T19:14:14",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260716034427/https://video.twimg.com/ext_tw_video/2077552944371904512/pu/vid/avc1/720x1280/MND5p2on3WNdok5r.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f341e4093a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-22T07:40:18",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260716034427/https://video.twimg.com/ext_tw_video/2077552944371904512/pu/vid/avc1/720x1280/MND5p2on3WNdok5r.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f390900eed0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2077336250076540928/vid/avc1/1080x1920/_F9FPuqUMNJWjfQP.mp4": {
       "status": "done",
@@ -11269,9 +11269,9 @@
       "referenced_by": [
         "20260717031542_twitter_com_Mercyvxv_status_2077955373039018236.json"
       ],
-      "last_updated": "2026-09-30T19:14:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260717031542/https://video.twimg.com/amplify_video/2077946970136883200/vid/avc1/720x1278/z_D8JXxRTcy2DeX6.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f341e40a3c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-22T07:40:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260717031542/https://video.twimg.com/amplify_video/2077946970136883200/vid/avc1/720x1278/z_D8JXxRTcy2DeX6.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f390900fe30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2078179266408181760/vid/avc1/720x714/-vOqGRIG4yDBdpR6.mp4": {
       "status": "done",
@@ -11285,16 +11285,16 @@
       "referenced_by": [
         "20260718044153_twitter_com_Mercyvxv_status_2078339450338509121.json"
       ],
-      "last_updated": "2026-09-30T19:14:18",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260718044153/https://video.twimg.com/amplify_video/2078101160230006784/vid/avc1/1024x576/coVRzETiRXYdEbk6.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f341e0fd880>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-22T07:40:21",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260718044153/https://video.twimg.com/amplify_video/2078101160230006784/vid/avc1/1024x576/coVRzETiRXYdEbk6.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3908ce7d70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2074500272890753025/vid/avc1/888x692/ZhUyBm83YXRYGL5k.mp4": {
       "status": "done",
       "referenced_by": [
         "20260718082612_twitter_com_Mercyvxv_status_2078395902918902209.json"
       ],
-      "last_updated": "2026-09-30T19:14:02"
+      "last_updated": "2026-10-22T07:40:11"
     },
     "https://video.twimg.com/amplify_video/2078447953870557184/vid/avc1/720x1280/VaBErLQManfVTlv2.mp4": {
       "status": "failed",
@@ -11302,9 +11302,9 @@
         "20260719004003_twitter_com_Mercyvxv_status_2078640978844680457.json",
         "20260719004019_twitter_com_Mercyvxv_status_2078641045685100956.json"
       ],
-      "last_updated": "2026-09-30T19:14:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260719004003/https://video.twimg.com/amplify_video/2078447953870557184/vid/avc1/720x1280/VaBErLQManfVTlv2.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f341e0fce60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 6
+      "last_updated": "2026-10-22T07:40:23",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260719004003/https://video.twimg.com/amplify_video/2078447953870557184/vid/avc1/720x1280/VaBErLQManfVTlv2.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3908ce6570>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 9
     },
     "https://video.twimg.com/ext_tw_video/2077978104933367808/pu/vid/avc1/710x1280/pcc501sujW_Q3UJw.mp4?tag=12": {
       "status": "done",
@@ -11318,9 +11318,9 @@
       "referenced_by": [
         "20260719033342_twitter_com_Mercyvxv_status_2078684679209926690.json"
       ],
-      "last_updated": "2026-09-30T19:14:22",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260719033342/https://video.twimg.com/amplify_video/2078482167261458432/vid/avc1/768x576/5BqRrwOx8Rt_B6Yo.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f341e4344d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-22T07:40:24",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260719033342/https://video.twimg.com/amplify_video/2078482167261458432/vid/avc1/768x576/5BqRrwOx8Rt_B6Yo.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3908ce63c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2078721761848573952/vid/avc1/544x960/WDeGdYmIMSGFBSsr.mp4": {
       "status": "failed_all",
@@ -11350,9 +11350,9 @@
       "referenced_by": [
         "20260721043033_twitter_com_Mercyvxv_status_2079423764606194010.json"
       ],
-      "last_updated": "2026-09-30T19:14:24",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260721043033/https://video.twimg.com/amplify_video/2079423703369326592/vid/avc1/720x1280/xYJS7_i4k1gcAi7C.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f341e0fe480>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-22T07:40:26",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260721043033/https://video.twimg.com/amplify_video/2079423703369326592/vid/avc1/720x1280/xYJS7_i4k1gcAi7C.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3909040290>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/tweet_video/HIag_-hXgAA1XIJ.mp4": {
       "status": "done",
@@ -11380,9 +11380,9 @@
       "referenced_by": [
         "20260723234526_twitter_com_Mercyvxv_status_2080439174117916937.json"
       ],
-      "last_updated": "2026-09-30T19:14:26",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723234526/https://video.twimg.com/tweet_video/HN6-S_sagAAri8q.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f341e0fe5a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-22T07:40:27",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723234526/https://video.twimg.com/tweet_video/HN6-S_sagAAri8q.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3908ce6600>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2080402114275373056/vid/avc1/720x1280/UMXt-HcJ8jknDUOA.mp4": {
       "status": "done",
@@ -11396,9 +11396,9 @@
       "referenced_by": [
         "20260724133137_twitter_com_Mercyvxv_status_2080647092230672862.json"
       ],
-      "last_updated": "2026-09-30T19:14:28",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260724133137/https://video.twimg.com/amplify_video/2080562544977326080/vid/avc1/1056x1320/pnz5ZJ-PdA2MJvEN.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f341e437020>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-22T07:40:29",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260724133137/https://video.twimg.com/amplify_video/2080562544977326080/vid/avc1/1056x1320/pnz5ZJ-PdA2MJvEN.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3908ce59d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2080302038286761984/vid/avc1/1280x720/tJIgIHwJuyAYgST3.mp4": {
       "status": "done",
@@ -11482,9 +11482,9 @@
       "referenced_by": [
         "20260728045948_twitter_com_Mercyvxv_status_2081967837175074991.json"
       ],
-      "last_updated": "2026-09-30T19:14:30",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260728045948/https://video.twimg.com/tweet_video/HOSicd0a8AAIz_H.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f341e436ae0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-22T07:40:31",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260728045948/https://video.twimg.com/tweet_video/HOSicd0a8AAIz_H.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f3909043bf0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/tweet_video/HOSu1uya0AAsJzi.mp4": {
       "status": "failed_all",
@@ -20819,8 +20819,8 @@
           "https://pbs.twimg.com/profile_images/2069981304528265216/T45W7wQw_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:43",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260712002050_twitter_com_Mercyvxv_status_2076099427018928429.json": {
       "status": "done",
@@ -20939,8 +20939,8 @@
           "https://pbs.twimg.com/profile_images/2074546299471364096/Wdazn5KZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:36",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:12",
+      "miss_count": 4
     },
     "20260712044436_twitter_com_Mercyvxv_status_2076165807906996279.json": {
       "status": "done",
@@ -21028,8 +21028,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:42",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260712052637_twitter_com_Mercyvxv_status_2076176382418378968.json": {
       "status": "done",
@@ -21301,8 +21301,8 @@
           "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:50",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260713021123_twitter_com_Mercyvxv_status_2076489638135701943.json": {
       "status": "done",
@@ -21454,8 +21454,8 @@
           "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:42",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260713042839_twitter_com_Mercyvxv_status_2076524183291637792.json": {
       "status": "done",
@@ -21633,8 +21633,8 @@
           "https://pbs.twimg.com/profile_images/2055970057549934592/BEgsZwuu_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:43",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260713125806_twitter_com_Mercyvxv_status_2076652387352342841.json": {
       "status": "done",
@@ -21813,8 +21813,8 @@
           "https://pbs.twimg.com/profile_images/2076340017820012544/rUe-A_Xi_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:37",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260713145221_twitter_com_Mercyvxv_status_2076681141860573209.json": {
       "status": "done",
@@ -21839,8 +21839,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:47",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260713151301_twitter_com_Mercyvxv_status_2076686342147420568.json": {
       "status": "done",
@@ -21995,8 +21995,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:42",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260714001729_twitter_com_Mercyvxv_status_2076823362027012108.json": {
       "status": "done",
@@ -22082,8 +22082,8 @@
           "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:42",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260714005150_twitter_com_Mercyvxv_status_2076832006642728989.json": {
       "status": "done",
@@ -22334,8 +22334,8 @@
           "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:43",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260714032608_twitter_com_Mercyvxv_status_2076870837928595600.json": {
       "status": "done",
@@ -22396,8 +22396,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:43",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260714055916_twitter_com_Mercyvxv_status_2076909372551340158.json": {
       "status": "done",
@@ -22438,8 +22438,8 @@
           "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:42",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260714063035_twitter_com_Mercyvxv_status_2076917253636080011.json": {
       "status": "done",
@@ -22477,8 +22477,8 @@
           "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:42",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260714065014_twitter_com_Mercyvxv_status_2076922199966138713.json": {
       "status": "done",
@@ -22629,8 +22629,8 @@
           "https://pbs.twimg.com/profile_images/2073918997352042496/2Op7wLRU_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:45",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260714090711_twitter_com_Mercyvxv_status_2076956664989884799.json": {
       "status": "done",
@@ -22732,8 +22732,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:42",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260714104037_twitter_com_Mercyvxv_status_2076980179168268468.json": {
       "status": "done",
@@ -22885,8 +22885,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:50",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260714113132_twitter_com_Mercyvxv_status_2076992991106138119.json": {
       "status": "done",
@@ -22911,8 +22911,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:43",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260714113502_twitter_com_Mercyvxv_status_2076993872761352645.json": {
       "status": "done",
@@ -23081,8 +23081,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:42",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260714130743_twitter_com_Mercyvxv_status_2077017198879780883.json": {
       "status": "failed",
@@ -23098,8 +23098,8 @@
           "https://pbs.twimg.com/profile_images/2069134933218705408/DX0rO-YL_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:51",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260714133406_twitter_com_Mercyvxv_status_2077023837422825608.json": {
       "status": "done",
@@ -23692,8 +23692,8 @@
           "https://pbs.twimg.com/profile_images/2077264367675158528/TtdjDHZs_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:36",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260715060343_twitter_com_Mercyvxv_status_2077272880564642131.json": {
       "status": "done",
@@ -23828,8 +23828,8 @@
           "https://pbs.twimg.com/profile_images/2068513298073464832/wfEQdkrV_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:42",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260715080836_twitter_com_Mercyvxv_status_2077304310321565744.json": {
       "status": "done",
@@ -23890,8 +23890,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:42",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260715082507_twitter_com_Mercyvxv_status_2077308467086545073.json": {
       "status": "done",
@@ -24002,8 +24002,8 @@
           "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:42",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260715084510_twitter_com_Mercyvxv_status_2077313511865352434.json": {
       "status": "failed",
@@ -24017,8 +24017,8 @@
           "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:43",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260715084637_twitter_com_Mercyvxv_status_2077313876526543272.json": {
       "status": "done",
@@ -24058,8 +24058,8 @@
           "https://pbs.twimg.com/profile_images/2069981304528265216/T45W7wQw_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:43",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260715090458_twitter_com_Mercyvxv_status_2077318494090375230.json": {
       "status": "done",
@@ -24084,8 +24084,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:43",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260715091511_twitter_com_Mercyvxv_status_2077321065592984017.json": {
       "status": "done",
@@ -24110,8 +24110,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:43",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260715092508_twitter_com_Mercyvxv_status_2077323569638609329.json": {
       "status": "done",
@@ -24161,8 +24161,8 @@
           "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:45",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260715095918_twitter_com_Mercyvxv_status_2077332167080951900.json": {
       "status": "done",
@@ -24213,8 +24213,8 @@
           "https://pbs.twimg.com/profile_images/2074697509218451456/NpoLVx4e_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:45",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260715101005_twitter_com_Mercyvxv_status_2077334881848406511.json": {
       "status": "done",
@@ -24481,8 +24481,8 @@
           "https://pbs.twimg.com/profile_images/2076995667696746496/LTY8RLkK_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:42",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:13",
+      "miss_count": 4
     },
     "20260715113525_twitter_com_Mercyvxv_status_2077356358270349582.json": {
       "status": "done",
@@ -25194,8 +25194,8 @@
           "https://pbs.twimg.com/profile_images/2074545882113175552/FkKVCOGA_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:42",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:13",
+      "miss_count": 4
     },
     "20260716035244_twitter_com_Mercyvxv_status_2077602307550949466.json": {
       "status": "done",
@@ -25232,8 +25232,8 @@
           "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260716035917_twitter_com_Mercyvxv_status_2077603954788348185.json": {
       "status": "done",
@@ -25261,8 +25261,8 @@
           "https://pbs.twimg.com/profile_images/2074747089364676608/HhVfDGZU_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260716040447_twitter_com_Mercyvxv_status_2077605340439605760.json": {
       "status": "done",
@@ -25316,8 +25316,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260716042337_twitter_com_Mercyvxv_status_2077610080544104556.json": {
       "status": "done",
@@ -25668,8 +25668,8 @@
           "https://pbs.twimg.com/profile_images/2073035952327651328/EtUxkOWV_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:43",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260716054236_twitter_com_Mercyvxv_status_2077629953815019746.json": {
       "status": "done",
@@ -25706,8 +25706,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260716060546_twitter_com_Mercyvxv_status_2077635784086364192.json": {
       "status": "failed",
@@ -25720,8 +25720,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260716060625_twitter_com_Mercyvxv_status_2077635950705091071.json": {
       "status": "done",
@@ -25842,8 +25842,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:47",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260716073628_twitter_com_Mercyvxv_status_2077658609086013819.json": {
       "status": "failed",
@@ -25856,8 +25856,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260716074958_twitter_com_Mercyvxv_status_2077662006346420325.json": {
       "status": "done",
@@ -26354,8 +26354,8 @@
           "https://pbs.twimg.com/profile_images/2075742694026997760/ZtwMogM0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:43",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260716201542_twitter_com_Mercyvxv_status_2077849677131813115.json": {
       "status": "done",
@@ -26440,8 +26440,8 @@
           "https://pbs.twimg.com/profile_images/2075693863856111616/sa-_au8z_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:43",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260717005125_twitter_com_Mercyvxv_status_2077919065654636928.json": {
       "status": "done",
@@ -26580,8 +26580,8 @@
           "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:43",
-      "miss_count": 4
+      "last_updated": "2026-10-22T07:40:14",
+      "miss_count": 5
     },
     "20260717031852_twitter_com_Mercyvxv_status_2077956172288852297.json": {
       "status": "done",
@@ -26794,8 +26794,8 @@
           "https://pbs.twimg.com/profile_images/2077030321720279040/Yp2xnY-p_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260717055759_twitter_com_Mercyvxv_status_2077996214642151765.json": {
       "status": "done",
@@ -26900,8 +26900,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260717074306_twitter_com_Mercyvxv_status_2078022669212201189.json": {
       "status": "done",
@@ -27068,8 +27068,8 @@
           "https://pbs.twimg.com/profile_images/2028665971293233152/cQFIla8e_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260717120707_twitter_com_Mercyvxv_status_2078089111509094825.json": {
       "status": "done",
@@ -27182,8 +27182,8 @@
           "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260717130516_twitter_com_Mercyvxv_status_2078103744160600213.json": {
       "status": "done",
@@ -27237,8 +27237,8 @@
           "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:55",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260717133722_twitter_com_Mercyvxv_status_2078111823740706923.json": {
       "status": "done",
@@ -27366,8 +27366,8 @@
           "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:47",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260718014351_twitter_com_Mercyvxv_status_2078294646254694581.json": {
       "status": "failed",
@@ -27381,8 +27381,8 @@
           "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260718014517_twitter_com_Mercyvxv_status_2078295009166844030.json": {
       "status": "done",
@@ -27446,8 +27446,8 @@
           "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:47",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260718021828_twitter_com_Mercyvxv_status_2078303357295640765.json": {
       "status": "failed",
@@ -27461,8 +27461,8 @@
           "https://pbs.twimg.com/profile_images/2005945705328959489/htAyuPqR_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:47",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260718023900_twitter_com_Mercyvxv_status_2078308525756076478.json": {
       "status": "done",
@@ -27523,8 +27523,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260718031033_twitter_com_Mercyvxv_status_2078316468291400055.json": {
       "status": "done",
@@ -27752,8 +27752,8 @@
           "https://pbs.twimg.com/profile_images/2077156608086355968/mgDqate__normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:43",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:13",
+      "miss_count": 4
     },
     "20260718045435_twitter_com_Mercyvxv_status_2078342645546635680.json": {
       "status": "done",
@@ -28002,8 +28002,8 @@
           "https://pbs.twimg.com/profile_images/2078324247873933312/0706zdEw_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:48",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260718060648_twitter_com_Mercyvxv_status_2078360821986742518.json": {
       "status": "failed",
@@ -28015,8 +28015,8 @@
           "https://pbs.twimg.com/profile_images/2077662712512053248/WH5g9QeH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:45",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260718062522_twitter_com_Mercyvxv_status_2078365493464105186.json": {
       "status": "done",
@@ -28231,8 +28231,8 @@
           "https://pbs.twimg.com/profile_images/2076751231444234240/3AgcOZI0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:45",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260718084332_twitter_com_Mercyvxv_status_2078400263992570105.json": {
       "status": "done",
@@ -28626,8 +28626,8 @@
           "https://pbs.twimg.com/profile_images/2074057741191274496/zsnHU4US_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:13",
+      "miss_count": 4
     },
     "20260719004019_twitter_com_Mercyvxv_status_2078641045685100956.json": {
       "status": "failed",
@@ -28642,8 +28642,8 @@
           "https://pbs.twimg.com/profile_images/2074057741191274496/zsnHU4US_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:13",
+      "miss_count": 4
     },
     "20260719004800_twitter_com_Mercyvxv_status_2078642979452133666.json": {
       "status": "done",
@@ -28673,8 +28673,8 @@
           "https://pbs.twimg.com/profile_images/2078044988307595264/nRv5N80d_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:00",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260719012015_twitter_com_Mercyvxv_status_2078651098341179738.json": {
       "status": "done",
@@ -28867,8 +28867,8 @@
           "https://pbs.twimg.com/profile_images/2068843512553172992/IpsRwIst_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:14",
+      "miss_count": 4
     },
     "20260719033344_twitter_com_Mercyvxv_status_2078684690467410137.json": {
       "status": "done",
@@ -28940,8 +28940,8 @@
           "https://pbs.twimg.com/profile_images/2077841548738437120/PYSB99eU_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260719035231_twitter_com_Mercyvxv_status_2078689417477370175.json": {
       "status": "done",
@@ -29176,8 +29176,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:53",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260719060750_twitter_com_Mercyvxv_status_2078723467202154890.json": {
       "status": "done",
@@ -29203,8 +29203,8 @@
           "https://pbs.twimg.com/profile_images/1963529510575640576/es-VcWIY_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260719062527_twitter_com_Mercyvxv_status_2078727902602858921.json": {
       "status": "done",
@@ -29268,8 +29268,8 @@
           "https://pbs.twimg.com/profile_images/2072193453870448640/9IU0775T_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260719065412_twitter_com_Mercyvxv_status_2078735135751696787.json": {
       "status": "done",
@@ -29349,8 +29349,8 @@
           "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:50",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260719081539_twitter_com_Mercyvxv_status_2078755634166771769.json": {
       "status": "done",
@@ -29403,8 +29403,8 @@
           "https://pbs.twimg.com/profile_images/2074554763740676096/fXUvNl7m_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260719085044_twitter_com_Mercyvxv_status_2078764463004742043.json": {
       "status": "done",
@@ -29446,8 +29446,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260719091355_twitter_com_Mercyvxv_status_2078770298695098781.json": {
       "status": "failed",
@@ -29461,8 +29461,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260719093227_twitter_com_Mercyvxv_status_2078774961985171923.json": {
       "status": "done",
@@ -29512,8 +29512,8 @@
           "https://pbs.twimg.com/profile_images/1566888994599624705/5AUcfaIL_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:46",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260719100558_twitter_com_Mercyvxv_status_2078783397116408246.json": {
       "status": "done",
@@ -29720,8 +29720,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:50",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260720012447_twitter_com_Mercyvxv_status_2079014625132327069.json": {
       "status": "done",
@@ -29772,8 +29772,8 @@
           "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:50",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260720021120_twitter_com_Mercyvxv_status_2079026338078532007.json": {
       "status": "done",
@@ -29801,8 +29801,8 @@
           "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:50",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260720025037_twitter_com_Mercyvxv_status_2079036227148542181.json": {
       "status": "done",
@@ -29902,8 +29902,8 @@
           "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:50",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260720034821_twitter_com_Mercyvxv_status_2079050753034039646.json": {
       "status": "done",
@@ -30025,8 +30025,8 @@
           "https://pbs.twimg.com/profile_images/2069981304528265216/T45W7wQw_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:50",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260720055237_twitter_com_Mercyvxv_status_2079082027987706031.json": {
       "status": "done",
@@ -30076,8 +30076,8 @@
           "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:50",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260720071800_twitter_com_Mercyvxv_status_2079103515415425180.json": {
       "status": "done",
@@ -30112,8 +30112,8 @@
           "https://pbs.twimg.com/profile_images/2078850515287547904/55F6unut_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:47",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260720080417_twitter_com_Mercyvxv_status_2079115161928122837.json": {
       "status": "done",
@@ -30463,8 +30463,8 @@
           "https://pbs.twimg.com/profile_images/1812096532574822401/2qj18fxB_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:50",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260721003634_twitter_com_Mercyvxv_status_2079364880822640680.json": {
       "status": "done",
@@ -30501,8 +30501,8 @@
           "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:51",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260721010017_twitter_com_Mercyvxv_status_2079370845454279021.json": {
       "status": "done",
@@ -30683,8 +30683,8 @@
           "https://pbs.twimg.com/profile_images/2023258759754080256/8WJDUScr_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:47",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260721021057_twitter_com_Mercyvxv_status_2079388631186493853.json": {
       "status": "done",
@@ -30723,8 +30723,8 @@
           "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png"
         ]
       },
-      "last_updated": "2026-10-22T07:30:51",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260721023932_twitter_com_Mercyvxv_status_2079395823117545542.json": {
       "status": "done",
@@ -30801,8 +30801,8 @@
           "https://pbs.twimg.com/profile_images/2079389789346734080/uhke3h8-_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:47",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260721030143_twitter_com_Mercyvxv_status_2079401407493575046.json": {
       "status": "failed",
@@ -30815,8 +30815,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:50",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260721030953_twitter_com_Mercyvxv_status_2079403463717560531.json": {
       "status": "done",
@@ -30912,8 +30912,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:48",
-      "miss_count": 4
+      "last_updated": "2026-10-22T07:40:13",
+      "miss_count": 5
     },
     "20260721045820_twitter_com_Mercyvxv_status_2079430753780420698.json": {
       "status": "done",
@@ -30951,8 +30951,8 @@
           "https://pbs.twimg.com/profile_images/2079389789346734080/uhke3h8-_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:51",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260721052356_twitter_com_Mercyvxv_status_2079437195392455146.json": {
       "status": "done",
@@ -31105,8 +31105,8 @@
           "https://pbs.twimg.com/profile_images/2074554763740676096/fXUvNl7m_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:49",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260721075407_twitter_com_Mercyvxv_status_2079474990492365285.json": {
       "status": "done",
@@ -31152,8 +31152,8 @@
           "https://pbs.twimg.com/profile_images/2074554763740676096/fXUvNl7m_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:49",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260721083130_twitter_com_Mercyvxv_status_2079484401151557855.json": {
       "status": "done",
@@ -31237,8 +31237,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:51",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260721090026_twitter_com_Mercyvxv_status_2079491679615414415.json": {
       "status": "done",
@@ -31326,8 +31326,8 @@
           "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:55",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260721092233_twitter_com_Mercyvxv_status_2079497247528784057.json": {
       "status": "done",
@@ -31791,8 +31791,8 @@
           "https://pbs.twimg.com/profile_images/2074554763740676096/fXUvNl7m_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:50",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260721130727_twitter_com_Mercyvxv_status_2079553844690964501.json": {
       "status": "done",
@@ -31818,8 +31818,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:53",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260721133816_twitter_com_Mercyvxv_status_2079561600151990292.json": {
       "status": "done",
@@ -31920,8 +31920,8 @@
           "https://pbs.twimg.com/profile_images/2077346029083750400/Bda5bvbQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:53",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260721143748_twitter_com_Mercyvxv_status_2079576581966836207.json": {
       "status": "done",
@@ -32111,8 +32111,8 @@
           "https://pbs.twimg.com/profile_images/2079175354380644352/-xJTXYXw_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:50",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260722000407_twitter_com_Mercyvxv_status_2079719098439921887.json": {
       "status": "done",
@@ -32172,8 +32172,8 @@
           "https://pbs.twimg.com/profile_images/2074856314472435712/YZhPtE5l_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:50",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260722000814_twitter_com_Mercyvxv_status_2079720134735024596.json": {
       "status": "done",
@@ -32326,8 +32326,8 @@
           "https://pbs.twimg.com/profile_images/2074454790810238976/_o3piX2K_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260722013258_twitter_com_Mercyvxv_status_2079741458656166148.json": {
       "status": "done",
@@ -32402,8 +32402,8 @@
           "https://pbs.twimg.com/profile_images/2079462280677203968/LyxM7-f2_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260722021412_twitter_com_Mercyvxv_status_2079751837419454906.json": {
       "status": "done",
@@ -32545,8 +32545,8 @@
           "https://pbs.twimg.com/profile_images/2078251925842313216/FlDU_PLF_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260722033929_twitter_com_Mercyvxv_status_2079773300394475861.json": {
       "status": "done",
@@ -32664,8 +32664,8 @@
           "https://pbs.twimg.com/profile_images/2078476911836086272/XWUEOnTo_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:03",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260722045826_twitter_com_Mercyvxv_status_2079793165624910302.json": {
       "status": "done",
@@ -32784,8 +32784,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260722072841_twitter_com_Mercyvxv_status_2079830979045425482.json": {
       "status": "done",
@@ -32810,8 +32810,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260722073008_twitter_com_Mercyvxv_status_2079831342934839691.json": {
       "status": "failed",
@@ -32824,8 +32824,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260722073407_twitter_com_Mercyvxv_status_2079832348213092738.json": {
       "status": "done",
@@ -32863,8 +32863,8 @@
           "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260722083248_twitter_com_Mercyvxv_status_2079847114595766534.json": {
       "status": "done",
@@ -32899,8 +32899,8 @@
           "https://pbs.twimg.com/profile_images/2079175354380644352/-xJTXYXw_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:50",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260722090148_twitter_com_Mercyvxv_status_2079854412298932243.json": {
       "status": "done",
@@ -32957,8 +32957,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260722094220_twitter_com_Mercyvxv_status_2079864612695244932.json": {
       "status": "done",
@@ -33356,8 +33356,8 @@
           "https://pbs.twimg.com/profile_images/2079859136549023744/8fpTbvnT_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:50",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260722230008_twitter_com_Mercyvxv_status_2080065385056104809.json": {
       "status": "done",
@@ -33590,8 +33590,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260723050224_twitter_com_Mercyvxv_status_2080156554037498014.json": {
       "status": "failed",
@@ -33604,8 +33604,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260723050325_twitter_com_Mercyvxv_status_2080156808497533102.json": {
       "status": "done",
@@ -33702,8 +33702,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260723061507_twitter_com_Mercyvxv_status_2080174851810349371.json": {
       "status": "done",
@@ -33762,8 +33762,8 @@
           "https://pbs.twimg.com/profile_images/2078119325601308672/Y0mizB6x_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:51",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260723072323_twitter_com_Mercyvxv_status_2080192034770690382.json": {
       "status": "done",
@@ -33825,8 +33825,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260723082043_twitter_com_Mercyvxv_status_2080206461234507871.json": {
       "status": "done",
@@ -34170,8 +34170,8 @@
           "https://pbs.twimg.com/profile_images/2079990329625964544/vcwGHz-m_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:51",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260723123513_twitter_com_Mercyvxv_status_2080270506864050483.json": {
       "status": "done",
@@ -34235,8 +34235,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260723131031_twitter_com_Mercyvxv_status_2080279391213613411.json": {
       "status": "done",
@@ -34442,8 +34442,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:55",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260723234454_twitter_com_Mercyvxv_status_2080439039220736266.json": {
       "status": "done",
@@ -34470,8 +34470,8 @@
           "https://pbs.twimg.com/profile_images/2079816271148023808/1pDQllIf_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:51",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:13",
+      "miss_count": 4
     },
     "20260723234541_twitter_com_Mercyvxv_status_2080439236592046462.json": {
       "status": "done",
@@ -34507,8 +34507,8 @@
           "https://pbs.twimg.com/profile_images/2074554763740676096/fXUvNl7m_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:51",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260723235013_twitter_com_Mercyvxv_status_2080440379162464395.json": {
       "status": "done",
@@ -34557,8 +34557,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:55",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260724001532_twitter_com_Mercyvxv_status_2080446749177704492.json": {
       "status": "done",
@@ -34585,8 +34585,8 @@
           "https://pbs.twimg.com/profile_images/2063125534419390464/fsxGt9fI_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:53",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260724002142_twitter_com_Mercyvxv_status_2080448300139020323.json": {
       "status": "done",
@@ -34849,8 +34849,8 @@
           "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:56",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260724012841_twitter_com_Mercyvxv_status_2080465160024838248.json": {
       "status": "done",
@@ -35048,8 +35048,8 @@
           "https://pbs.twimg.com/profile_images/2058189035542372352/6mVkFU1W_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:56",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260724031951_twitter_com_Mercyvxv_status_2080493135491481748.json": {
       "status": "done",
@@ -35279,8 +35279,8 @@
           "https://pbs.twimg.com/profile_images/1823995534987943936/20q2mxDH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:56",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260724054809_twitter_com_Mercyvxv_status_2080530453677920507.json": {
       "status": "done",
@@ -35399,8 +35399,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:57",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260724132811_twitter_com_Mercyvxv_status_2080646224756330716.json": {
       "status": "done",
@@ -35439,8 +35439,8 @@
           "https://pbs.twimg.com/profile_images/2077756797981765633/L_EmY597_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:13",
+      "miss_count": 4
     },
     "20260725000245_twitter_com_Mercyvxv_status_2080805919429136558.json": {
       "status": "done",
@@ -35500,8 +35500,8 @@
           "https://pbs.twimg.com/profile_images/2079859136549023744/8fpTbvnT_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260725000701_twitter_com_Mercyvxv_status_2080806992130785352.json": {
       "status": "done",
@@ -35573,8 +35573,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:57",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260725005108_twitter_com_Mercyvxv_status_2080818095803990205.json": {
       "status": "done",
@@ -35658,8 +35658,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:57",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260725014111_twitter_com_Mercyvxv_status_2080830691391180822.json": {
       "status": "done",
@@ -35955,8 +35955,8 @@
           "https://pbs.twimg.com/profile_images/2080866255561740288/qBaQ_Ihw_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260725042535_twitter_com_Mercyvxv_status_2080872065683673193.json": {
       "status": "done",
@@ -36273,8 +36273,8 @@
           "https://pbs.twimg.com/profile_images/2079859136549023744/8fpTbvnT_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260725070526_twitter_com_Mercyvxv_status_2080912293798523132.json": {
       "status": "failed",
@@ -36286,8 +36286,8 @@
           "https://pbs.twimg.com/profile_images/2079859136549023744/8fpTbvnT_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260725070617_twitter_com_Mercyvxv_status_2080912505120121067.json": {
       "status": "done",
@@ -36368,8 +36368,8 @@
           "https://pbs.twimg.com/profile_images/2079859136549023744/8fpTbvnT_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260725073001_twitter_com_Mercyvxv_status_2080918477075107988.json": {
       "status": "done",
@@ -36625,8 +36625,8 @@
           "https://pbs.twimg.com/profile_images/1742761575386103808/DbiAJTKu_normal.png"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260725100011_twitter_com_Mercyvxv_status_2080956271113756692.json": {
       "status": "done",
@@ -36741,8 +36741,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:57",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260725110114_twitter_com_Mercyvxv_status_2080971632651452530.json": {
       "status": "done",
@@ -36767,8 +36767,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:57",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260725110628_twitter_com_Mercyvxv_status_2080972948719181839.json": {
       "status": "done",
@@ -36880,8 +36880,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:01",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260725125344_twitter_com_Mercyvxv_status_2080999943205224829.json": {
       "status": "failed",
@@ -36895,8 +36895,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:01",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260725125652_twitter_com_Mercyvxv_status_2081000731151319532.json": {
       "status": "done",
@@ -37016,8 +37016,8 @@
           "https://pbs.twimg.com/profile_images/2075646757325930496/b-MIUwIC_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260725222122_twitter_com_Mercyvxv_status_2081142793901400228.json": {
       "status": "done",
@@ -37065,8 +37065,8 @@
           "https://pbs.twimg.com/profile_images/2073144675477913600/su9lTQkC_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:54",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260725222412_twitter_com_Mercyvxv_status_2081143507948085714.json": {
       "status": "done",
@@ -37473,8 +37473,8 @@
           "https://pbs.twimg.com/profile_images/2078476911836086272/XWUEOnTo_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:01",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260726065942_twitter_com_Mercyvxv_status_2081273238815191075.json": {
       "status": "done",
@@ -37699,8 +37699,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:02",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260726090939_twitter_com_Mercyvxv_status_2081305938544509170.json": {
       "status": "done",
@@ -37765,8 +37765,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:58",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260726095311_twitter_com_Mercyvxv_status_2081316893726855200.json": {
       "status": "done",
@@ -37792,8 +37792,8 @@
           "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:58",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260726095647_twitter_com_Mercyvxv_status_2081317799449051646.json": {
       "status": "failed",
@@ -37806,8 +37806,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:58",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260726095917_twitter_com_Mercyvxv_status_2081318431991964139.json": {
       "status": "done",
@@ -37845,8 +37845,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:01",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260726104525_twitter_com_Mercyvxv_status_2081330040688836863.json": {
       "status": "done",
@@ -37886,8 +37886,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:02",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260726113755_twitter_com_Mercyvxv_status_2081343250959683748.json": {
       "status": "done",
@@ -38078,8 +38078,8 @@
           "https://pbs.twimg.com/profile_images/2080517583124525057/3yWmOsr7_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:55",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260727004643_twitter_com_Mercyvxv_status_2081541762431193239.json": {
       "status": "done",
@@ -38242,8 +38242,8 @@
           "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:01",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260727022604_twitter_com_Mercyvxv_status_2081566764312482044.json": {
       "status": "failed",
@@ -38259,8 +38259,8 @@
           "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:02",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260727022904_twitter_com_Mercyvxv_status_2081567515743080468.json": {
       "status": "done",
@@ -38286,8 +38286,8 @@
           "https://pbs.twimg.com/profile_images/2072347563806912512/DRTPLYd8_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:58",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260727023433_twitter_com_Mercyvxv_status_2081568899456475488.json": {
       "status": "done",
@@ -38327,8 +38327,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:58",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260727030047_twitter_com_Mercyvxv_status_2081575497570676937.json": {
       "status": "done",
@@ -38390,8 +38390,8 @@
           "https://pbs.twimg.com/profile_images/2080001285839806464/-mT7_ARA_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:55",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260727032816_twitter_com_Mercyvxv_status_2081582417287266563.json": {
       "status": "done",
@@ -38539,8 +38539,8 @@
           "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:58",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260727043158_twitter_com_Mercyvxv_status_2081598446323318942.json": {
       "status": "done",
@@ -38708,8 +38708,8 @@
           "https://pbs.twimg.com/profile_images/2076258070020386816/VU6lCfuE_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:58",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260727052744_twitter_com_Mercyvxv_status_2081612482054172746.json": {
       "status": "done",
@@ -38869,8 +38869,8 @@
           "https://pbs.twimg.com/profile_images/2078745039325528064/YIl48N5V_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:56",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260727055944_twitter_com_Mercyvxv_status_2081620533851079131.json": {
       "status": "done",
@@ -38997,8 +38997,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:02",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260727071648_twitter_com_Mercyvxv_status_2081639929457893541.json": {
       "status": "failed",
@@ -39012,8 +39012,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:02",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260727072053_twitter_com_Mercyvxv_status_2081640955854385554.json": {
       "status": "done",
@@ -39075,8 +39075,8 @@
           "https://pbs.twimg.com/profile_images/2081089932177670144/WSa9W_k1_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:59",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260727072758_twitter_com_Mercyvxv_status_2081642736281948476.json": {
       "status": "done",
@@ -39124,8 +39124,8 @@
           "https://pbs.twimg.com/profile_images/2078745039325528064/YIl48N5V_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:57",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260727073911_twitter_com_Mercyvxv_status_2081645562479419463.json": {
       "status": "failed",
@@ -39137,8 +39137,8 @@
           "https://pbs.twimg.com/profile_images/2078745039325528064/YIl48N5V_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:57",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260727074347_twitter_com_Mercyvxv_status_2081646718442258924.json": {
       "status": "done",
@@ -39250,8 +39250,8 @@
           "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:00",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260727085639_twitter_com_Mercyvxv_status_2081665056736248312.json": {
       "status": "done",
@@ -39410,8 +39410,8 @@
           "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:00",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260727102439_twitter_com_Mercyvxv_status_2081687201038094400.json": {
       "status": "failed",
@@ -39423,8 +39423,8 @@
           "https://pbs.twimg.com/profile_images/2081682560803803136/ntPVMLKP_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:30:57",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260727102448_twitter_com_Mercyvxv_status_2081687238031876484.json": {
       "status": "done",
@@ -39474,8 +39474,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:03",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260727111431_twitter_com_Mercyvxv_status_2081699750005654008.json": {
       "status": "failed",
@@ -39488,8 +39488,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:01",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260727111459_twitter_com_Mercyvxv_status_2081699868867969367.json": {
       "status": "done",
@@ -39563,8 +39563,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:04",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260727115511_twitter_com_Mercyvxv_status_2081709985059541454.json": {
       "status": "done",
@@ -39696,8 +39696,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:02",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260727202506_twitter_com_Mercyvxv_status_2081838308859301928.json": {
       "status": "done",
@@ -40230,8 +40230,8 @@
           "https://pbs.twimg.com/profile_images/1975479370476363779/b9hRy7Qe_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:02",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260728000656_twitter_com_Mercyvxv_status_2081894136878440610.json": {
       "status": "done",
@@ -40517,8 +40517,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:02",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260728015927_twitter_com_Mercyvxv_status_2081922453270675902.json": {
       "status": "done",
@@ -40544,8 +40544,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:05",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260728020233_twitter_com_Mercyvxv_status_2081923233528561899.json": {
       "status": "done",
@@ -40726,8 +40726,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:02",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260728034857_twitter_com_Mercyvxv_status_2081950007754948978.json": {
       "status": "failed",
@@ -40740,8 +40740,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:02",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260728035148_twitter_com_Mercyvxv_status_2081950727493292459.json": {
       "status": "failed",
@@ -40754,8 +40754,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:03",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260728035207_twitter_com_Mercyvxv_status_2081950803573830082.json": {
       "status": "failed",
@@ -40768,8 +40768,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:03",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260728035450_twitter_com_Mercyvxv_status_2081951487320887400.json": {
       "status": "done",
@@ -40856,8 +40856,8 @@
           "https://pbs.twimg.com/profile_images/2081030070030991360/bOh588dY_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:06",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260728041209_twitter_com_Mercyvxv_status_2081955847094391027.json": {
       "status": "failed",
@@ -40872,8 +40872,8 @@
           "https://pbs.twimg.com/profile_images/2081030070030991360/bOh588dY_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:06",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260728041457_twitter_com_Mercyvxv_status_2081956553889124390.json": {
       "status": "done",
@@ -40984,8 +40984,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:04",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260728044046_twitter_com_Mercyvxv_status_2081963049716756929.json": {
       "status": "done",
@@ -41012,8 +41012,8 @@
           "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:04",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260728045948_twitter_com_Mercyvxv_status_2081967837175074991.json": {
       "status": "failed",
@@ -41027,8 +41027,8 @@
           "https://pbs.twimg.com/profile_images/2078476911836086272/XWUEOnTo_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:01",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:13",
+      "miss_count": 4
     },
     "20260728050552_twitter_com_Mercyvxv_status_2081969363582964119.json": {
       "status": "done",
@@ -41145,8 +41145,8 @@
           "https://pbs.twimg.com/profile_images/2081345981879382017/r3OoJnGy_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:01",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260728061459_twitter_com_Mercyvxv_status_2081986757340659761.json": {
       "status": "failed",
@@ -41159,8 +41159,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:04",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260728062114_twitter_com_Mercyvxv_status_2081988332981211152.json": {
       "status": "failed",
@@ -41172,8 +41172,8 @@
           "https://pbs.twimg.com/profile_images/2081978628598874112/Ea8DzvPg_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:01",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260728062120_twitter_com_Mercyvxv_status_2081988357400453248.json": {
       "status": "done",
@@ -41337,8 +41337,8 @@
           "https://pbs.twimg.com/profile_images/2078476911836086272/XWUEOnTo_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:05",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260728091116_twitter_com_Mercyvxv_status_2082031122679218189.json": {
       "status": "done",
@@ -41484,8 +41484,8 @@
           "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:05",
-      "miss_count": 5
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 6
     },
     "20260728094526_twitter_com_Mercyvxv_status_2082039718737531105.json": {
       "status": "done",
@@ -41551,8 +41551,8 @@
           "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:05",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260728095139_twitter_com_Mercyvxv_status_2082041287214354566.json": {
       "status": "done",
@@ -41652,8 +41652,8 @@
           "https://pbs.twimg.com/profile_images/2078745039325528064/YIl48N5V_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:02",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260728101830_twitter_com_Mercyvxv_status_2082048043806032139.json": {
       "status": "done",
@@ -41791,8 +41791,8 @@
           "https://pbs.twimg.com/profile_images/2078476911836086272/XWUEOnTo_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:05",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260728103702_twitter_com_Mercyvxv_status_2082052705284219225.json": {
       "status": "done",
@@ -41996,8 +41996,8 @@
           "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:05",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260728111857_twitter_com_Mercyvxv_status_2082063256915693906.json": {
       "status": "done",
@@ -42163,8 +42163,8 @@
           "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:05",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260728121151_twitter_com_Mercyvxv_status_2082076565605892334.json": {
       "status": "done",
@@ -42565,8 +42565,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:08",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     },
     "20260728110042_twitter_com_Mercyvxv_status_2082058660105339366.json": {
       "status": "failed",
@@ -42580,8 +42580,8 @@
           "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-22T07:31:05",
-      "miss_count": 3
+      "last_updated": "2026-10-22T07:40:11",
+      "miss_count": 4
     }
   }
 }
